@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586324534
+<REAPER_PROJECT 0.1 "6.08/x64" 1586364891
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -15,8 +15,8 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   CURSOR 0
-  ZOOM 100 0 0
-  VZOOMEX 6 0
+  ZOOM 12.85911208940565 1358 0
+  VZOOMEX 15 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -75,12 +75,288 @@
     DEFSHAPE 0 -1 -1
   >
   <TEMPOENVEX
-    ACT 1 -1
+    ACT 0 -1
     VIS 1 0 1
     LANEHEIGHT 0 0
     ARM 0
     DEFSHAPE 1 -1 -1
   >
+  MARKER 2 12 "Begin parallel" 0 0 1 R {49E0B304-7242-4D85-9ABE-E994299A9161}
+  MARKER 1 29 "Acosts Roger" 0 0 1 R {52D4708F-3A41-45F8-B9D9-276112A914CB}
   <PROJBAY
+  >
+  <TRACK {8D89F084-8247-4DA3-95B1-F5490ACF3D08}
+    NAME "❌ 1-6_HANSEL (Brian - Take 2)_TREATED BUT BAD MIC TECHNIQUE"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8D89F084-8247-4DA3-95B1-F5490ACF3D08}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 27 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 12
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {A9B72A6D-E6C5-4D07-BDF9-EDED95B111EE}
+      IID 1
+      NAME "❌ 1-6_HANSEL (Brian - Take 2)_TREATED BUT BAD MIC TECHNIQUE.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {78B55ABD-0499-420A-898A-5AB385A0B515}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 1-6_HANSEL (Brian - Take 2)_TREATED BUT BAD MIC TECHNIQUE.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 14
+      SNAPOFFS 0
+      LENGTH 19
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {17A894AA-2C84-4748-BDAF-C0B7F036BB2B}
+      IID 6
+      NAME "❌ 1-6_HANSEL (Brian - Take 2)_TREATED BUT BAD MIC TECHNIQUE.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 12
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {387AFE27-C353-4BC8-AAC4-AC8D9962238A}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 1-6_HANSEL (Brian - Take 2)_TREATED BUT BAD MIC TECHNIQUE.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 41
+      SNAPOFFS 0
+      LENGTH 28
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {839D756E-F994-4C9D-9331-595ACB6F2A91}
+      IID 3
+      NAME "❌ 1-6_HANSEL (Brian - Take 2)_TREATED BUT BAD MIC TECHNIQUE.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 31
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AC23BA97-C744-4431-BE1C-2A767F6BBFF0}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 1-6_HANSEL (Brian - Take 2)_TREATED BUT BAD MIC TECHNIQUE.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 85
+      SNAPOFFS 0
+      LENGTH 10
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {27E85976-0B8A-4B4E-B9E2-0884F2EC0ABD}
+      IID 10
+      NAME "❌ 1-6_HANSEL (Brian - Take 2)_TREATED BUT BAD MIC TECHNIQUE.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 59
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {184A2D60-8B1C-4B31-85EB-7F0DB2D180EB}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 1-6_HANSEL (Brian - Take 2)_TREATED BUT BAD MIC TECHNIQUE.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 106.80267573696148
+      SNAPOFFS 0
+      LENGTH 27.81083900226758
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5BCEA254-2749-451E-AB76-7807A7BC8DFF}
+      IID 12
+      NAME "❌ 1-6_HANSEL (Brian - Take 2)_TREATED BUT BAD MIC TECHNIQUE.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 69
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B749245A-DBE2-4A7B-BF02-6FBCE87E0256}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 1-6_HANSEL (Brian - Take 2)_TREATED BUT BAD MIC TECHNIQUE.mp3" 1
+      >
+    >
+  >
+  <TRACK {9244E4C6-16C4-4702-A187-878D45B04270}
+    NAME "1-6_ROGER (Carl - New Takes merged)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9244E4C6-16C4-4702-A187-878D45B04270}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 0 0 0 1
+      PT 28.85113664 0.97723722 0
+    >
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 27 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 -1 0
+    >
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 17
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {ADB06D6E-BA2C-4492-B5A4-962A641953ED}
+      IID 4
+      NAME "1-6_ROGER (Carl - New Takes merged).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 27
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1714D35F-9A23-4973-90BF-C05AB28722CE}
+      <SOURCE MP3
+        FILE "voiceovers\1-6_ROGER (Carl - New Takes merged).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 33
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4AE216B0-9863-465C-9BAF-43A15D19E387}
+      IID 7
+      NAME "1-6_ROGER (Carl - New Takes merged).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 55
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {34C56A60-7E81-44A0-86BB-1EE353213B58}
+      <SOURCE MP3
+        FILE "voiceovers\1-6_ROGER (Carl - New Takes merged).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 69
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5CF70883-0D7F-4CB7-A529-88D4C987F6F7}
+      IID 9
+      NAME "1-6_ROGER (Carl - New Takes merged).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 63
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3A4ED5FB-61D9-4021-AFB5-4E176E1F3661}
+      <SOURCE MP3
+        FILE "voiceovers\1-6_ROGER (Carl - New Takes merged).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 95
+      SNAPOFFS 0
+      LENGTH 11.80267573696148
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F5CE1201-65D6-4C57-AC34-338250CB66DC}
+      IID 11
+      NAME "1-6_ROGER (Carl - New Takes merged).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 79
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {775F81FB-7EF1-4B11-90AB-137AE2308CFD}
+      <SOURCE MP3
+        FILE "voiceovers\1-6_ROGER (Carl - New Takes merged).mp3" 1
+      >
+    >
   >
 >
