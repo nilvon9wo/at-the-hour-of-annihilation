@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586324534
+<REAPER_PROJECT 0.1 "6.08/x64" 1586378212
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -55,8 +55,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 0 0
-  SELECTION2 0 0
+  SELECTION 76.5 0
+  SELECTION2 76.5 0
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -75,12 +75,346 @@
     DEFSHAPE 0 -1 -1
   >
   <TEMPOENVEX
-    ACT 1 -1
+    ACT 0 -1
     VIS 1 0 1
     LANEHEIGHT 0 0
     ARM 0
     DEFSHAPE 1 -1 -1
   >
   <PROJBAY
+  >
+  <TRACK {E984E28D-5E3E-4BA7-A295-F3C337D22DAF}
+    NAME "2-3_SOPHIA (Adriana)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E984E28D-5E3E-4BA7-A295-F3C337D22DAF}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+    >
+    <ITEM
+      POSITION 8
+      SNAPOFFS 0
+      LENGTH 18.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F6A177FB-D3F5-4275-BB5F-609688D8436C}
+      IID 2
+      NAME "2-3_SOPHIA (Adriana).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {188E2D70-FDC0-4721-9D01-847940C6CE07}
+      <SOURCE MP3
+        FILE "voiceovers\2-3_SOPHIA (Adriana).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 28
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AE6EEE70-4CC1-4133-8AA4-185EA7273E24}
+      IID 7
+      NAME "2-3_SOPHIA (Adriana).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 18.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6C328049-0929-4EA6-9CD7-F90FC43374DD}
+      <SOURCE MP3
+        FILE "voiceovers\2-3_SOPHIA (Adriana).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 34.5
+      SNAPOFFS 0
+      LENGTH 5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CBF4A4E5-791B-4553-A966-7DA8856CBF3A}
+      IID 9
+      NAME "2-3_SOPHIA (Adriana).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 22.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E72F8A08-169C-4139-B21A-A0410BDEBEBE}
+      <SOURCE MP3
+        FILE "voiceovers\2-3_SOPHIA (Adriana).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 41
+      SNAPOFFS 0
+      LENGTH 2.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9013F35A-33B3-45B8-996F-8137B07312C3}
+      IID 11
+      NAME "2-3_SOPHIA (Adriana).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 27.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5BC58323-BDB6-49A6-B8DB-1BBF9FA657FA}
+      <SOURCE MP3
+        FILE "voiceovers\2-3_SOPHIA (Adriana).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 46
+      SNAPOFFS 0
+      LENGTH 7.72185941043084
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7CA2EE07-0AA2-4B79-B203-2DEB679E2FB0}
+      IID 13
+      NAME "2-3_SOPHIA (Adriana).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 30
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1250B205-A1E0-4E65-8E02-D25BA85C821D}
+      <SOURCE MP3
+        FILE "voiceovers\2-3_SOPHIA (Adriana).mp3" 1
+      >
+    >
+  >
+  <TRACK {F63D488B-2F95-42E4-87D1-73A45CAD5E01}
+    NAME "2-3_ROGER (Carl)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F63D488B-2F95-42E4-87D1-73A45CAD5E01}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      PT -0.0005 1 0
+      PT 0 1 0 0 1
+      PT 0.000001 1 0 0 1
+      PT 76.499999 1 0 0 1
+      PT 76.5005 1 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2F643BEE-E166-4185-8AAD-663B73A741D9}
+      IID 1
+      NAME "2-3_ROGER (Carl).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BBD52777-E3F5-4B18-8046-FF73D1F30730}
+      <SOURCE MP3
+        FILE "voiceovers\2-3_ROGER (Carl).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EF41F71A-F71D-4941-B51F-770768C81067}
+      IID 4
+      NAME "2-3_ROGER (Carl).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 20
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {205226A1-14CD-4922-B348-0E0F435266A9}
+      <SOURCE MP3
+        FILE "voiceovers\2-3_ROGER (Carl).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 24.5
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D6541861-4146-4B60-A6A3-345688F94569}
+      IID 6
+      NAME "2-3_ROGER (Carl).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 52.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0A139BA7-2086-4A89-A20A-45606BA346F3}
+      <SOURCE MP3
+        FILE "voiceovers\2-3_ROGER (Carl).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 30.5
+      SNAPOFFS 0
+      LENGTH 4.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {16A290EE-658D-40CD-AD12-0E18CDAE8AAD}
+      IID 8
+      NAME "2-3_ROGER (Carl).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 56.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {18773154-8119-44BF-B94D-1455126FD3FE}
+      <SOURCE MP3
+        FILE "voiceovers\2-3_ROGER (Carl).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 38.5
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4AD94CAD-23D1-402E-B638-2E74D924B893}
+      IID 10
+      NAME "2-3_ROGER (Carl).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 61
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {64FCDEA1-F980-4C45-B659-7257B075413B}
+      <SOURCE MP3
+        FILE "voiceovers\2-3_ROGER (Carl).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 43.5
+      SNAPOFFS 0
+      LENGTH 3.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CF1100B3-B0B5-44DA-96F4-C7FA0FAED21F}
+      IID 12
+      NAME "2-3_ROGER (Carl).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 64
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {34ACE4AB-003D-4177-8E3C-7E19A7073058}
+      <SOURCE MP3
+        FILE "voiceovers\2-3_ROGER (Carl).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 52.5
+      SNAPOFFS 0
+      LENGTH 9.40553287981859
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {73FC915F-D371-495A-8227-466E2A4FDC46}
+      IID 14
+      NAME "2-3_ROGER (Carl).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 67.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F2601421-BA86-4FD9-AF36-7C76EBB4D42D}
+      <SOURCE MP3
+        FILE "voiceovers\2-3_ROGER (Carl).mp3" 1
+      >
+    >
   >
 >
