@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586324534
+<REAPER_PROJECT 0.1 "6.08/x64" 1586384969
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -15,8 +15,8 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   CURSOR 0
-  ZOOM 100 0 0
-  VZOOMEX 6 0
+  ZOOM 3.29203992908897 0 0
+  VZOOMEX 9 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -55,8 +55,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 0 0
-  SELECTION2 0 0
+  SELECTION 277 291
+  SELECTION2 277 291
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -75,12 +75,1121 @@
     DEFSHAPE 0 -1 -1
   >
   <TEMPOENVEX
-    ACT 1 -1
+    ACT 0 -1
     VIS 1 0 1
     LANEHEIGHT 0 0
     ARM 0
     DEFSHAPE 1 -1 -1
   >
   <PROJBAY
+  >
+  <TRACK {67A93236-F796-4766-BA8E-9BB48F9E4F73}
+    NAME "2-4_DR. GRAHAM (Alex)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {67A93236-F796-4766-BA8E-9BB48F9E4F73}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 6.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B988A163-90AA-4F07-9CCB-D4C4837AF7EA}
+      IID 3
+      NAME "2-4_DR. GRAHAM (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DBA2045A-47B7-4DE7-8CE4-744D83B4BCEB}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_DR. GRAHAM (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 23.5
+      SNAPOFFS 0
+      LENGTH 3.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {62D49EAE-41FD-4C79-B627-56E7B0008266}
+      IID 7
+      NAME "2-4_DR. GRAHAM (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 6.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1D7E33C4-1025-42AA-BED6-CFFF8C1D95FC}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_DR. GRAHAM (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 32
+      SNAPOFFS 0
+      LENGTH 2.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {95810B37-29C6-4DC9-9A36-84064F0ADC94}
+      IID 11
+      NAME "2-4_DR. GRAHAM (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 10
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9CA8F9BE-CA09-4A5A-B249-86662726A87F}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_DR. GRAHAM (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 43
+      SNAPOFFS 0
+      LENGTH 3.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B00E73AA-87FC-43EE-B6F1-34CE5370C6C1}
+      IID 14
+      NAME "2-4_DR. GRAHAM (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 12.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {10255A3D-0619-4328-A2F2-5B6037BDC122}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_DR. GRAHAM (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 64
+      SNAPOFFS 0
+      LENGTH 3.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8829844C-247D-413A-B827-619499CB264B}
+      IID 18
+      NAME "2-4_DR. GRAHAM (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 16
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {72D9FB9A-DDF2-46DE-8922-4F048BA51C33}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_DR. GRAHAM (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 81
+      SNAPOFFS 0
+      LENGTH 19
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C3D2BB77-5977-4A72-B32C-7486B20E119F}
+      IID 25
+      NAME "2-4_DR. GRAHAM (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 30.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C123CEF5-DF47-4467-B4D7-8D207F1A2A4B}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_DR. GRAHAM (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 115
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0ED5C3CC-9FB5-4AC5-9E09-A39150BC2124}
+      IID 28
+      NAME "2-4_DR. GRAHAM (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 49.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {11572DC6-AA65-4D80-BA92-9FB5B989C12D}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_DR. GRAHAM (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 135.5
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {557C2DFC-F4F3-4F1D-8612-6BBD34FCC4D5}
+      IID 30
+      NAME "2-4_DR. GRAHAM (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 53.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {40E7289A-2A06-4AFF-B7CA-B76AE0A40291}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_DR. GRAHAM (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 153
+      SNAPOFFS 0
+      LENGTH 7
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C5060D4B-EF94-41E3-920C-8C33E81CDE63}
+      IID 32
+      NAME "2-4_DR. GRAHAM (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 59.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {16584120-82A9-43AD-84CA-F37A1D2E10C5}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_DR. GRAHAM (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 179.5
+      SNAPOFFS 0
+      LENGTH 14
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E3A4F0C2-8C25-4F28-B717-817BA9B0D349}
+      IID 35
+      NAME "2-4_DR. GRAHAM (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 66.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F035A7CB-B22E-42AD-97C7-72161FB72E2D}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_DR. GRAHAM (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 290
+      SNAPOFFS 0
+      LENGTH 14
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CA18BC25-F032-49F9-A663-61E93BD293AE}
+      IID 37
+      NAME "2-4_DR. GRAHAM (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 80.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0281E6F7-08A6-4F1A-8640-9083A5A67F51}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_DR. GRAHAM (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 312
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2312631E-DAFB-4D65-9087-9E97C52EC19C}
+      IID 40
+      NAME "2-4_DR. GRAHAM (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 94.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {801E1AF6-C56D-4883-A141-927AACE57013}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_DR. GRAHAM (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 330
+      SNAPOFFS 0
+      LENGTH 10
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {90BB5A54-FE55-459F-9D4D-C4678D75F11F}
+      IID 42
+      NAME "2-4_DR. GRAHAM (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 100.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {482B01DC-FA36-433C-9238-AE2242B68964}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_DR. GRAHAM (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 354.5
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DF110731-2798-432D-8CCA-502FC084248C}
+      IID 47
+      NAME "2-4_DR. GRAHAM (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 110.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {110A608D-4E3E-4AE1-8F9F-435A6F223192}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_DR. GRAHAM (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 431
+      SNAPOFFS 0
+      LENGTH 35
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FB164230-2B38-4CF1-AD57-AF585C92A55E}
+      IID 48
+      NAME "2-4_DR. GRAHAM (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 123.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E2D0FD1B-979F-425C-85C6-3D03CB0261C9}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_DR. GRAHAM (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 502
+      SNAPOFFS 0
+      LENGTH 23.20879818594096
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B7FD560C-FF54-423B-8EE8-1E1B9DEF13E1}
+      IID 53
+      NAME "2-4_DR. GRAHAM (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 158.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9A1A670A-4BBB-4BB8-8B10-DD24E8CEF2CB}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_DR. GRAHAM (Alex).mp3" 1
+      >
+    >
+  >
+  <TRACK {ED26879E-5856-4403-863D-A6145D1A546F}
+    NAME "2-4 KATIE (Emilia)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {ED26879E-5856-4403-863D-A6145D1A546F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 -1 0
+    >
+    <ITEM
+      POSITION 10
+      SNAPOFFS 0
+      LENGTH 8.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FC33DBC6-B54F-4573-8327-6FB57553A9A8}
+      IID 2
+      NAME "2-4 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {63604AC2-1DB9-4EBE-86E9-B92963CD7121}
+      <SOURCE MP3
+        FILE "voiceovers\2-4 KATIE (Emilia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 27
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {25D3D9E2-D332-493A-9AC4-601518A5F758}
+      IID 9
+      NAME "2-4 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 8.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6B68901E-D0D1-4FD2-BDF4-28A9777AE9A1}
+      <SOURCE MP3
+        FILE "voiceovers\2-4 KATIE (Emilia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 67.5
+      SNAPOFFS 0
+      LENGTH 5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {301ECC0D-DAD2-4C3A-A1E7-B527D47870F9}
+      IID 16
+      NAME "2-4 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 10.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C5070F7-D22B-4624-B2D2-4F4C870578F9}
+      <SOURCE MP3
+        FILE "voiceovers\2-4 KATIE (Emilia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 141.5
+      SNAPOFFS 0
+      LENGTH 12.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D6DD2285-967B-4E09-87C3-45CF4BCC9E19}
+      IID 15
+      NAME "2-4 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 15.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C26CA6F9-99DD-4A8E-AE23-B6E2C42EBAB6}
+      <SOURCE MP3
+        FILE "voiceovers\2-4 KATIE (Emilia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 160
+      SNAPOFFS 0
+      LENGTH 20.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {01142EFC-23E8-4110-90FD-08539BE52B40}
+      IID 34
+      NAME "2-4 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 28
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {472770FD-5DB3-448F-94BD-11C521E40589}
+      <SOURCE MP3
+        FILE "voiceovers\2-4 KATIE (Emilia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 215.5
+      SNAPOFFS 0
+      LENGTH 74.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5A86E502-F1F9-4A6B-8DD5-526D186E0499}
+      IID 36
+      NAME "2-4 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 48.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BFD48213-0172-4A6D-95F3-0C97C6C11944}
+      <SOURCE MP3
+        FILE "voiceovers\2-4 KATIE (Emilia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 318
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AA285AE8-1D52-4998-A83A-59C8168B6E12}
+      IID 39
+      NAME "2-4 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 123
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C31B96B6-A2C8-4F07-8BB2-5FA772E638C1}
+      <SOURCE MP3
+        FILE "voiceovers\2-4 KATIE (Emilia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 339.5
+      SNAPOFFS 0
+      LENGTH 15.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {84D9E0FE-1B3C-41BF-B62F-6C18C7C4A201}
+      IID 46
+      NAME "2-4 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 136
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0786B139-C69E-4AB1-9E62-DA35BA67700B}
+      <SOURCE MP3
+        FILE "voiceovers\2-4 KATIE (Emilia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 366
+      SNAPOFFS 0
+      LENGTH 21
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0FE77990-FD6B-4A64-AB32-3CDB394BF8B5}
+      IID 45
+      NAME "2-4 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 151.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {22B43A18-668A-4BB2-B452-921A8953489F}
+      <SOURCE MP3
+        FILE "voiceovers\2-4 KATIE (Emilia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 394
+      SNAPOFFS 0
+      LENGTH 11
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {ABCAE9EB-CBAD-4B46-A6D0-0F2DF5B18693}
+      IID 49
+      NAME "2-4 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 172.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {08AA0C85-9F31-4FAC-BE37-ED8853433296}
+      <SOURCE MP3
+        FILE "voiceovers\2-4 KATIE (Emilia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 492.69723044217687
+      SNAPOFFS 0
+      LENGTH 10.14675736961453
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {814321D6-B981-4F4D-B555-A23915262208}
+      IID 51
+      NAME "2-4 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 183.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {72199FE4-B98E-45CA-B0E4-D5313BA5E966}
+      <SOURCE MP3
+        FILE "voiceovers\2-4 KATIE (Emilia).mp3" 1
+      >
+    >
+  >
+  <TRACK {4AF117D4-DBC9-4E36-B992-711B26D9D808}
+    NAME "2-4_VIKRAM (Ayush)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4AF117D4-DBC9-4E36-B992-711B26D9D808}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7DCD1234-C2D4-4A87-8E60-9BC7E61AA346}
+      IID 4
+      NAME "2-4_VIKRAM (Ayush).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {00812A04-6E4F-4564-A4E6-FF97F1EF7DCF}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_VIKRAM (Ayush).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 18
+      SNAPOFFS 0
+      LENGTH 6.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {225B9EBC-50A4-4039-B58C-46E04CE57471}
+      IID 8
+      NAME "2-4_VIKRAM (Ayush).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A7D0806C-1BAD-4CF2-A8DC-CC559EC24275}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_VIKRAM (Ayush).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 26.5
+      SNAPOFFS 0
+      LENGTH 7
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {456C4710-0D84-45F2-8960-C6D3050C1507}
+      IID 10
+      NAME "2-4_VIKRAM (Ayush).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 11.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E9E62226-75C1-4ECE-957B-3761BD9160E4}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_VIKRAM (Ayush).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 34.5
+      SNAPOFFS 0
+      LENGTH 9
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C7D4580C-729D-4B2E-BB9D-0A24EC12F85D}
+      IID 13
+      NAME "2-4_VIKRAM (Ayush).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 18.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {60705397-7911-4803-ADB4-2423E9AE7C7D}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_VIKRAM (Ayush).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 46
+      SNAPOFFS 0
+      LENGTH 18
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6A350582-B679-4EC0-A47C-5A2196D2BD30}
+      IID 17
+      NAME "2-4_VIKRAM (Ayush).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 27.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {57335011-5D2D-4779-AD8D-E1DAB23369CC}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_VIKRAM (Ayush).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 72.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {997C79C1-FF89-4A46-9C79-6FDB8A9F0280}
+      IID 23
+      NAME "2-4_VIKRAM (Ayush).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 45.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5590F8E8-AE92-41E5-8228-9E63CF35901F}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_VIKRAM (Ayush).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 73.5
+      SNAPOFFS 0
+      LENGTH 8.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {09CD531E-CE8E-4B05-85E5-B863E50294FE}
+      IID 20
+      NAME "2-4_VIKRAM (Ayush).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 46.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C0C616E8-2C2B-49B9-94C0-77BAAAE0420C}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_VIKRAM (Ayush).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 99
+      SNAPOFFS 0
+      LENGTH 17
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B54580C7-9DAC-4ACD-8D3E-4A3A7A4C3854}
+      IID 24
+      NAME "2-4_VIKRAM (Ayush).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 55
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C7C86EB0-0B7A-4EA5-9BFC-9C73F8FE29CA}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_VIKRAM (Ayush).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 119
+      SNAPOFFS 0
+      LENGTH 19
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AA08932E-4F65-4ADE-BAF4-0AA0AF68545C}
+      IID 29
+      NAME "2-4_VIKRAM (Ayush).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 72
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {84B39612-11B2-4B34-AA8A-7B6BD448873E}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_VIKRAM (Ayush).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 138
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D3469748-04F2-456B-9E5D-4227DE02194D}
+      IID 31
+      NAME "2-4_VIKRAM (Ayush).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 91
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {01448484-34FB-49B0-85FD-9E302421CBC7}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_VIKRAM (Ayush).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 193.5
+      SNAPOFFS 0
+      LENGTH 22
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6F1E12E1-64AD-4F85-BD4D-D87213937580}
+      IID 33
+      NAME "2-4_VIKRAM (Ayush).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 91.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BE0421DD-D88E-493E-B945-455C8E6862BA}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_VIKRAM (Ayush).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 304
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AB14B75C-2920-449F-9357-2CCD0083D6F2}
+      IID 38
+      NAME "2-4_VIKRAM (Ayush).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 113.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {21367357-041A-42B3-BC97-54FAC72C5076}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_VIKRAM (Ayush).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 387
+      SNAPOFFS 0
+      LENGTH 7
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {725CD2E1-2EC2-4FBF-A60F-EA70FD2AD91B}
+      IID 41
+      NAME "2-4_VIKRAM (Ayush).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 121.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B753DD44-1091-4EF2-A537-1CBD7085E8A8}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_VIKRAM (Ayush).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 404
+      SNAPOFFS 0
+      LENGTH 28
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {849D5371-0005-40AB-9F43-4F216C6E0A9D}
+      IID 50
+      NAME "2-4_VIKRAM (Ayush).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 128.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8F2B3E6A-7ED7-4E1A-B7D6-E19631214424}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_VIKRAM (Ayush).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 465
+      SNAPOFFS 0
+      LENGTH 26.09295833333334
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2F4D2CDF-8730-4B59-B7AA-B2CAD6AD8689}
+      IID 52
+      NAME "2-4_VIKRAM (Ayush).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 156.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0DB059DB-F4F2-4C03-8F5B-643EEB7087E7}
+      <SOURCE MP3
+        FILE "voiceovers\2-4_VIKRAM (Ayush).mp3" 1
+      >
+    >
+  >
+  <TRACK {556790D5-564B-4E20-B05A-5C7BC93E93FA}
+    NAME "Door Opening"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {556790D5-564B-4E20-B05A-5C7BC93E93FA}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 491
+      SNAPOFFS 0
+      LENGTH 1.17695833333335
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {175E34F3-D6A4-4202-A071-A5EBFD0B60E1}
+      IID 5
+      NAME door-opening.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E74AE966-6C7D-494C-81F7-827667CD8921}
+      <SOURCE MP3
+        FILE "sound-effects\door-opening.mp3" 1
+      >
+    >
+  >
+  <TRACK {75FA78AC-78F7-40A8-BF00-A50D35FAAF6F}
+    NAME "Door Slamming"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {75FA78AC-78F7-40A8-BF00-A50D35FAAF6F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 492.17695833333335
+      SNAPOFFS 0
+      LENGTH 0.52027210884353
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FA3E2EF8-0231-4141-A58F-B45FF0F048B1}
+      IID 6
+      NAME door-slamming.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A0552576-FEDA-4599-9649-04176FA293DC}
+      <SOURCE WAVE
+        FILE "sound-effects\door-slamming.wav"
+      >
+    >
   >
 >
