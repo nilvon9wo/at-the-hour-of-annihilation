@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586324534
+<REAPER_PROJECT 0.1 "6.08/x64" 1586367904
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,9 +14,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 100 0 0
-  VZOOMEX 6 0
+  CURSOR 123
+  ZOOM 8.95768042514985 0 0
+  VZOOMEX 6 2
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -75,12 +75,308 @@
     DEFSHAPE 0 -1 -1
   >
   <TEMPOENVEX
-    ACT 1 -1
+    ACT 0 -1
     VIS 1 0 1
     LANEHEIGHT 0 0
     ARM 0
     DEFSHAPE 1 -1 -1
   >
   <PROJBAY
+  >
+  <TRACK {4890F6D9-5826-4CCE-B201-161F6220A922}
+    NAME "2-1_DENIS (Alex)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4890F6D9-5826-4CCE-B201-161F6220A922}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 1 1.82402168 0
+      PT 34 2 0
+      PT 34.94208156 1 0
+      PT 62.6278203 1 0
+      PT 63.5 2 0
+      PT 68.32125851 2 0
+      PT 69.66089103 1 0
+      PT 126.14872895 1 0
+      PT 127.15345334 2 0
+    >
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+    >
+    <ITEM
+      POSITION 32
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A76DE3CE-1C64-4C35-B2BE-ABDD5EBE8293}
+      IID 1
+      NAME "2-1_DENIS (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {42F7506F-4C3B-46D4-A5AB-E19BB8F7C89A}
+      <SOURCE MP3
+        FILE "voiceovers\2-1_DENIS (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 65
+      SNAPOFFS 0
+      LENGTH 12
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C54A4F92-8A50-4232-8E65-3E2B40E4A45E}
+      IID 12
+      NAME "2-1_DENIS (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 54
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {491D43FB-9FA0-43AB-85E0-13F1EB701403}
+      <SOURCE MP3
+        FILE "voiceovers\2-1_DENIS (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 98
+      SNAPOFFS 0
+      LENGTH 18
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {68A644AA-AF88-4EEC-A187-4194DA614884}
+      IID 8
+      NAME "2-1_DENIS (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 22
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F8A6B5FA-7F42-45B5-B6EA-C701ED7146B1}
+      <SOURCE MP3
+        FILE "voiceovers\2-1_DENIS (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 120
+      SNAPOFFS 0
+      LENGTH 14
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A45C8DCD-E761-4FFD-AD82-A8E362D138C6}
+      IID 10
+      NAME "2-1_DENIS (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 40
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3A76F3D7-E0F1-4A0F-91DA-2AFBF8D947EA}
+      <SOURCE MP3
+        FILE "voiceovers\2-1_DENIS (Alex).mp3" 1
+      >
+    >
+  >
+  <TRACK {71FC6672-1F8C-49E4-8E04-B2DFEBBBE576}
+    NAME "2-1_ROGER (Carl)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {71FC6672-1F8C-49E4-8E04-B2DFEBBBE576}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 34.16062926 1 0
+      PT 36.95153034 1 0
+      PT 38 2 0
+      PT 42.86824064 1 0
+      PT 118 1 0 0 1
+      PT 122 2 0
+    >
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 -1 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 33
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {06364FF7-2933-4BFA-B65C-60FAC2278508}
+      IID 3
+      NAME "2-1_ROGER (Carl).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 24
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C511557C-0A5A-429F-B014-07139802D268}
+      <SOURCE MP3
+        FILE "voiceovers\2-1_ROGER (Carl).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 39
+      SNAPOFFS 0
+      LENGTH 30
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D8033D0E-7CA3-47FF-A57C-8E60453A1CBB}
+      IID 6
+      NAME "2-1_ROGER (Carl).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 65
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F0009028-2E99-4C30-AA85-24A10CC11B88}
+      <SOURCE MP3
+        FILE "voiceovers\2-1_ROGER (Carl).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 76
+      SNAPOFFS 0
+      LENGTH 22
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {11DEB3A9-E265-4CFE-976B-6D5206B66F21}
+      IID 7
+      NAME "2-1_ROGER (Carl).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 95
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DDB8C184-9DA8-48A1-BF32-4732149A8CA3}
+      <SOURCE MP3
+        FILE "voiceovers\2-1_ROGER (Carl).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 116
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {624835F1-BB67-4695-B4F9-990107EF343F}
+      IID 9
+      NAME "2-1_ROGER (Carl).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 117
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F3E24049-2B7E-4681-B85C-88769F377CC8}
+      <SOURCE MP3
+        FILE "voiceovers\2-1_ROGER (Carl).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 134
+      SNAPOFFS 0
+      LENGTH 2.89981859410429
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {96BEA6A4-8845-40A9-B75A-0E3805716BE5}
+      IID 11
+      NAME "2-1_ROGER (Carl).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 121
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B8416678-F7F2-474A-9C05-CAA66DFEDA96}
+      <SOURCE MP3
+        FILE "voiceovers\2-1_ROGER (Carl).mp3" 1
+      >
+    >
   >
 >
