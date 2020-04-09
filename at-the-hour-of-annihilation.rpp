@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586324534
+<REAPER_PROJECT 0.1 "6.08/x64" 1586452612
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 100 0 0
+  CURSOR 3
+  ZOOM 57.87037037037038 0 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -75,12 +75,411 @@
     DEFSHAPE 0 -1 -1
   >
   <TEMPOENVEX
-    ACT 1 -1
+    ACT 0 -1
     VIS 1 0 1
     LANEHEIGHT 0 0
     ARM 0
     DEFSHAPE 1 -1 -1
   >
   <PROJBAY
+  >
+  <TRACK {02BE2CCA-A384-473B-8CEB-C869EF6D7634}
+    NAME "3-8_DR. GRAHAM (Alex)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {02BE2CCA-A384-473B-8CEB-C869EF6D7634}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 2.4995 1 0
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 14.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A744D5A6-8B62-4848-836B-B43C538ECA6C}
+      IID 2
+      NAME "3-8_DR. GRAHAM (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B87E89EC-AD9B-4AC2-A9B0-B61927809CE6}
+      <SOURCE MP3
+        FILE "voiceovers\3-8_DR. GRAHAM (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 22.5
+      SNAPOFFS 0
+      LENGTH 20.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {055D013A-6505-4EB4-86DA-D990F371BF10}
+      IID 5
+      NAME "3-8_DR. GRAHAM (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 14.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C8DB9F00-3E3C-4E97-BFDB-28C580A3B090}
+      <SOURCE MP3
+        FILE "voiceovers\3-8_DR. GRAHAM (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 49
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {88E2DE4D-314C-45B3-926D-E4FA207D20A0}
+      IID 6
+      NAME "3-8_DR. GRAHAM (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 35
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3671F029-9A05-4C67-B2A5-EC486227556D}
+      <SOURCE MP3
+        FILE "voiceovers\3-8_DR. GRAHAM (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 52.5
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8461E5EE-844E-44AB-A2A5-A48202AF30E7}
+      IID 8
+      NAME "3-8_DR. GRAHAM (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 38
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {72E1D981-42B0-42E2-9A61-68B3E6BAA1AB}
+      <SOURCE MP3
+        FILE "voiceovers\3-8_DR. GRAHAM (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 81
+      SNAPOFFS 0
+      LENGTH 14
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {911A077E-B0EA-4329-9973-A94E0D670E62}
+      IID 10
+      NAME "3-8_DR. GRAHAM (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 42
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CE548F8B-7F65-41D9-A911-5ADDB7074730}
+      <SOURCE MP3
+        FILE "voiceovers\3-8_DR. GRAHAM (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 98
+      SNAPOFFS 0
+      LENGTH 125.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7F31D42E-3385-40AA-AA55-9E677B582B6B}
+      IID 12
+      NAME "3-8_DR. GRAHAM (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 56
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3F7423F9-9586-40B4-A0A1-9B47C895D309}
+      <SOURCE MP3
+        FILE "voiceovers\3-8_DR. GRAHAM (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 226.5
+      SNAPOFFS 0
+      LENGTH 6.47941043083901
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7E720FFF-BEE3-4D70-A95C-4E137C0587CA}
+      IID 15
+      NAME "3-8_DR. GRAHAM (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 192
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6407509D-9A83-4B94-BA54-F845CEF1E38F}
+      <SOURCE MP3
+        FILE "voiceovers\3-8_DR. GRAHAM (Alex).mp3" 1
+      >
+    >
+  >
+  <TRACK {E0C7F3CF-CA6B-4D14-ADF6-1C34CBF87C44}
+    NAME "3-8 KATIE (Emilia)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E0C7F3CF-CA6B-4D14-ADF6-1C34CBF87C44}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 2.4995 -1 0
+    >
+    <ITEM
+      POSITION 42
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9CBFAA3C-097A-4D7B-9A04-AD3B2F3A4049}
+      IID 1
+      NAME "3-8 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CB2877BF-F935-43B4-B8F3-F5D02E32382C}
+      <SOURCE MP3
+        FILE "voiceovers\3-8 KATIE (Emilia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 51.5
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BB3F8B19-80BD-4AA8-B6D4-567968A5E59C}
+      IID 7
+      NAME "3-8 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EDD05149-7E83-4498-95EC-CE4DC6F1E1E4}
+      <SOURCE MP3
+        FILE "voiceovers\3-8 KATIE (Emilia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 56
+      SNAPOFFS 0
+      LENGTH 26.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {14509D07-4982-4ED3-991B-9529160E2996}
+      IID 9
+      NAME "3-8 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 10
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {238F0F6D-BDFB-402C-919C-B96A1466DE26}
+      <SOURCE MP3
+        FILE "voiceovers\3-8 KATIE (Emilia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 94.5
+      SNAPOFFS 0
+      LENGTH 6.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C6D58EF5-7F06-41DE-A99A-9021C9F0AA7B}
+      IID 11
+      NAME "3-8 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 36.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C04C84E6-03E7-468C-A77E-C967C76F536A}
+      <SOURCE MP3
+        FILE "voiceovers\3-8 KATIE (Emilia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 223
+      SNAPOFFS 0
+      LENGTH 3.86471655328799
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {92A0A506-724C-4B4F-B858-FBD72DBDCFDF}
+      IID 13
+      NAME "3-8 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 43
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6DEE4148-A2A5-4B75-B75E-B25CF26E8530}
+      <SOURCE MP3
+        FILE "voiceovers\3-8 KATIE (Emilia).mp3" 1
+      >
+    >
+  >
+  <TRACK {7FAAAEAF-8AD5-47C5-9BC5-85D30A9CCD85}
+    NAME "3-8_LISA (Anna)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7FAAAEAF-8AD5-47C5-9BC5-85D30A9CCD85}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 6.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {99DE3D62-2401-4460-9E4E-4EB706BDA2A8}
+      IID 3
+      NAME "3-8_LISA (Anna).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {41787A39-778B-46D4-B06A-B41A9A7F6D37}
+      <SOURCE MP3
+        FILE "voiceovers\3-8_LISA (Anna).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 20.5
+      SNAPOFFS 0
+      LENGTH 2.98349206349206
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {670B39D5-8377-4BFF-ACA6-223AC827B7AB}
+      IID 4
+      NAME "3-8_LISA (Anna).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 6.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BC95AB9A-C588-4CF1-9C79-36DEC0AAFBD5}
+      <SOURCE MP3
+        FILE "voiceovers\3-8_LISA (Anna).mp3" 1
+      >
+    >
   >
 >
