@@ -10,6 +10,21 @@ By March 2020, it became evident that we were not just casting characters but ca
 
 The original production was set to hit the stage on 2018 April 18.  While lockdowns forced us to postpone the theatrical production, some members of Lost Thespians agreed the show must go on.  Thus we are adapting the play for "radio" presentation.
 
+## Workflow and Branch Naming Conventions
+
+1. The `dev` branch contains an empty Reaper project with placeholders to keep certain common directories (e.g. "voiceovers", "scenes", "acts", etc.) available for each branch (because git does not like empty directories).
+
+2. For each scene, create/modify a branch called something like `scene/1-6` which will be editted to the best of our ability for the specific scene.
+
+3. As/When all the scenes within each act become available/ready, we create/modify a branch called something like `act/1` which would contain each scene as a single track (each having been exported from the appropriate branch).
+
+4. As/When all the acts within the production become available, we update the `master` branch to have an end-to-end copy of the production which would contain each act as a single track (each having been exported from the appropriate branch).
+
+* For scenes were we want to experiment with multiple possibilities (different actors, different timing, different effects, whatever), we could use names like `scene/1-5/johnny-as-president` or whatever makes it meaningful. And we could do similiar for the acts or the master branch (e.g. `master/johnnys-cut`).
+
+NOTE: Because most of the files are binary, because support for merging XML-like files is lacking, and because every merge would mean manually repositioning an ever increasing number of tracks, we won't ever actually merge branches.
+
+
 ## How to prepare your workstation.
 1. Download and install [Reaper](https://www.reaper.fm/download.php).
 
