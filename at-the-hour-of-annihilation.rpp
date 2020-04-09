@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586324534
+<REAPER_PROJECT 0.1 "6.08/x64" 1586450257
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,9 +14,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 100 0 0
-  VZOOMEX 6 0
+  CURSOR 172
+  ZOOM 144 23902 0
+  VZOOMEX 12 46
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -55,8 +55,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 0 0
-  SELECTION2 0 0
+  SELECTION 102 104.5
+  SELECTION2 102 104.5
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -75,12 +75,351 @@
     DEFSHAPE 0 -1 -1
   >
   <TEMPOENVEX
-    ACT 1 -1
+    ACT 0 -1
     VIS 1 0 1
     LANEHEIGHT 0 0
     ARM 0
     DEFSHAPE 1 -1 -1
   >
   <PROJBAY
+  >
+  <TRACK {52BE5F44-2095-4A50-A5A3-06768E387659}
+    NAME "❌ 2-6_NEAL (Brian - Take 1)_UNTREATED"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 3.98107170553497 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {52BE5F44-2095-4A50-A5A3-06768E387659}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 2 0
+    >
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 11.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {969F5CC7-4C88-4220-94D4-A8B49EF19EA6}
+      IID 1
+      NAME "❌ 2-6_NEAL (Brian - Take 1)_UNTREATED.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D6389E7C-5B9A-4DE9-BDE1-580D93FC2C5F}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 2-6_NEAL (Brian - Take 1)_UNTREATED.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 24
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {189FB190-7054-4436-AA20-B6A57DAC962E}
+      IID 3
+      NAME "❌ 2-6_NEAL (Brian - Take 1)_UNTREATED.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 11.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3DEBA6AB-BB77-4418-A095-1EE743DF2239}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 2-6_NEAL (Brian - Take 1)_UNTREATED.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 39
+      SNAPOFFS 0
+      LENGTH 23.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6FA4D54E-1A0A-4AE6-8750-02CE3DE29084}
+      IID 5
+      NAME "❌ 2-6_NEAL (Brian - Take 1)_UNTREATED.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 35.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B96808AA-F46B-42BD-AB18-BB372EECE330}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 2-6_NEAL (Brian - Take 1)_UNTREATED.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 64.5
+      SNAPOFFS 0
+      LENGTH 36.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {98F24F82-7D43-452E-B493-4EA2A020253E}
+      IID 9
+      NAME "❌ 2-6_NEAL (Brian - Take 1)_UNTREATED.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 61.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CFBE2F3B-E349-4BE7-92D0-4F02363F4154}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 2-6_NEAL (Brian - Take 1)_UNTREATED.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 101.5
+      SNAPOFFS 0
+      LENGTH 42.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B528E97B-1F9D-4896-9192-D96B8C0F6D82}
+      IID 10
+      NAME "❌ 2-6_NEAL (Brian - Take 1)_UNTREATED.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 98
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {09BC4AB5-A7D7-4873-AF56-EDA53B1E33B6}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 2-6_NEAL (Brian - Take 1)_UNTREATED.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 146.5
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9E29D60C-5160-420F-A7F0-E8DACF40E793}
+      IID 13
+      NAME "❌ 2-6_NEAL (Brian - Take 1)_UNTREATED.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 144.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A416745A-C67D-475C-8F91-9801D0EDEDF5}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 2-6_NEAL (Brian - Take 1)_UNTREATED.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 152.5
+      SNAPOFFS 0
+      LENGTH 17.92022675736962
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {208D6144-7C3B-4367-9971-3C70F1082430}
+      IID 15
+      NAME "❌ 2-6_NEAL (Brian - Take 1)_UNTREATED.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 153
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5BAF309B-A273-4633-A281-B2A521C4DB47}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 2-6_NEAL (Brian - Take 1)_UNTREATED.mp3" 1
+      >
+    >
+  >
+  <TRACK {C33281A4-3CD9-4FFD-A1FE-0E26303D067C}
+    NAME "2-6 KATIE (Emilia)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C33281A4-3CD9-4FFD-A1FE-0E26303D067C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 -1 0
+    >
+    <ITEM
+      POSITION 11
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B7B4B9C2-DEC7-44B5-A239-1EC2628F76B9}
+      IID 2
+      NAME "2-6 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {78786DBE-513F-4D13-AA95-570291C77176}
+      <SOURCE MP3
+        FILE "voiceovers\2-6 KATIE (Emilia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 36
+      SNAPOFFS 0
+      LENGTH 5.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {81D559BE-4EB1-41FA-9398-2F0681672EF8}
+      IID 4
+      NAME "2-6 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F3B66C5E-FDD3-4780-82D7-BAC020AE0771}
+      <SOURCE MP3
+        FILE "voiceovers\2-6 KATIE (Emilia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 62.5
+      SNAPOFFS 0
+      LENGTH 2.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6A76B171-8F3A-479C-9DD4-F0C3AE0C22F1}
+      IID 6
+      NAME "2-6 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 8.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A481B8C0-4107-4A2B-AD0A-19C49F7B1E17}
+      <SOURCE MP3
+        FILE "voiceovers\2-6 KATIE (Emilia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 100.5
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0F72DE2C-54A1-4623-97F5-0033C6A81EBF}
+      IID 8
+      NAME "2-6 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 11
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {753B12C3-98D9-40C5-9775-B61B84A9055D}
+      <SOURCE MP3
+        FILE "voiceovers\2-6 KATIE (Emilia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 143.5
+      SNAPOFFS 0
+      LENGTH 3.3128798185941
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A4425B38-0C09-4F28-B306-A6DB18057509}
+      IID 11
+      NAME "2-6 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 15
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8A026F1F-7F94-4888-8A80-E35BCD9F09E2}
+      <SOURCE MP3
+        FILE "voiceovers\2-6 KATIE (Emilia).mp3" 1
+      >
+    >
   >
 >
