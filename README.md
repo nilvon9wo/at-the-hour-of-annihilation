@@ -10,4 +10,82 @@ By March 2020, it became evident that we were not just casting characters but ca
 
 The original production was set to hit the stage on 2018 April 18.  While lockdowns forced us to postpone the theatrical production, some members of Lost Thespians agreed the show must go on.  Thus we are adapting the play for "radio" presentation.
 
+## How to prepare your workstation.
+1. Download and install [Reaper](https://www.reaper.fm/download.php).
+
+2. [Download](https://git-scm.com/downloads) and [install](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) git.
+    (GUI options are available, but instructions for use won't be provided here.)
+
+3. [Configure username and password](https://www.shellhacks.com/git-config-username-password-store-credentials/) for git.
+
+4. Open git bash.
+
+5. In the git console, using bash commands, navigate to where you would like to store this project on your computer.
+
+6. Clone this project from the command line using `git clone https://github.com/nilvon9wo/at-the-hour-of-annihilation.git`
+
+## How to work on a new scene.
+
+1. Open git bash.
+
+2. In the git console, using bash commands, navigate to this git project.
+
+3. Make sure you are in the `dev` branch with `git checkout dev`.
+
+4. Make sure the project is up to date with `git pull`.
+
+5. Create a new branch for the scene with `git checkout -b <some-branch>`, example: `git checkout -b scene/7-1`.
+    Notice there is a `-b` here.
+
+6. Download [voiceover recordings](https://cp.sync.com/files/1329940731) needed for your scene into the `voiceovers` directory.
+
+7. Open this project in Reaper (`File` >> `Open project...`)
+
+8. Import the voiceovers into Reaper (`Insert` >> `Media file...`)
+    If importing multiple voices at once, when prompted, choose "Separate tracks"
+
+9. Create the scene with the audio tracks.
+    [Reaper Daw: The Complete Beginner's Guide](https://www.musicgateway.com/blog/how-to/reaper-the-complete-beginners-guide)
+
+10. Open git bash.
+
+11. In the git console, using bash commands, navigate to this git project.
+
+12. Add your files to the git project with `git add <path-to-file>`, example: `git add voiceovers/john-smith-7-1.mp3`.
+    If you know you want to add all the new files in the project, you can use `git add .`
+
+13. Push your changes to Github with `git push`.
+    Depending how you have git configured on your machine, you may get an error telling you this didn't work and how to correct it.
+    If this happens, follow the instructions provided.
+
+## How to work on an existing scene.
+
+1. Open git bash.
+
+2. In the git console, using bash commands, navigate to this git project.
+
+3. Open the existing branch with `git checkout <some-branch>`, example: `git checkout scene/7-1`.
+    Notice there is no `-b` here.
+
+4. Make sure the project is up to date with `git pull`.
+
+5. (Optional) If you wish to create an alternative verson of the scene, create a new branch for it, `git checkout -b scene/7-1/johnnys-preferred-actors`.
+
+6. Modify the project as required/desired.
+
+    [Reaper Daw: The Complete Beginner's Guide](https://www.musicgateway.com/blog/how-to/reaper-the-complete-beginners-guide)
+
+7. Open git bash.
+
+8. In the git console, using bash commands, navigate to this git project.
+
+9. Add your files to the git project with `git add <path-to-file>`, example: `git add voiceovers/john-smith-7-1.mp3`.
+    If you know you want to add all the new files in the project, you can use `git add .`
+
+10. Push your changes to Github with `git push`.
+    Depending how you have git configured on your machine, you may get an error telling you this didn't work and how to correct it.
+    If this happens, follow the instructions provided.
+    
+
+
 
