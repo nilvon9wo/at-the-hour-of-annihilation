@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586324534
+<REAPER_PROJECT 0.1 "6.08/x64" 1586448118
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 100 0 0
+  CURSOR 226.5
+  ZOOM 100 23683 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -75,12 +75,523 @@
     DEFSHAPE 0 -1 -1
   >
   <TEMPOENVEX
-    ACT 1 -1
+    ACT 0 -1
     VIS 1 0 1
     LANEHEIGHT 0 0
     ARM 0
     DEFSHAPE 1 -1 -1
   >
   <PROJBAY
+  >
+  <TRACK {6CE2FA4C-7A1E-4208-ACB5-F643A4AB0B30}
+    NAME "Dieter 2-5 - take 3"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 3.98107170553497 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6CE2FA4C-7A1E-4208-ACB5-F643A4AB0B30}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 2 0
+    >
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+    >
+    <ITEM
+      POSITION 0.5
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6B456E87-7B21-4F2F-8734-11314ACE0403}
+      IID 2
+      NAME "Dieter 2-5 - take 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EFA31C51-A070-4A82-8BAD-DF8FBBAFB811}
+      <SOURCE WAVE
+        FILE "voiceovers\Dieter 2-5 - take 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 11
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0EFA65A5-7310-47B3-B87B-A67F773755EA}
+      IID 4
+      NAME "Dieter 2-5 - take 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E5C7AA3F-3D5E-4AA3-9AC2-0742E645A305}
+      <SOURCE WAVE
+        FILE "voiceovers\Dieter 2-5 - take 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 19
+      SNAPOFFS 0
+      LENGTH 33.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C09BBCB1-D632-431A-BAA8-7DCAA6A94074}
+      IID 6
+      NAME "Dieter 2-5 - take 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 15.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {45A4C6B4-9A67-4860-B64E-3CBA54A6B3EE}
+      <SOURCE WAVE
+        FILE "voiceovers\Dieter 2-5 - take 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 52.5
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E85C2209-A948-4263-B9CF-9F14CA30DB68}
+      IID 8
+      NAME "Dieter 2-5 - take 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 49
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9F0B3F85-F4FC-4CC1-AB18-A6B4A35F79DC}
+      <SOURCE WAVE
+        FILE "voiceovers\Dieter 2-5 - take 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 54.5
+      SNAPOFFS 0
+      LENGTH 51.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5CF4343B-02D5-4490-869D-5582E6DD9587}
+      IID 9
+      NAME "Dieter 2-5 - take 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 51
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C4760568-17E5-4913-9BAA-9AECA19C5692}
+      <SOURCE WAVE
+        FILE "voiceovers\Dieter 2-5 - take 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 106
+      SNAPOFFS 0
+      LENGTH 13.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {27D1568D-708B-47F1-B765-51F23AB3685C}
+      IID 10
+      NAME "Dieter 2-5 - take 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 102.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E95AEA2C-4A73-49AA-83D5-4EC6F8FC3BF2}
+      <SOURCE WAVE
+        FILE "voiceovers\Dieter 2-5 - take 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 119.5
+      SNAPOFFS 0
+      LENGTH 38.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8C5C6382-2C61-456C-817D-5A01748F8AAF}
+      IID 12
+      NAME "Dieter 2-5 - take 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 116
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A20F11E0-9F87-41A8-8898-8280665D0373}
+      <SOURCE WAVE
+        FILE "voiceovers\Dieter 2-5 - take 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 165
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0D45ACD5-BA6B-4E3B-A7B2-9B595A1A016C}
+      IID 13
+      NAME "Dieter 2-5 - take 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 154.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {450DED77-6B1C-4133-9642-0304EF422D39}
+      <SOURCE WAVE
+        FILE "voiceovers\Dieter 2-5 - take 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 177.5
+      SNAPOFFS 0
+      LENGTH 34
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B892C5C9-961A-4430-ACF2-F94F5B294E31}
+      IID 15
+      NAME "Dieter 2-5 - take 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 162
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {75CD8D58-B631-487D-8AB1-C7297BFCAE30}
+      <SOURCE WAVE
+        FILE "voiceovers\Dieter 2-5 - take 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 215.5
+      SNAPOFFS 0
+      LENGTH 9.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BD148234-3080-4B89-92E5-BD557F6A4EAA}
+      IID 17
+      NAME "Dieter 2-5 - take 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 196
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {157BBB95-4330-4756-817D-DA1B7B0B87E7}
+      <SOURCE WAVE
+        FILE "voiceovers\Dieter 2-5 - take 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 225.5
+      SNAPOFFS 0
+      LENGTH 25.09929705215416
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {D48CA330-0BB9-4D29-93C9-87A2DA8F47EE}
+      IID 19
+      NAME "Dieter 2-5 - take 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 205.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F6177567-5A8B-470F-9687-197786B8CCF4}
+      <SOURCE WAVE
+        FILE "voiceovers\Dieter 2-5 - take 3.wav"
+      >
+    >
+  >
+  <TRACK {FF4E12F1-F628-4101-AE65-B4130B38E365}
+    NAME "2-5_HAROLD (Alex)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FF4E12F1-F628-4101-AE65-B4130B38E365}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 210.9995 1 0
+      PT 211 2 0
+      PT 218.9995 2 0
+      PT 220.9995 1.3417985 0
+      PT 224.4995 1 0
+      PT 224.9995 1 0
+      PT 225 2 0
+      PT 228.40839002 2 0
+      PT 228.40889002 1 0
+    >
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 -1 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 3.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {542ABEB2-CEE7-4AA0-B1A0-02E1DCE2B94F}
+      IID 1
+      NAME "2-5_HAROLD (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D78A8498-FE56-4B8D-A3BF-DF1FEE27D895}
+      <SOURCE MP3
+        FILE "voiceovers\2-5_HAROLD (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 8.5
+      SNAPOFFS 0
+      LENGTH 6.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5CD71C76-51B9-4BCC-915D-635458A01E4C}
+      IID 3
+      NAME "2-5_HAROLD (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {43E63B76-9ED9-400D-B443-FEA2905E8717}
+      <SOURCE MP3
+        FILE "voiceovers\2-5_HAROLD (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 17
+      SNAPOFFS 0
+      LENGTH 4.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A85B49E4-D61E-47C1-AD07-DD7F9516A637}
+      IID 5
+      NAME "2-5_HAROLD (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 10
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B27922D5-2D7A-4A01-A723-1E7F8E15DBBC}
+      <SOURCE MP3
+        FILE "voiceovers\2-5_HAROLD (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 106
+      SNAPOFFS 0
+      LENGTH 9
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FD2E088C-F87A-4048-B809-FED2FB096890}
+      IID 7
+      NAME "2-5_HAROLD (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 20
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C4FB8E7-3F5D-46A7-9FAA-C0485CC34764}
+      <SOURCE MP3
+        FILE "voiceovers\2-5_HAROLD (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 157
+      SNAPOFFS 0
+      LENGTH 11
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8B32B2F7-E5C1-4014-A00A-835EEA902D4D}
+      IID 11
+      NAME "2-5_HAROLD (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 37.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {594AFD14-83BF-448C-AE92-0795D0562E8E}
+      <SOURCE MP3
+        FILE "voiceovers\2-5_HAROLD (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 172
+      SNAPOFFS 0
+      LENGTH 9.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9BDA8B0D-278C-43DC-BAF4-D71ACB2260B1}
+      IID 14
+      NAME "2-5_HAROLD (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 48.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {975380C1-C3D9-44C5-9194-88B000CD9439}
+      <SOURCE MP3
+        FILE "voiceovers\2-5_HAROLD (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 211
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7C9CA097-C2FE-4260-AA0A-A30B28950F03}
+      IID 16
+      NAME "2-5_HAROLD (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 58
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6590FF79-9C38-48F1-ABE2-4A8DB8805562}
+      <SOURCE MP3
+        FILE "voiceovers\2-5_HAROLD (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 225
+      SNAPOFFS 0
+      LENGTH 3.40839002267575
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {81701177-599D-42E6-912A-107E2E615AA6}
+      IID 18
+      NAME "2-5_HAROLD (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 66
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4FBA63EA-C8C5-49C9-BBE8-81BD22801CDC}
+      <SOURCE MP3
+        FILE "voiceovers\2-5_HAROLD (Alex).mp3" 1
+      >
+    >
   >
 >
