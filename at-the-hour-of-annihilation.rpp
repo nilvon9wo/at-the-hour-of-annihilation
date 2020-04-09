@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586324534
+<REAPER_PROJECT 0.1 "6.08/x64" 1586454696
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 100 0 0
+  CURSOR 335.5
+  ZOOM 40.1877572016461 12876 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -75,12 +75,744 @@
     DEFSHAPE 0 -1 -1
   >
   <TEMPOENVEX
-    ACT 1 -1
+    ACT 0 -1
     VIS 1 0 1
     LANEHEIGHT 0 0
     ARM 0
     DEFSHAPE 1 -1 -1
   >
   <PROJBAY
+  >
+  <TRACK {4647ADAB-948A-4CA9-B5BB-BE9C6754329A}
+    NAME "3-9 WALTRUDA (Sofia)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4647ADAB-948A-4CA9-B5BB-BE9C6754329A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 77
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6C730AF5-4C3E-4A6E-85DD-3070BE394EB0}
+      IID 2
+      NAME "3-9 WALTRUDA (Sofia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9A243E58-EAC3-474D-9A22-F31326900158}
+      <SOURCE MP3
+        FILE "voiceovers\3-9 WALTRUDA (Sofia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 127.5
+      SNAPOFFS 0
+      LENGTH 23
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4BDD0C97-76F1-43DA-9A43-C4BBF1AF687B}
+      IID 4
+      NAME "3-9 WALTRUDA (Sofia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 77
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {35A5114A-AB2C-4800-ACFB-688311259149}
+      <SOURCE MP3
+        FILE "voiceovers\3-9 WALTRUDA (Sofia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 176
+      SNAPOFFS 0
+      LENGTH 9.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {48BE27BB-39FF-41A4-BE3F-0B6A588ED4C9}
+      IID 6
+      NAME "3-9 WALTRUDA (Sofia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 100
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FF77C53C-38A5-4C18-A4FE-6E7305B25C93}
+      <SOURCE MP3
+        FILE "voiceovers\3-9 WALTRUDA (Sofia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 354.5
+      SNAPOFFS 0
+      LENGTH 25.6324716553288
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A5F06AC5-F845-412A-8F6F-97CD876662AA}
+      IID 9
+      NAME "3-9 WALTRUDA (Sofia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 109.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {364F9D41-11D2-43F7-9580-F8FAC1AD5E60}
+      <SOURCE MP3
+        FILE "voiceovers\3-9 WALTRUDA (Sofia).mp3" 1
+      >
+    >
+  >
+  <TRACK {EBDC1BC3-B352-48AA-A6C1-6A5457C85E01}
+    NAME "3-9 DORIS (Dolores)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {EBDC1BC3-B352-48AA-A6C1-6A5457C85E01}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 5.9995 -1 0
+    >
+    <ITEM
+      POSITION 76.5
+      SNAPOFFS 0
+      LENGTH 51.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {47BE4816-C5E5-44C4-A63F-5710166F5A33}
+      IID 1
+      NAME "3-9 DORIS (Dolores).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7C88462F-8D60-4760-A459-EDCE6D1D4FF0}
+      <SOURCE MP3
+        FILE "voiceovers\3-9 DORIS (Dolores).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 150
+      SNAPOFFS 0
+      LENGTH 10
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {182BD100-182E-4D0E-864B-0DEEFC6A0614}
+      IID 5
+      NAME "3-9 DORIS (Dolores).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 51.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F3D7CE4D-291F-4234-A1A8-164C732F33D8}
+      <SOURCE MP3
+        FILE "voiceovers\3-9 DORIS (Dolores).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 185
+      SNAPOFFS 0
+      LENGTH 2.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6D1B7B52-2E32-4D3F-A228-61989E28E7E1}
+      IID 7
+      NAME "3-9 DORIS (Dolores).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 61.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99E8F0CC-20F7-4452-93AD-4ED0CB75DAA3}
+      <SOURCE MP3
+        FILE "voiceovers\3-9 DORIS (Dolores).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 194
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DD7C059C-517C-4FB4-A0C4-C84BCC51CCC9}
+      IID 10
+      NAME "3-9 DORIS (Dolores).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 64
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6919B74E-1E12-4E63-889D-7661D14DB15B}
+      <SOURCE MP3
+        FILE "voiceovers\3-9 DORIS (Dolores).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 221
+      SNAPOFFS 0
+      LENGTH 3.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9FB46C37-7B53-47B4-94A8-6F06CD0FBA5A}
+      IID 12
+      NAME "3-9 DORIS (Dolores).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 71.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3FBA12FF-A47C-4185-9772-385F7C36114F}
+      <SOURCE MP3
+        FILE "voiceovers\3-9 DORIS (Dolores).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 225
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FD02852F-CCD2-47D0-90DD-2D37E56CCB59}
+      IID 14
+      NAME "3-9 DORIS (Dolores).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 75
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C2C2F016-C2A5-4CC5-9635-DE7242548AC3}
+      <SOURCE MP3
+        FILE "voiceovers\3-9 DORIS (Dolores).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 230
+      SNAPOFFS 0
+      LENGTH 4.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E34178D3-753B-42CB-A6DE-F8058B6E7F6C}
+      IID 16
+      NAME "3-9 DORIS (Dolores).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 78
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1158C619-4874-4BA1-AFE3-95EB0F5C1BF9}
+      <SOURCE MP3
+        FILE "voiceovers\3-9 DORIS (Dolores).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 271.5
+      SNAPOFFS 0
+      LENGTH 9.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2748B0A6-7E9A-4322-A603-7DCEA1F23EE4}
+      IID 18
+      NAME "3-9 DORIS (Dolores).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 82.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {887F1A36-6606-4A08-BCA1-9420EB1867C1}
+      <SOURCE MP3
+        FILE "voiceovers\3-9 DORIS (Dolores).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 281.5
+      SNAPOFFS 0
+      LENGTH 4.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {95B402CD-E0F1-4468-A370-F7886D94E6CE}
+      IID 20
+      NAME "3-9 DORIS (Dolores).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 92
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C34CA7BB-5CCA-4BF0-BA21-2B1B30F4EDAE}
+      <SOURCE MP3
+        FILE "voiceovers\3-9 DORIS (Dolores).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 303.5
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F9193F65-30BA-4A78-96E0-13272B060C87}
+      IID 22
+      NAME "3-9 DORIS (Dolores).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 96.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2D3C7121-3793-482F-A004-0C26D2169A2D}
+      <SOURCE MP3
+        FILE "voiceovers\3-9 DORIS (Dolores).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 317
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FA04EB68-5BD4-47D1-A805-F2FADFC3F71C}
+      IID 24
+      NAME "3-9 DORIS (Dolores).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 99.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A93371FB-743A-49B5-A643-2A8372B1BC80}
+      <SOURCE MP3
+        FILE "voiceovers\3-9 DORIS (Dolores).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 350.5
+      SNAPOFFS 0
+      LENGTH 4.34095833333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {29105069-1D1A-4653-95E6-A8A1550406AA}
+      IID 26
+      NAME "3-9 DORIS (Dolores).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 101.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {80A65600-3221-48F3-80D3-3510167A53F5}
+      <SOURCE MP3
+        FILE "voiceovers\3-9 DORIS (Dolores).mp3" 1
+      >
+    >
+  >
+  <TRACK {98A375C9-C1C8-4CFA-B157-C9BB7666C6C5}
+    NAME "3-9_SEAN (Alex)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {98A375C9-C1C8-4CFA-B157-C9BB7666C6C5}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 159.5
+      SNAPOFFS 0
+      LENGTH 17
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0DDDA12B-0073-4FAF-BF27-EB6F0C08B412}
+      IID 3
+      NAME "3-9_SEAN (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {46C36151-70C0-4BA9-846F-3478B8958D90}
+      <SOURCE MP3
+        FILE "voiceovers\3-9_SEAN (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 186.5
+      SNAPOFFS 0
+      LENGTH 8.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D8CA83F0-A0BE-455F-94AA-4062EC419DBA}
+      IID 8
+      NAME "3-9_SEAN (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 17
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B0CBCB8-1A0D-4125-88F0-C8DE6D453D65}
+      <SOURCE MP3
+        FILE "voiceovers\3-9_SEAN (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 201
+      SNAPOFFS 0
+      LENGTH 20
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {76C42AA2-D126-485A-8896-F9FBDFBC3EC1}
+      IID 11
+      NAME "3-9_SEAN (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 25.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FD177531-C574-40B8-BD36-8EA2398F4A0B}
+      <SOURCE MP3
+        FILE "voiceovers\3-9_SEAN (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 223
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {28E32848-2D6B-4167-B7A2-FF890537034D}
+      IID 13
+      NAME "3-9_SEAN (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 45.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D5B6EE3E-3F59-46B2-A888-2EBE00E4FCE7}
+      <SOURCE MP3
+        FILE "voiceovers\3-9_SEAN (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 226.5
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {728B5D90-DA3C-45E2-8C7C-052133AC63FD}
+      IID 15
+      NAME "3-9_SEAN (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 47.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AD9CE0A6-F762-4777-8486-4FB52FDDB1E0}
+      <SOURCE MP3
+        FILE "voiceovers\3-9_SEAN (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 231.5
+      SNAPOFFS 0
+      LENGTH 40.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2D1D2F94-8901-4B61-886C-A7C2A13F5420}
+      IID 17
+      NAME "3-9_SEAN (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 51.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {58EB73AA-F567-46D3-8071-55D79FC02B43}
+      <SOURCE MP3
+        FILE "voiceovers\3-9_SEAN (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 278.5
+      SNAPOFFS 0
+      LENGTH 3.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D4FB0C00-64D3-4242-9758-93F978CB15BC}
+      IID 19
+      NAME "3-9_SEAN (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 92
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {78F0D6F6-9EF1-4526-9296-72361711212D}
+      <SOURCE MP3
+        FILE "voiceovers\3-9_SEAN (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 283.5
+      SNAPOFFS 0
+      LENGTH 20.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7FF9CD0B-9160-4B6F-AFAD-6B3DD35B623A}
+      IID 21
+      NAME "3-9_SEAN (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 95.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {194332EA-80FC-42B2-A559-DFA269B815DE}
+      <SOURCE MP3
+        FILE "voiceovers\3-9_SEAN (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 305.5
+      SNAPOFFS 0
+      LENGTH 11.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BB40557D-5877-4197-8709-94135A956271}
+      IID 23
+      NAME "3-9_SEAN (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 116
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DB07DB6D-E2B0-47BB-B235-2A0853BA4C96}
+      <SOURCE MP3
+        FILE "voiceovers\3-9_SEAN (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 317.5
+      SNAPOFFS 0
+      LENGTH 19
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A8E7FE4D-0610-420F-961F-04D0E847811B}
+      IID 25
+      NAME "3-9_SEAN (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 127.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3967652A-46AE-40C2-B6EA-2F6CC79606B4}
+      <SOURCE MP3
+        FILE "voiceovers\3-9_SEAN (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 336.5
+      SNAPOFFS 0
+      LENGTH 17.65451247165532
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4EA11514-AD6C-4A5E-B6E2-554D2456E1BE}
+      IID 28
+      NAME "3-9_SEAN (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 146.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DA3F0A33-5B77-4974-AECA-3DCA31A328E4}
+      <SOURCE MP3
+        FILE "voiceovers\3-9_SEAN (Alex).mp3" 1
+      >
+    >
+  >
+  <TRACK {55B948C7-F72F-4C3D-90A8-4BB4D903205E}
+    NAME Zipper
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {55B948C7-F72F-4C3D-90A8-4BB4D903205E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 342.5
+      SNAPOFFS 0
+      LENGTH 1.68095833333331
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0A3BCC8B-A200-4412-ADA1-824CCA82240E}
+      IID 27
+      NAME Backpack-zipper-zipping-open-close-fast-pace-1-www.FesliyanStudios.com.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F6CC5D29-FE16-4728-A503-9561495F7747}
+      <SOURCE MP3
+        FILE "sound-effects\Backpack-zipper-zipping-open-close-fast-pace-1-www.FesliyanStudios.com.mp3" 1
+      >
+    >
   >
 >
