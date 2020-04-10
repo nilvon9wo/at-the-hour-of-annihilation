@@ -43,7 +43,8 @@ NOTE: Because most of the files are binary, because support for merging XML-like
 
 1. Open git bash.
 
-2. In the git console, using bash commands, navigate to this git project.
+2. In the git console, using bash commands, navigate to this git project, example: `cd /c/at-the-hour-of-annihilation`.
+    The path will probably be different on your computer!
 
 3. Make sure you are in the `dev` branch with `git checkout dev`.
 
@@ -69,7 +70,9 @@ NOTE: Because most of the files are binary, because support for merging XML-like
 12. Add your files to the git project with `git add <path-to-file>`, example: `git add voiceovers/john-smith-7-1.mp3`.
     If you know you want to add all the new files in the project, you can use `git add .`
 
-13. Push your changes to Github with `git push`.
+13. Commit your changes to the branch with `git commit -m "<some message>"`, example: `git commit -m "I made Johnny sound awesome!"` 
+
+14. Push your changes to Github with `git push`.
     Depending how you have git configured on your machine, you may get an error telling you this didn't work and how to correct it.
     If this happens, follow the instructions provided.
 
@@ -77,7 +80,8 @@ NOTE: Because most of the files are binary, because support for merging XML-like
 
 1. Open git bash.
 
-2. In the git console, using bash commands, navigate to this git project.
+2. In the git console, using bash commands, navigate to this git project, example: `cd /c/at-the-hour-of-annihilation`.
+    The path will probably be different on your computer!
 
 3. Open the existing branch with `git checkout <some-branch>`, example: `git checkout scene/7-1`.
     Notice there is no `-b` here.
@@ -97,10 +101,38 @@ NOTE: Because most of the files are binary, because support for merging XML-like
 9. Add your files to the git project with `git add <path-to-file>`, example: `git add voiceovers/john-smith-7-1.mp3`.
     If you know you want to add all the new files in the project, you can use `git add .`
 
-10. Push your changes to Github with `git push`.
+10. Commit your changes to the branch with `git commit -m "<some message>"`, example: `git commit -m "I made Johnny sound awesome!"` 
+
+11. Push your changes to Github with `git push`.
     Depending how you have git configured on your machine, you may get an error telling you this didn't work and how to correct it.
     If this happens, follow the instructions provided.
     
 
+## Most Useful Commands (In the order you are most likely to need them)
+
+* Change directory: `cd <path>`
+    Be sure to replace `<path>` with the correct path on YOUR computer
+
+* Clone repository: `git clone https://github.com/nilvon9wo/at-the-hour-of-annihilation.git`
+
+* Checkout to dev branch: `git checkout dev`
+
+* Pull files from Github: `git pull`
+
+* Checkout to new branch: `git checkout -b <new-branch-name>` 
+    Be sure to replace `<new-branch-name>` with the a meaningful name for your branch, e.g. `scene/7-1`
+
+* View which files are available for tracking and whether they have been modified: `git status`
+
+* Add files to git tracking `git add <path>`
+    Be sure to replace `<path>` with the correct path for the file.
+    If you want to track *ALL* the files, you can use a `.`
+
+* Commit files to your *local* git branch: `git commit -m "<some-message>"
+    Be sure to replace `<some-message>` with something meaningful.
+
+* Push files to Github: `git push`
+    The first time you do this on each branch, it WILL fail.
+    Follow the directions given to fix it.
 
 
