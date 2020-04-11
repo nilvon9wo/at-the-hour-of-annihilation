@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586448118
+<REAPER_PROJECT 0.1 "6.08/x64" 1586587204
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 226.5
-  ZOOM 100 23683 0
+  CURSOR 0.5
+  ZOOM 100 0 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -115,6 +115,18 @@
       DEFSHAPE 0 -1 -1
       VOLTYPE 1
       PT 0 2 0
+      PT 178.9995 2 0
+      PT 179.0005 1 0
+      PT 179.9995 1 0
+      PT 185.9995 1.09586238 0
+      PT 186 1 0
+      PT 186.5 1 0
+      PT 186.5005 2 0
+      PT 237 2 0
+      PT 237.0005 1.9578701 0
+      PT 241.0005 1.92319322 0
+      PT 243.0005 2 0
+      PT 265.09979705 2 0
     >
     <PANENV2
       ACT 1 -1
@@ -123,6 +135,8 @@
       ARM 1
       DEFSHAPE 0 -1 -1
       PT 0 1 0
+      PT 186.5 1 0
+      PT 186.5005 1 0
     >
     <ITEM
       POSITION 0.5
@@ -235,7 +249,7 @@
       >
     >
     <ITEM
-      POSITION 106
+      POSITION 112.5
       SNAPOFFS 0
       LENGTH 13.5
       LOOP 1
@@ -257,9 +271,9 @@
       >
     >
     <ITEM
-      POSITION 119.5
+      POSITION 126
       SNAPOFFS 0
-      LENGTH 38.5
+      LENGTH 29
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -279,7 +293,29 @@
       >
     >
     <ITEM
-      POSITION 165
+      POSITION 155
+      SNAPOFFS 0
+      LENGTH 9.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CFABDD37-CC61-49A1-B8EA-3D53C74FCBBD}
+      IID 30
+      NAME "Dieter 2-5 - take 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 145
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1BB73DAE-8965-470E-9C75-144214B8CDC2}
+      <SOURCE WAVE
+        FILE "voiceovers\Dieter 2-5 - take 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 171.5
       SNAPOFFS 0
       LENGTH 7.5
       LOOP 1
@@ -301,29 +337,51 @@
       >
     >
     <ITEM
-      POSITION 177.5
+      POSITION 179
       SNAPOFFS 0
-      LENGTH 34
+      LENGTH 1
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {B892C5C9-961A-4430-ACF2-F94F5B294E31}
-      IID 15
+      IGUID {99D9104C-31EE-46E7-B315-2C207AB5BE17}
+      IID 31
       NAME "Dieter 2-5 - take 3.wav"
       VOLPAN 1 0 1 -1
       SOFFS 162
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {75CD8D58-B631-487D-8AB1-C7297BFCAE30}
+      GUID {B61CB32C-A320-4E44-B321-AF880EE4CBE8}
       <SOURCE WAVE
         FILE "voiceovers\Dieter 2-5 - take 3.wav"
       >
     >
     <ITEM
-      POSITION 215.5
+      POSITION 186
+      SNAPOFFS 0
+      LENGTH 33
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6589F6E0-C2F9-48B6-A325-AF396EDC7616}
+      IID 32
+      NAME "Dieter 2-5 - take 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 163
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {07653FB6-CDCE-40C0-87E0-CD2E6669F6AA}
+      <SOURCE WAVE
+        FILE "voiceovers\Dieter 2-5 - take 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 227
       SNAPOFFS 0
       LENGTH 9.5
       LOOP 1
@@ -345,15 +403,15 @@
       >
     >
     <ITEM
-      POSITION 225.5
+      POSITION 236.5
       SNAPOFFS 0
-      LENGTH 25.09929705215416
+      LENGTH 0.5
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {D48CA330-0BB9-4D29-93C9-87A2DA8F47EE}
       IID 19
       NAME "Dieter 2-5 - take 3.wav"
@@ -362,6 +420,28 @@
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {F6177567-5A8B-470F-9687-197786B8CCF4}
+      <SOURCE WAVE
+        FILE "voiceovers\Dieter 2-5 - take 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 238
+      SNAPOFFS 0
+      LENGTH 24.59929705215416
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {676552C1-942E-4315-AE56-32DE582726AC}
+      IID 33
+      NAME "Dieter 2-5 - take 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 206
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D439ADF4-14AD-4386-948D-91AF6A2FAF18}
       <SOURCE WAVE
         FILE "voiceovers\Dieter 2-5 - take 3.wav"
       >
@@ -399,15 +479,20 @@
       DEFSHAPE 0 -1 -1
       VOLTYPE 1
       PT 0 1 0
+      PT 187.4995 1 0
+      PT 188.9995 1.03245815 0
+      PT 189.0005 1 0
       PT 210.9995 1 0
-      PT 211 2 0
-      PT 218.9995 2 0
-      PT 220.9995 1.3417985 0
-      PT 224.4995 1 0
-      PT 224.9995 1 0
-      PT 225 2 0
-      PT 228.40839002 2 0
-      PT 228.40889002 1 0
+      PT 216.9995 1.69080634 0
+      PT 218.9995 1.76377029 0
+      PT 219 2 0
+      PT 227 2 0
+      PT 227.0005 1.38619105 0
+      PT 228.9995 1.54178137 0
+      PT 237.0005 2 0
+      PT 240.40839002 2 0
+      PT 240.40889002 1.19319264 0
+      PT 241.90889002 1 0
     >
     <PANENV2
       ACT 1 -1
@@ -416,6 +501,9 @@
       ARM 1
       DEFSHAPE 0 -1 -1
       PT 0 -1 0
+      PT 187.4995 -1 0
+      PT 188.9995 -0.9117673 0
+      PT 189.0005 -1 0
     >
     <ITEM
       POSITION 0
@@ -486,7 +574,7 @@
     <ITEM
       POSITION 106
       SNAPOFFS 0
-      LENGTH 9
+      LENGTH 3
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -506,7 +594,29 @@
       >
     >
     <ITEM
-      POSITION 157
+      POSITION 109
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9C17DDB7-1AE0-4C82-928D-116F68D2C267}
+      IID 28
+      NAME "2-5_HAROLD (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 23
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E3D30DC5-0A8A-483F-A323-DCDEFFD1A927}
+      <SOURCE MP3
+        FILE "voiceovers\2-5_HAROLD (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 163.5
       SNAPOFFS 0
       LENGTH 11
       LOOP 1
@@ -528,7 +638,7 @@
       >
     >
     <ITEM
-      POSITION 172
+      POSITION 179.5
       SNAPOFFS 0
       LENGTH 9.5
       LOOP 1
@@ -550,7 +660,7 @@
       >
     >
     <ITEM
-      POSITION 211
+      POSITION 219
       SNAPOFFS 0
       LENGTH 8
       LOOP 1
@@ -572,7 +682,7 @@
       >
     >
     <ITEM
-      POSITION 225
+      POSITION 237
       SNAPOFFS 0
       LENGTH 3.40839002267575
       LOOP 1
