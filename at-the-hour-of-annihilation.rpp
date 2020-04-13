@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586324534
+<REAPER_PROJECT 0.1 "6.08/x64" 1586787829
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -15,7 +15,7 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   CURSOR 0
-  ZOOM 100 0 0
+  ZOOM 23.2568039361378 0 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -27,9 +27,8 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE ""
-  RENDER_PATTERN ""
-  RENDER_FMT 0 2 0
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene2-7.mp3"
+  RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
   RENDER_RESAMPLE 3 0 1
@@ -43,6 +42,7 @@
   TAKELANE 1
   SAMPLERATE 44100 0 0
   <RENDER_CFG
+    bDNwbYAAAAAAAAAAAgAAAP////8EAAAAgAAAAAAAAAA=
   >
   LOCK 1
   <METRONOME 6 2
@@ -75,12 +75,238 @@
     DEFSHAPE 0 -1 -1
   >
   <TEMPOENVEX
-    ACT 1 -1
+    ACT 0 -1
     VIS 1 0 1
     LANEHEIGHT 0 0
     ARM 0
     DEFSHAPE 1 -1 -1
   >
   <PROJBAY
+  >
+  <TRACK {B68C8BB6-9D8B-472F-A789-360AE944CA09}
+    NAME "2-7_BETSY (Gina)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B68C8BB6-9D8B-472F-A789-360AE944CA09}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+    >
+    <ITEM
+      POSITION 10
+      SNAPOFFS 0
+      LENGTH 11
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6793151D-1915-4E23-B4F8-1DE9F3BCF629}
+      IID 1
+      NAME "2-7_BETSY (Gina).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B6464C49-80A8-4237-9C1D-3B8962B8B755}
+      <SOURCE MP3
+        FILE "voiceovers\2-7_BETSY (Gina).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 51.5
+      SNAPOFFS 0
+      LENGTH 8.01818594104309
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {75BF1854-8220-4E71-99E3-978695AAD8E8}
+      IID 5
+      NAME "2-7_BETSY (Gina).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 11
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9A9B4EEA-B43A-40AA-8319-59A883CF24ED}
+      <SOURCE MP3
+        FILE "voiceovers\2-7_BETSY (Gina).mp3" 1
+      >
+    >
+  >
+  <TRACK {9C1CBE06-9F45-45CD-8719-80E40B40BE44}
+    NAME "2-7_STEFAN (Alex)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9C1CBE06-9F45-45CD-8719-80E40B40BE44}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 -1 0
+    >
+    <ITEM
+      POSITION 21
+      SNAPOFFS 0
+      LENGTH 31.4524716553288
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {07B374A9-A753-44E8-A3A6-FA4A342919F2}
+      IID 2
+      NAME "2-7_STEFAN (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B3E44B69-5137-4104-A40D-B8413246626D}
+      <SOURCE MP3
+        FILE "voiceovers\2-7_STEFAN (Alex).mp3" 1
+      >
+    >
+  >
+  <TRACK {23D0F8D6-2CF0-4965-9628-F5FFCD022EE4}
+    NAME 390519__alexschmidtmeister__mtgsr-news-cue-1704-01-full-jingle
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {23D0F8D6-2CF0-4965-9628-F5FFCD022EE4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 14.00027210884353
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0A027E0D-D059-458B-8FDD-5D9739AD1ED5}
+      IID 3
+      NAME 390519__alexschmidtmeister__mtgsr-news-cue-1704-01-full-jingle.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {354F3E09-F5FA-4498-80E1-B05AA8D04DF5}
+      <SOURCE WAVE
+        FILE "sound-effects\390519__alexschmidtmeister__mtgsr-news-cue-1704-01-full-jingle.wav"
+      >
+    >
+  >
+  <TRACK {2D8C0668-4A34-48F6-98BB-B4A448B1DE66}
+    NAME 462188__tolerabledruid6__news-end
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2D8C0668-4A34-48F6-98BB-B4A448B1DE66}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 59.5
+      SNAPOFFS 0
+      LENGTH 3.4249433106576
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EABCF918-C33E-4A40-815C-8C7DFDDF392E}
+      IID 4
+      NAME 462188__tolerabledruid6__news-end.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {11CDA108-A5B7-418D-BD07-5E8BEFEA2112}
+      <SOURCE WAVE
+        FILE "sound-effects\462188__tolerabledruid6__news-end.wav"
+      >
+    >
   >
 >
