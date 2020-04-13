@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586627370
+<REAPER_PROJECT 0.1 "6.08/x64" 1586808316
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -15,8 +15,8 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   CURSOR 0
-  ZOOM 40.1877572016461 0 0
-  VZOOMEX 6 0
+  ZOOM 5.16778874477787 0 0
+  VZOOMEX 3 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -27,7 +27,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene3-9.mp3"
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene3-9b.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -113,10 +113,10 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 0 1 0
+      PT 10 1 0
     >
     <ITEM
-      POSITION 0
+      POSITION 10
       SNAPOFFS 0
       LENGTH 77
       LOOP 1
@@ -138,7 +138,7 @@
       >
     >
     <ITEM
-      POSITION 127.5
+      POSITION 137.5
       SNAPOFFS 0
       LENGTH 23
       LOOP 1
@@ -160,7 +160,7 @@
       >
     >
     <ITEM
-      POSITION 176
+      POSITION 186
       SNAPOFFS 0
       LENGTH 9.5
       LOOP 1
@@ -182,7 +182,7 @@
       >
     >
     <ITEM
-      POSITION 354.5
+      POSITION 364.5
       SNAPOFFS 0
       LENGTH 25.6324716553288
       LOOP 1
@@ -237,7 +237,7 @@
       PT 5.9995 -1 0
     >
     <ITEM
-      POSITION 76.5
+      POSITION 86.5
       SNAPOFFS 0
       LENGTH 51.5
       LOOP 1
@@ -259,7 +259,7 @@
       >
     >
     <ITEM
-      POSITION 150
+      POSITION 160
       SNAPOFFS 0
       LENGTH 10
       LOOP 1
@@ -281,7 +281,7 @@
       >
     >
     <ITEM
-      POSITION 185
+      POSITION 195
       SNAPOFFS 0
       LENGTH 2.5
       LOOP 1
@@ -303,7 +303,7 @@
       >
     >
     <ITEM
-      POSITION 194
+      POSITION 204
       SNAPOFFS 0
       LENGTH 7.5
       LOOP 1
@@ -325,7 +325,7 @@
       >
     >
     <ITEM
-      POSITION 221
+      POSITION 231
       SNAPOFFS 0
       LENGTH 3.5
       LOOP 1
@@ -347,7 +347,7 @@
       >
     >
     <ITEM
-      POSITION 225
+      POSITION 235
       SNAPOFFS 0
       LENGTH 3
       LOOP 1
@@ -369,7 +369,7 @@
       >
     >
     <ITEM
-      POSITION 230
+      POSITION 240
       SNAPOFFS 0
       LENGTH 4.5
       LOOP 1
@@ -391,7 +391,7 @@
       >
     >
     <ITEM
-      POSITION 271.5
+      POSITION 281.5
       SNAPOFFS 0
       LENGTH 9.5
       LOOP 1
@@ -413,7 +413,7 @@
       >
     >
     <ITEM
-      POSITION 281.5
+      POSITION 291.5
       SNAPOFFS 0
       LENGTH 4.5
       LOOP 1
@@ -435,7 +435,7 @@
       >
     >
     <ITEM
-      POSITION 303.5
+      POSITION 313.5
       SNAPOFFS 0
       LENGTH 3
       LOOP 1
@@ -457,7 +457,7 @@
       >
     >
     <ITEM
-      POSITION 317
+      POSITION 327
       SNAPOFFS 0
       LENGTH 2
       LOOP 1
@@ -479,7 +479,7 @@
       >
     >
     <ITEM
-      POSITION 350.5
+      POSITION 360.5
       SNAPOFFS 0
       LENGTH 4.34095833333333
       LOOP 1
@@ -526,7 +526,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 159.5
+      POSITION 169.5
       SNAPOFFS 0
       LENGTH 17
       LOOP 1
@@ -548,7 +548,7 @@
       >
     >
     <ITEM
-      POSITION 186.5
+      POSITION 196.5
       SNAPOFFS 0
       LENGTH 8.5
       LOOP 1
@@ -570,7 +570,7 @@
       >
     >
     <ITEM
-      POSITION 201
+      POSITION 211
       SNAPOFFS 0
       LENGTH 20
       LOOP 1
@@ -592,7 +592,7 @@
       >
     >
     <ITEM
-      POSITION 223
+      POSITION 233
       SNAPOFFS 0
       LENGTH 2
       LOOP 1
@@ -614,7 +614,7 @@
       >
     >
     <ITEM
-      POSITION 226.5
+      POSITION 236.5
       SNAPOFFS 0
       LENGTH 4
       LOOP 1
@@ -636,7 +636,7 @@
       >
     >
     <ITEM
-      POSITION 231.5
+      POSITION 241.5
       SNAPOFFS 0
       LENGTH 40.5
       LOOP 1
@@ -658,7 +658,7 @@
       >
     >
     <ITEM
-      POSITION 278.5
+      POSITION 288.5
       SNAPOFFS 0
       LENGTH 3.5
       LOOP 1
@@ -680,7 +680,7 @@
       >
     >
     <ITEM
-      POSITION 283.5
+      POSITION 293.5
       SNAPOFFS 0
       LENGTH 20.5
       LOOP 1
@@ -702,7 +702,7 @@
       >
     >
     <ITEM
-      POSITION 305.5
+      POSITION 315.5
       SNAPOFFS 0
       LENGTH 11.5
       LOOP 1
@@ -724,7 +724,7 @@
       >
     >
     <ITEM
-      POSITION 317.5
+      POSITION 327.5
       SNAPOFFS 0
       LENGTH 19
       LOOP 1
@@ -746,7 +746,7 @@
       >
     >
     <ITEM
-      POSITION 336.5
+      POSITION 346.5
       SNAPOFFS 0
       LENGTH 17.65451247165532
       LOOP 1
@@ -781,7 +781,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -793,7 +793,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 342.5
+      POSITION 352.5
       SNAPOFFS 0
       LENGTH 1.68095833333331
       LOOP 1
@@ -812,6 +812,100 @@
       GUID {F6CC5D29-FE16-4728-A503-9561495F7747}
       <SOURCE MP3
         FILE "sound-effects\Backpack-zipper-zipping-open-close-fast-pace-1-www.FesliyanStudios.com.mp3" 1
+      >
+    >
+  >
+  <TRACK {E9154FB4-312E-42A9-98D8-516C87218A83}
+    NAME 390519__alexschmidtmeister__mtgsr-news-cue-1704-01-full-jingle
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E9154FB4-312E-42A9-98D8-516C87218A83}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 14.00027210884354
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5C54F4E6-264A-451C-84A5-1B6EA98BA355}
+      IID 39
+      NAME 390519__alexschmidtmeister__mtgsr-news-cue-1704-01-full-jingle.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {27AAD944-120B-4679-BD9A-A9F6FBC02BBD}
+      <SOURCE WAVE
+        FILE "sound-effects\390519__alexschmidtmeister__mtgsr-news-cue-1704-01-full-jingle.wav"
+      >
+    >
+  >
+  <TRACK {B695C8B6-1F85-42FD-B0DD-6D6E7C3276B1}
+    NAME 462188__tolerabledruid6__news-end
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B695C8B6-1F85-42FD-B0DD-6D6E7C3276B1}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 390.1324716553288
+      SNAPOFFS 0
+      LENGTH 3.42494331065757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7D786EFD-C2EC-4468-BF92-EFB9AFCFEA33}
+      IID 40
+      NAME 462188__tolerabledruid6__news-end.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6EE90786-3736-434F-AAFD-31EEF99DBEEE}
+      <SOURCE WAVE
+        FILE "sound-effects\462188__tolerabledruid6__news-end.wav"
       >
     >
   >
