@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586626650
+<REAPER_PROJECT 0.1 "6.08/x64" 1586787308
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -15,8 +15,8 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   CURSOR 0
-  ZOOM 4.71752411322692 0 0
-  VZOOMEX 12 0
+  ZOOM 8.92993895097616 496 0
+  VZOOMEX 15 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -27,7 +27,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene2-6.mp3"
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene2-6b.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -96,10 +96,10 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0
+    TRACKHEIGHT 132 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -110,22 +110,24 @@
     <VOLENV2
       ACT 1 -1
       VIS 1 1 1
-      LANEHEIGHT 0 0
+      LANEHEIGHT 75 0
       ARM 1
       DEFSHAPE 0 -1 -1
       VOLTYPE 1
-      PT 0 2 0
+      PT 11.5005 2 0
+      PT 127.99977438 2 0
     >
     <PANENV2
       ACT 1 -1
       VIS 1 1 1
-      LANEHEIGHT 0 0
+      LANEHEIGHT 27 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 0 1 0
+      PT 11.5005 1 0
+      PT 127.99977438 1 0
     >
     <ITEM
-      POSITION 0
+      POSITION 16
       SNAPOFFS 0
       LENGTH 11.5
       LOOP 1
@@ -147,7 +149,7 @@
       >
     >
     <ITEM
-      POSITION 12
+      POSITION 28
       SNAPOFFS 0
       LENGTH 24
       LOOP 1
@@ -169,7 +171,7 @@
       >
     >
     <ITEM
-      POSITION 39
+      POSITION 55
       SNAPOFFS 0
       LENGTH 23.5
       LOOP 1
@@ -191,7 +193,7 @@
       >
     >
     <ITEM
-      POSITION 64.5
+      POSITION 80.5
       SNAPOFFS 0
       LENGTH 36.5
       LOOP 1
@@ -213,7 +215,7 @@
       >
     >
     <ITEM
-      POSITION 101.5
+      POSITION 117.5
       SNAPOFFS 0
       LENGTH 42.5
       LOOP 1
@@ -235,7 +237,7 @@
       >
     >
     <ITEM
-      POSITION 146.5
+      POSITION 162.5
       SNAPOFFS 0
       LENGTH 6
       LOOP 1
@@ -257,7 +259,7 @@
       >
     >
     <ITEM
-      POSITION 152.5
+      POSITION 168.5
       SNAPOFFS 0
       LENGTH 17.92022675736962
       LOOP 1
@@ -295,7 +297,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0
+    TRACKHEIGHT 25 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -306,13 +308,13 @@
     <PANENV2
       ACT 1 -1
       VIS 1 1 1
-      LANEHEIGHT 0 0
+      LANEHEIGHT 27 0
       ARM 1
       DEFSHAPE 0 -1 -1
       PT 0 -1 0
     >
     <ITEM
-      POSITION 11
+      POSITION 27
       SNAPOFFS 0
       LENGTH 3
       LOOP 1
@@ -334,7 +336,7 @@
       >
     >
     <ITEM
-      POSITION 36
+      POSITION 52
       SNAPOFFS 0
       LENGTH 5.5
       LOOP 1
@@ -356,7 +358,7 @@
       >
     >
     <ITEM
-      POSITION 62.5
+      POSITION 78.5
       SNAPOFFS 0
       LENGTH 2.5
       LOOP 1
@@ -378,7 +380,7 @@
       >
     >
     <ITEM
-      POSITION 100.5
+      POSITION 116.5
       SNAPOFFS 0
       LENGTH 4
       LOOP 1
@@ -400,7 +402,7 @@
       >
     >
     <ITEM
-      POSITION 143.5
+      POSITION 159.5
       SNAPOFFS 0
       LENGTH 3.3128798185941
       LOOP 1
@@ -419,6 +421,81 @@
       GUID {8A026F1F-7F94-4888-8A80-E35BCD9F09E2}
       <SOURCE MP3
         FILE "voiceovers\2-6 KATIE (Emilia).mp3" 1
+      >
+    >
+  >
+  <TRACK {3ECDCC99-D587-43A1-ACF1-2A9C33834129}
+    NAME "biology lab"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3ECDCC99-D587-43A1-ACF1-2A9C33834129}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1.04712855 0
+      PT 23.51639817 0.15848932 0
+      PT 180 0.17782794 0 0 1
+      PT 208 1.02329299 0
+      PT 208 1 0
+      PT 208.0005 1.05717916 0
+      PT 224.0005 1 0
+    >
+    <PANENV2
+      ACT 0 -1
+      VIS 0 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+      PT 111.99927438 1 0
+      PT 111.99977438 0 0
+      PT 208 0 0
+      PT 208.0005 0.07692271 0
+      PT 224.0005 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 208
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6A4199B2-8558-45AD-95FB-10D06E731CED}
+      IID 21
+      NAME 23832__dobroide__20061016-laboratory.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0FA66C05-A29B-4A56-9F62-C58095CEE643}
+      <SOURCE FLAC
+        FILE "sound-effects\23832__dobroide__20061016-laboratory.flac"
       >
     >
   >
