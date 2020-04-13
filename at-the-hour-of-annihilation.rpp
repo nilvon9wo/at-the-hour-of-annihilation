@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586364891
+<REAPER_PROJECT 0.1 "6.08/x64" 1586770756
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,9 +14,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 12.85911208940565 1358 0
-  VZOOMEX 15 0
+  CURSOR 67.5
+  ZOOM 19.38066994678141 2368 0
+  VZOOMEX 0 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -27,9 +27,8 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE ""
-  RENDER_PATTERN ""
-  RENDER_FMT 0 2 0
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene1-6.mp3"
+  RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
   RENDER_RESAMPLE 3 0 1
@@ -43,6 +42,7 @@
   TAKELANE 1
   SAMPLERATE 44100 0 0
   <RENDER_CFG
+    bDNwbYAAAAAAAAAAAgAAAP////8EAAAAgAAAAAAAAAA=
   >
   LOCK 1
   <METRONOME 6 2
@@ -55,8 +55,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 0 0
-  SELECTION2 0 0
+  SELECTION 77 88
+  SELECTION2 77 88
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -109,16 +109,63 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 2 0
+      PT 28.75977361 2 0
+      PT 30.55725946 0.97723722 0
+      PT 54 0.9332543 0
+      PT 56 2 0
+      PT 58 2 0
+      PT 59.57381676 0.97723722 0
+      PT 82.23133665 0.97723722 0
+      PT 84.5 2 0
+      PT 85.9995 2 0
+      PT 86.4995 1.97674025 0
+      PT 86.5 1.95318295 0
+      PT 86.9995 1.90742585 0
+      PT 87 2 0
+      PT 87.5 2 0
+      PT 87.59665943 0.97723722 0
+      PT 95.5 1.20511917 0
+      PT 97.5 2 0
+      PT 99.92227669 0.97723722 0
+      PT 111.82929826 0.97723722 0
+      PT 113.9995 1.99968431 0
+      PT 116.4995 1.69966172 0
+      PT 117.4995 1.61093657 0
+      PT 117.5 2 0
+      PT 119.43783735 0.97723722 0
+      PT 134.42626324 0.97723722 0
+      PT 135.80217574 1.83410795 0
+      PT 139.30267574 1.83451146 0
+      PT 139.5 2 0
+      PT 141.39284309 0.97723722 0
+      PT 145.24459849 0.97723722 0
+      PT 147.5 1.8665086 0
+      PT 151.5 0.9332543 0
+      PT 153.33328481 0.93890312 0
+      PT 155.5 2 0
+      PT 157.31343205 0.95126785 0
+      PT 165.53051023 0.97723722 0
+      PT 167.11351474 1.746439 0
+      PT 167.11401474 2 0
+    >
     <PANENV2
       ACT 1 -1
       VIS 1 1 1
-      LANEHEIGHT 27 0
+      LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 0 1 0
+      PT 3.9995 1 0
     >
     <ITEM
-      POSITION 0
+      POSITION 29
       SNAPOFFS 0
       LENGTH 12
       LOOP 1
@@ -126,7 +173,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {A9B72A6D-E6C5-4D07-BDF9-EDED95B111EE}
       IID 1
       NAME "❌ 1-6_HANSEL (Brian - Take 2)_TREATED BUT BAD MIC TECHNIQUE.mp3"
@@ -140,7 +187,7 @@
       >
     >
     <ITEM
-      POSITION 14
+      POSITION 43
       SNAPOFFS 0
       LENGTH 19
       LOOP 1
@@ -162,9 +209,9 @@
       >
     >
     <ITEM
-      POSITION 41
+      POSITION 70
       SNAPOFFS 0
-      LENGTH 28
+      LENGTH 4
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -184,7 +231,95 @@
       >
     >
     <ITEM
-      POSITION 85
+      POSITION 75
+      SNAPOFFS 0
+      LENGTH 4.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {875FC90B-4EA4-4994-9ACC-2C3211FCCA89}
+      IID 27
+      NAME "❌ 1-6_HANSEL (Brian - Take 2)_TREATED BUT BAD MIC TECHNIQUE.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 35
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F0F683FA-841D-48FC-85DA-097150B418B9}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 1-6_HANSEL (Brian - Take 2)_TREATED BUT BAD MIC TECHNIQUE.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 81
+      SNAPOFFS 0
+      LENGTH 5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {37AB7644-670B-479C-94EB-76E6507FB74E}
+      IID 26
+      NAME "❌ 1-6_HANSEL (Brian - Take 2)_TREATED BUT BAD MIC TECHNIQUE.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 39.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BA7E66BC-E134-4245-9C11-2A424DC9EFA5}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 1-6_HANSEL (Brian - Take 2)_TREATED BUT BAD MIC TECHNIQUE.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 86.5
+      SNAPOFFS 0
+      LENGTH 10
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6B60827F-D4E0-4ED3-B575-801D15824DCF}
+      IID 36
+      NAME "Hansel 1-6 - take 5.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 46
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2288A348-5AD3-4BC7-8FB8-6D65D2E35BC6}
+      <SOURCE WAVE
+        FILE "voiceovers\Hansel 1-6 - take 5.wav"
+      >
+    >
+    <ITEM
+      POSITION 96.5
+      SNAPOFFS 0
+      LENGTH 5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E228D0E3-7773-498A-B483-60F33E076534}
+      IID 38
+      NAME "❌ 1-6_HANSEL (Brian - Take 2)_TREATED BUT BAD MIC TECHNIQUE.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 54
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1878FFFC-746B-4F5E-B6C2-AB3E1C0817B8}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 1-6_HANSEL (Brian - Take 2)_TREATED BUT BAD MIC TECHNIQUE.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 117.5
       SNAPOFFS 0
       LENGTH 10
       LOOP 1
@@ -206,7 +341,7 @@
       >
     >
     <ITEM
-      POSITION 106.80267573696148
+      POSITION 139.30267573696148
       SNAPOFFS 0
       LENGTH 27.81083900226758
       LOOP 1
@@ -260,18 +395,21 @@
       DEFSHAPE 0 -1 -1
       VOLTYPE 1
       PT 0 0 0 0 1
-      PT 28.85113664 0.97723722 0
+      PT 23.9995 0.49022869 0
+      PT 40.9995 0.9771996 0
+      PT 41 0.05301483 0
+      PT 57.85113664 0.97723722 0 0 1
     >
     <PANENV2
       ACT 1 -1
       VIS 1 1 1
-      LANEHEIGHT 27 0
+      LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
       PT 0 -1 0
     >
     <ITEM
-      POSITION 12
+      POSITION 41
       SNAPOFFS 0
       LENGTH 17
       LOOP 1
@@ -293,7 +431,7 @@
       >
     >
     <ITEM
-      POSITION 33
+      POSITION 62
       SNAPOFFS 0
       LENGTH 8
       LOOP 1
@@ -315,7 +453,7 @@
       >
     >
     <ITEM
-      POSITION 69
+      POSITION 101.5
       SNAPOFFS 0
       LENGTH 16
       LOOP 1
@@ -337,7 +475,7 @@
       >
     >
     <ITEM
-      POSITION 95
+      POSITION 127.5
       SNAPOFFS 0
       LENGTH 11.80267573696148
       LOOP 1
@@ -356,6 +494,258 @@
       GUID {775F81FB-7EF1-4B11-90AB-137AE2308CFD}
       <SOURCE MP3
         FILE "voiceovers\1-6_ROGER (Carl - New Takes merged).mp3" 1
+      >
+    >
+  >
+  <TRACK {E3160457-47D6-4345-B9E5-D1370CB117DC}
+    NAME "Street background"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E3160457-47D6-4345-B9E5-D1370CB117DC}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 12 0.25703958 0
+      PT 28.74389123 0.02187762 0
+      PT 48.9995 0.0218182 0
+      PT 49 0.02238721 0
+      PT 61 0.0057544 0
+      PT 77.74389123 0.02187762 0
+      PT 96.9995 0.02187762 0
+      PT 97 0.02238721 0
+      PT 98.71444444 0.01905543 0
+      PT 98.71494444 0.017276 0
+      PT 108 0.0057544 0
+      PT 124.74389123 0.02187762 0
+      PT 143.9995 0.02187762 0
+      PT 144 0.02344229 0
+      PT 156 0.0060256 0
+      PT 163.18603684 0.01120724 0
+      PT 172.74389123 0.02187762 0
+      PT 178 0.12882498 0 0 1
+    >
+    <PANENV2
+      ACT 0 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+      PT 8.0005 1 0
+      PT 57.0005 1 0
+      PT 104.0005 1 0
+      PT 152.0005 1 0
+      PT 193.71444444 1 0
+      PT 193.71494444 0.93 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 49.71444444444445
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1.1 0.01 0.714444 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {FCF65389-7071-4FA9-A372-C5194FBBC758}
+      IID 17
+      NAME street-daniel_simon.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3E9C7617-9081-4CA4-9F56-BD03BAE85027}
+      <SOURCE MP3
+        FILE "sound-effects\street-daniel_simon.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 49
+      SNAPOFFS 0
+      LENGTH 49.71444444444447
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.714444 1 1 0
+      FADEOUT 1.1 0.01 2.714444 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {AAAAAB54-ECAA-464B-9209-FF820C599390}
+      IID 17
+      NAME street-daniel_simon.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A985271C-066B-4251-9C14-8F351B4D500B}
+      <SOURCE MP3
+        FILE "sound-effects\street-daniel_simon.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 96
+      SNAPOFFS 0
+      LENGTH 49.71444444444444
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 2.714444 1 1 0
+      FADEOUT 1.1 0.01 1.714444 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {88B37A79-898B-403B-A6D9-A06FC3D58420}
+      IID 17
+      NAME street-daniel_simon.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6E5D7B28-3C99-44A1-8F98-DEFFD5BB0064}
+      <SOURCE MP3
+        FILE "sound-effects\street-daniel_simon.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 144
+      SNAPOFFS 0
+      LENGTH 49.71444444444447
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 1.714444 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {70A84894-6B4F-4ED8-BCC4-1529B817EAE8}
+      IID 17
+      NAME street-daniel_simon.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {869A2DF6-A56A-4B8E-B750-D07A76C855CB}
+      <SOURCE MP3
+        FILE "sound-effects\street-daniel_simon.mp3" 1
+      >
+    >
+  >
+  <TRACK {A1640052-9519-4921-AA57-D4748B63AA3E}
+    NAME "car horn"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A1640052-9519-4921-AA57-D4748B63AA3E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 78.4995 1.99999154 0
+      PT 79.4995 0.65782658 0
+      PT 79.5 2 0
+      PT 80 0.03235937 0 0 1
+      PT 82.00811791 0.01908439 0
+      PT 82.00861791 0.17628991 0
+      PT 82.50861791 0.07413102 0
+    >
+    <PANENV2
+      ACT 0 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      PT 0 0 0
+      PT 79.4995 0 0
+      PT 79.5 1 0
+      PT 82.00811791 1 0
+      PT 82.00861791 0.19927322 0
+      PT 82.50861791 0 0
+    >
+    <ITEM
+      POSITION 79.5
+      SNAPOFFS 0
+      LENGTH 2.50811791383219
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {24BD3216-63C9-4D0A-B5D7-92B3E4C343D5}
+      IID 24
+      NAME "City Car Horn-SoundBible.com-1072318362.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6B5D82F2-EB2B-4902-9067-4CE2280CA03A}
+      <SOURCE MP3
+        FILE "sound-effects\City Car Horn-SoundBible.com-1072318362.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 79.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {036E9DEC-394D-445F-AFAD-631C8642D433}
+      IID 23
+      NAME "City Car Horn-SoundBible.com-1072318362.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {97585AA7-C99E-419B-B9F2-288E5D42A8E0}
+      <SOURCE MP3
+        FILE "sound-effects\City Car Horn-SoundBible.com-1072318362.mp3" 1
       >
     >
   >
