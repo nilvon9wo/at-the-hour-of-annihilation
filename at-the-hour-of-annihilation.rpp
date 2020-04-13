@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586627053
+<REAPER_PROJECT 0.1 "6.08/x64" 1586804899
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -10,12 +10,12 @@
   PANLAW 1
   PROJOFFS 0 0 0
   MAXPROJLEN 0 600
-  GRID 3199 8 1 8 1 0 0 0
+  GRID 3455 8 1 8 1 0 0 0
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 100 0 0
+  CURSOR 0.05678787476214
+  ZOOM 52.82817877171738 0 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -27,7 +27,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene3-7.mp3"
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene3-7b.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -83,6 +83,358 @@
   >
   <PROJBAY
   >
+  <TRACK {F01CCC2E-1988-45F7-B47C-1C8B51419E15}
+    NAME "Sophia (Anna)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F01CCC2E-1988-45F7-B47C-1C8B51419E15}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 4 1 0
+      PT 4.35373707 1.66352754 0 0 1
+      PT 4.7323229 1 0
+    >
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+    >
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 0.78911077160677
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8385BC5C-525D-47C0-9EF7-C6AD09770BC3}
+      IID 41
+      NAME "3-7_SOPHIA (Anna).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24E0C914-A3D3-49B8-9A46-E869D1FEE0F7}
+      <SOURCE MP3
+        FILE "voiceovers\3-7_SOPHIA (Anna).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 5.01626227065532
+      SNAPOFFS 0
+      LENGTH 0.96539387095631
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {51D9EB1F-9168-4B2B-9512-BC7BF1323491}
+      IID 42
+      NAME "3-7_SOPHIA (Anna).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.78911077160677
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A1CEB0AA-F355-4824-A5B7-E8044DCF441E}
+      <SOURCE MP3
+        FILE "voiceovers\3-7_SOPHIA (Anna).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 8.74533271336889
+      SNAPOFFS 0
+      LENGTH 1.76042411762621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {237B012E-344B-46B9-9E1A-EDDA5FF60723}
+      IID 43
+      NAME "3-7_SOPHIA (Anna).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.75450464256308
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D181D685-482A-44B8-917C-FFBFC1F92F21}
+      <SOURCE MP3
+        FILE "voiceovers\3-7_SOPHIA (Anna).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 13.00442332052906
+      SNAPOFFS 0
+      LENGTH 2.00650490826213
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {48E76B35-931A-4AAF-8806-62020C5E4591}
+      IID 44
+      NAME "3-7_SOPHIA (Anna).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 3.51492876018929
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A259363E-E5B2-4BED-924F-DE17E8B0C90C}
+      <SOURCE MP3
+        FILE "voiceovers\3-7_SOPHIA (Anna).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 17.98282700800962
+      SNAPOFFS 0
+      LENGTH 2.53652507270873
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9AB65D36-0293-47F3-B7D5-5611453250AA}
+      IID 45
+      NAME "3-7_SOPHIA (Anna).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 5.52143366845141
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {725BDBD2-FF86-4F5F-8F0A-9614D72B0A25}
+      <SOURCE MP3
+        FILE "voiceovers\3-7_SOPHIA (Anna).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 21.50367524326203
+      SNAPOFFS 0
+      LENGTH 15.52201910165041
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6824CB59-06DB-42C7-9060-AD2300B71A1F}
+      IID 46
+      NAME "3-7_SOPHIA (Anna).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 8.05795874116014
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {355FC69F-6F1D-476D-B2F7-370C2CB0E911}
+      <SOURCE MP3
+        FILE "voiceovers\3-7_SOPHIA (Anna).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 39.50543154285904
+      SNAPOFFS 0
+      LENGTH 1.64684836810194
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5262C18F-F2EB-44F3-88EC-23261D8616EE}
+      IID 47
+      NAME "3-7_SOPHIA (Anna).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 23.57997784281055
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {541BD4AE-2D40-47A6-B508-BDEFBD0B644E}
+      <SOURCE MP3
+        FILE "voiceovers\3-7_SOPHIA (Anna).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 43.46165348462115
+      SNAPOFFS 0
+      LENGTH 3.55870681842717
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {40FB7103-35A0-4D07-BE7D-D4997E0C5CA2}
+      IID 48
+      NAME "3-7_SOPHIA (Anna).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 25.22682621091248
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {68F41010-F6F8-4CF6-8974-680D5BA4C163}
+      <SOURCE MP3
+        FILE "voiceovers\3-7_SOPHIA (Anna).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 48.06147134035414
+      SNAPOFFS 0
+      LENGTH 11.98224157481062
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CD494B4B-BDDF-4CF5-BD28-FFF71F68E6D9}
+      IID 49
+      NAME "3-7_SOPHIA (Anna).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 28.78553302933965
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {30A93793-C9EE-4192-B6F4-1A969E0A4719}
+      <SOURCE MP3
+        FILE "voiceovers\3-7_SOPHIA (Anna).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 68.01294467345113
+      SNAPOFFS 0
+      LENGTH 14.48090806434459
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8F38B282-130F-4050-8F62-C6459DA4E663}
+      IID 50
+      NAME "3-7_SOPHIA (Anna).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 40.76777460415028
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ECF1FA9A-50D7-4B0C-883A-11D9E86A88B5}
+      <SOURCE MP3
+        FILE "voiceovers\3-7_SOPHIA (Anna).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 84.5382162292326
+      SNAPOFFS 0
+      LENGTH 4.99733297906795
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8F6089A0-3C93-46DF-A9B9-D6DDA9A5C2B7}
+      IID 51
+      NAME "3-7_SOPHIA (Anna).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 55.24868266849487
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {508D5E01-1878-4C21-934D-FDF81C870994}
+      <SOURCE MP3
+        FILE "voiceovers\3-7_SOPHIA (Anna).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 91.48526624180053
+      SNAPOFFS 0
+      LENGTH 35.79529039173285
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {ABDC972C-19C8-4C3A-99A6-8AC7FB93C1C9}
+      IID 52
+      NAME "3-7_SOPHIA (Anna).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 60.24601564756281
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E4552465-52EF-4D68-9A55-A1A515C21742}
+      <SOURCE MP3
+        FILE "voiceovers\3-7_SOPHIA (Anna).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 131.84251590609162
+      SNAPOFFS 0
+      LENGTH 1.6657776596893
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FD8B7585-23FF-4A76-9ACD-F967DAAB23E7}
+      IID 53
+      NAME "3-7_SOPHIA (Anna).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 96.04130603929566
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3A0F7739-1663-4E4C-840E-9904CB43FEA5}
+      <SOURCE MP3
+        FILE "voiceovers\3-7_SOPHIA (Anna).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 134.66298035261102
+      SNAPOFFS 0
+      LENGTH 11.72089816042532
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7DC5E8BC-9400-423D-8184-CAC973108E19}
+      IID 54
+      NAME "3-7_SOPHIA (Anna).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 97.70708369898496
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C129C94-F191-436D-89D2-E55B99250E35}
+      <SOURCE MP3
+        FILE "voiceovers\3-7_SOPHIA (Anna).mp3" 1
+      >
+    >
+  >
   <TRACK {64C296B2-3746-46B1-87C1-3E7D04DB1780}
     NAME "3-7_ROGER (Carl)"
     PEAKCOL 16576
@@ -96,7 +448,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -113,10 +465,10 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 0 1 0
+      PT 2.4995 -1 0
     >
     <ITEM
-      POSITION 2.5
+      POSITION 5.96272685002424
       SNAPOFFS 0
       LENGTH 3
       LOOP 1
@@ -138,7 +490,7 @@
       >
     >
     <ITEM
-      POSITION 6.5
+      POSITION 10.01359524972325
       SNAPOFFS 0
       LENGTH 3.5
       LOOP 1
@@ -160,7 +512,7 @@
       >
     >
     <ITEM
-      POSITION 11
+      POSITION 14.51876664751935
       SNAPOFFS 0
       LENGTH 3.5
       LOOP 1
@@ -182,7 +534,7 @@
       >
     >
     <ITEM
-      POSITION 17.5
+      POSITION 20.50042278913097
       SNAPOFFS 0
       LENGTH 1.5
       LOOP 1
@@ -204,7 +556,7 @@
       >
     >
     <ITEM
-      POSITION 40.5
+      POSITION 36.51460347205322
       SNAPOFFS 0
       LENGTH 3
       LOOP 1
@@ -226,7 +578,7 @@
       >
     >
     <ITEM
-      POSITION 44.5
+      POSITION 40.6790476212765
       SNAPOFFS 0
       LENGTH 3
       LOOP 1
@@ -248,7 +600,7 @@
       >
     >
     <ITEM
-      POSITION 52
+      POSITION 46.54712801336386
       SNAPOFFS 0
       LENGTH 2.5
       LOOP 1
@@ -270,7 +622,7 @@
       >
     >
     <ITEM
-      POSITION 68.5
+      POSITION 59.8354907077036
       SNAPOFFS 0
       LENGTH 9
       LOOP 1
@@ -292,7 +644,7 @@
       >
     >
     <ITEM
-      POSITION 96.5
+      POSITION 82.02062044811126
       SNAPOFFS 0
       LENGTH 3
       LOOP 1
@@ -314,7 +666,7 @@
       >
     >
     <ITEM
-      POSITION 103
+      POSITION 89.02445833544132
       SNAPOFFS 0
       LENGTH 3
       LOOP 1
@@ -336,9 +688,9 @@
       >
     >
     <ITEM
-      POSITION 149.5
+      POSITION 127.01554655131008
       SNAPOFFS 0
-      LENGTH 5
+      LENGTH 5.00000000000017
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -358,9 +710,9 @@
       >
     >
     <ITEM
-      POSITION 156
+      POSITION 133.01613198450909
       SNAPOFFS 0
-      LENGTH 2.58063492063491
+      LENGTH 2.58063492063499
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -380,8 +732,55 @@
       >
     >
   >
-  <TRACK {1FB50C2F-1CBE-4A9A-96F0-2FB1E901E0C2}
-    NAME "3-7_SOPHIA (Adriana)"
+  <TRACK {04F01101-E6D6-4698-AA34-5FE7743D97AA}
+    NAME 144121__avakas__running-away-outside
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {04F01101-E6D6-4698-AA34-5FE7743D97AA}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 145.98269672186339
+      SNAPOFFS 0
+      LENGTH 6.54953488923297
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {60B024BC-E7BD-47C9-8AAB-12CB600227C0}
+      IID 55
+      NAME 144121__avakas__running-away-outside.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A890A609-CA3A-4940-BE5C-FE0A0662E048}
+      <SOURCE WAVE
+        FILE "sound-effects\144121__avakas__running-away-outside.wav"
+      >
+    >
+  >
+  <TRACK {1D806250-A258-4F0B-A240-5FF22AF7C185}
+    NAME 484415__felix-blume__cricket-close-recording-jalda
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -400,302 +799,42 @@
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {1FB50C2F-1CBE-4A9A-96F0-2FB1E901E0C2}
+    TRACKID {1D806250-A258-4F0B-A240-5FF22AF7C185}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
-    <PANENV2
+    <VOLENV2
       ACT 1 -1
       VIS 1 1 1
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 0 -1 0
+      VOLTYPE 1
+      PT 0 1 0
+      PT 3.95622194 0.03630781 0
+      PT 146.02055531 0.03630781 0
+      PT 151.92649428 0.93325442 0 0 1
     >
     <ITEM
-      POSITION 0
+      POSITION 0.0378585831495
       SNAPOFFS 0
-      LENGTH 3
+      LENGTH 152.47544373635949
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {A305238C-05EB-4E70-92FE-6F58C59AE5EC}
-      IID 2
-      NAME "3-7_SOPHIA (Adriana).mp3"
+      IGUID {B0FFD951-E031-46AF-AB12-CD1A992C794F}
+      IID 56
+      NAME 484415__felix-blume__cricket-close-recording-jalda.wav
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {0F4FE58F-D7E3-47A1-A778-0BCC3106162E}
-      <SOURCE MP3
-        FILE "voiceovers\3-7_SOPHIA (Adriana).mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 4.5
-      SNAPOFFS 0
-      LENGTH 2.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {5F1AAFC4-42AF-44D6-B67A-C41046F412B0}
-      IID 3
-      NAME "3-7_SOPHIA (Adriana).mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 3
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {1B63D948-D41C-4AA1-865E-D4288FB31131}
-      <SOURCE MP3
-        FILE "voiceovers\3-7_SOPHIA (Adriana).mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 9
-      SNAPOFFS 0
-      LENGTH 2.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {09BE7CCA-8ED2-4D15-B9A2-23B355AB1867}
-      IID 5
-      NAME "3-7_SOPHIA (Adriana).mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 5.5
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {17992954-102E-4740-9151-17072041778E}
-      <SOURCE MP3
-        FILE "voiceovers\3-7_SOPHIA (Adriana).mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 14
-      SNAPOFFS 0
-      LENGTH 4
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {289C645C-6FF1-4BB2-8CA7-51BDD90E2E38}
-      IID 7
-      NAME "3-7_SOPHIA (Adriana).mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 8
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {76697A7C-D165-4AEF-BF69-0327F56AE614}
-      <SOURCE MP3
-        FILE "voiceovers\3-7_SOPHIA (Adriana).mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 18
-      SNAPOFFS 0
-      LENGTH 22.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {E764BB3D-633D-4090-B646-FBA4C9293CD3}
-      IID 11
-      NAME "3-7_SOPHIA (Adriana).mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 12.5
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {1BB1724E-7B1F-47F7-A9B1-CE5D491DD897}
-      <SOURCE MP3
-        FILE "voiceovers\3-7_SOPHIA (Adriana).mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 41.5
-      SNAPOFFS 0
-      LENGTH 3.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {1D7B077C-27C0-4AA9-BBE4-717492ADA03B}
-      IID 12
-      NAME "3-7_SOPHIA (Adriana).mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 35
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {A9E781C1-3E01-4D50-B9CC-C3976EB9C2E0}
-      <SOURCE MP3
-        FILE "voiceovers\3-7_SOPHIA (Adriana).mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 46
-      SNAPOFFS 0
-      LENGTH 7
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {31713FB6-947F-44EF-9837-E4B1D3022956}
-      IID 14
-      NAME "3-7_SOPHIA (Adriana).mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 38.5
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {E0FE47A8-412D-4CAA-83DC-FB6753FFD6A2}
-      <SOURCE MP3
-        FILE "voiceovers\3-7_SOPHIA (Adriana).mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 53
-      SNAPOFFS 0
-      LENGTH 16
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {2F4FDA17-9A8D-44D2-A264-3C98907659AD}
-      IID 16
-      NAME "3-7_SOPHIA (Adriana).mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 45.5
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {3B718CB2-A1EB-40E9-90E7-3C71E16687A2}
-      <SOURCE MP3
-        FILE "voiceovers\3-7_SOPHIA (Adriana).mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 74
-      SNAPOFFS 0
-      LENGTH 22.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {87FE3874-AD60-4B0E-A8AC-8D71BC2FF5EB}
-      IID 18
-      NAME "3-7_SOPHIA (Adriana).mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 61.5
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {BC307E09-8FBC-4550-AA26-5726B46D184D}
-      <SOURCE MP3
-        FILE "voiceovers\3-7_SOPHIA (Adriana).mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 96.5
-      SNAPOFFS 0
-      LENGTH 7
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {F6519578-44A4-4AE1-BB15-7E88C96F5814}
-      IID 20
-      NAME "3-7_SOPHIA (Adriana).mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 84
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {2157C80C-8B14-4D5B-807A-825DD671CAEA}
-      <SOURCE MP3
-        FILE "voiceovers\3-7_SOPHIA (Adriana).mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 105
-      SNAPOFFS 0
-      LENGTH 44.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {7DF5AAA7-C159-4A4F-955C-B2C8F6F16037}
-      IID 25
-      NAME "3-7_SOPHIA (Adriana).mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 93
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {727BE140-E824-4C9C-A4EC-29E867DF758D}
-      <SOURCE MP3
-        FILE "voiceovers\3-7_SOPHIA (Adriana).mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 152
-      SNAPOFFS 0
-      LENGTH 4.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {A6F6E652-BF50-4F64-9FD9-FDB645E860AC}
-      IID 26
-      NAME "3-7_SOPHIA (Adriana).mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 137.5
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {FE0457DC-A1F1-41DD-A1A8-628B9AD684E6}
-      <SOURCE MP3
-        FILE "voiceovers\3-7_SOPHIA (Adriana).mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 157
-      SNAPOFFS 0
-      LENGTH 14.94471655328798
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {7C13F005-5BF3-47DE-890E-724DD451CF1B}
-      IID 28
-      NAME "3-7_SOPHIA (Adriana).mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 142
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {8743626A-F591-4053-B185-620F7654AA0B}
-      <SOURCE MP3
-        FILE "voiceovers\3-7_SOPHIA (Adriana).mp3" 1
+      GUID {903A2F3A-7C89-4111-8B1D-8F1FB077331A}
+      <SOURCE WAVE
+        FILE "sound-effects\484415__felix-blume__cricket-close-recording-jalda.wav"
       >
     >
   >
