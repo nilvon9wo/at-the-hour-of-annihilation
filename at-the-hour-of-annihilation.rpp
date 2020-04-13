@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586324534
+<REAPER_PROJECT 0.1 "6.08/x64" 1586799822
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,7 +14,7 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
+  CURSOR 59
   ZOOM 100 0 0
   VZOOMEX 6 0
   USE_REC_CFG 0
@@ -27,9 +27,8 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE ""
-  RENDER_PATTERN ""
-  RENDER_FMT 0 2 0
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene3-5.mp3"
+  RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
   RENDER_RESAMPLE 3 0 1
@@ -43,6 +42,7 @@
   TAKELANE 1
   SAMPLERATE 44100 0 0
   <RENDER_CFG
+    bDNwbYAAAAAAAAAAAgAAAP////8EAAAAgAAAAAAAAAA=
   >
   LOCK 1
   <METRONOME 6 2
@@ -75,12 +75,343 @@
     DEFSHAPE 0 -1 -1
   >
   <TEMPOENVEX
-    ACT 1 -1
+    ACT 0 -1
     VIS 1 0 1
     LANEHEIGHT 0 0
     ARM 0
     DEFSHAPE 1 -1 -1
   >
   <PROJBAY
+  >
+  <TRACK {908FCD73-B34F-4A41-A126-713DE9B7455E}
+    NAME "❌ 3-5_HANSEL (Brian - Take 3)_TREATED BUT BAD AUDIO QUALITY"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {908FCD73-B34F-4A41-A126-713DE9B7455E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 2 0
+      PT 3.5 2 0
+      PT 4.01 1 0
+      PT 56.96 1 0
+      PT 57.5 2 0
+      PT 58.01 1 0
+      PT 59.5 2 0 0 1
+    >
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 1 1 0
+    >
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B83258B0-9D62-4D9D-833C-ADA55ABC64EF}
+      IID 1
+      NAME "❌ 3-5_HANSEL (Brian - Take 3)_TREATED BUT BAD AUDIO QUALITY.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8B2EFD30-A992-440E-A300-4AD2D88B4468}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 3-5_HANSEL (Brian - Take 3)_TREATED BUT BAD AUDIO QUALITY.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 11
+      SNAPOFFS 0
+      LENGTH 9.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {12EE5C9C-5819-44B2-86E0-719B34712F8A}
+      IID 4
+      NAME "❌ 3-5_HANSEL (Brian - Take 3)_TREATED BUT BAD AUDIO QUALITY.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 6
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {92D3C595-5626-4B4B-92BC-6410C5158FA2}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 3-5_HANSEL (Brian - Take 3)_TREATED BUT BAD AUDIO QUALITY.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 28
+      SNAPOFFS 0
+      LENGTH 28
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {41B7B979-4C0F-4154-85D3-064B5313AE26}
+      IID 6
+      NAME "❌ 3-5_HANSEL (Brian - Take 3)_TREATED BUT BAD AUDIO QUALITY.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 15.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B20CAC1E-5E97-4154-BF66-3906AE452AE0}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 3-5_HANSEL (Brian - Take 3)_TREATED BUT BAD AUDIO QUALITY.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 56.5
+      SNAPOFFS 0
+      LENGTH 4.22675736961452
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CACFD337-89EF-4299-8774-A8E49D01CB65}
+      IID 8
+      NAME "❌ 3-5_HANSEL (Brian - Take 3)_TREATED BUT BAD AUDIO QUALITY.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 43.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7FCC673D-59FE-421F-ACF6-B755E2F188C6}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 3-5_HANSEL (Brian - Take 3)_TREATED BUT BAD AUDIO QUALITY.mp3" 1
+      >
+    >
+  >
+  <TRACK {D2272E5B-3E24-4102-84B1-37BE6552FED3}
+    NAME "3-5_KENDRA (Gina)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D2272E5B-3E24-4102-84B1-37BE6552FED3}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 6.51 1 0
+      PT 7 2 0 0 1
+      PT 7.33 1 0
+    >
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0.9995 -1 0
+    >
+    <ITEM
+      POSITION 6.5
+      SNAPOFFS 0
+      LENGTH 5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7E163495-5965-4988-90C2-EA65C6A860D9}
+      IID 2
+      NAME "3-5_KENDRA (Gina).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {153ADDBF-FFFB-48AD-B5FA-CD6F9D292503}
+      <SOURCE MP3
+        FILE "voiceovers\3-5_KENDRA (Gina).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 20.5
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {ECDBC19D-EC0E-448A-8755-3232BBE79860}
+      IID 5
+      NAME "3-5_KENDRA (Gina).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1F46CD2E-0D64-42BC-9443-B06B776A7871}
+      <SOURCE MP3
+        FILE "voiceovers\3-5_KENDRA (Gina).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 55
+      SNAPOFFS 0
+      LENGTH 2.54757369614512
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {112FE982-99DB-4393-8FD1-AF5356A1B56C}
+      IID 7
+      NAME "3-5_KENDRA (Gina).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 12.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9379B15C-25D5-41DC-A23F-13C066EE175D}
+      <SOURCE MP3
+        FILE "voiceovers\3-5_KENDRA (Gina).mp3" 1
+      >
+    >
+  >
+  <TRACK {45E0B4E5-35C7-4B51-8F50-04B2ADE23B4F}
+    NAME street-daniel_simon
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {45E0B4E5-35C7-4B51-8F50-04B2ADE23B4F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 0.07943282 0
+      PT 0.97 0.01659587 0
+      PT 47.4995 0.01659587 0
+      PT 47.5 0.07943282 0
+      PT 48.47 0.01659587 0
+      PT 59.98 0.01659587 0
+      PT 62 0.12302688 0 0 1
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 49.71444444444445
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1.1 0.01 2.214444 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {4319A2F4-752A-45B0-9415-9A1AAA3BEEA3}
+      IID 3
+      NAME street-daniel_simon.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {00194FE8-E1C1-4844-8F25-B6D08EF69EDF}
+      <SOURCE MP3
+        FILE "sound-effects\street-daniel_simon.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 47.5
+      SNAPOFFS 0
+      LENGTH 16.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 2.214444 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8AAB35AA-BB21-44AC-89A0-FB52CB372691}
+      IID 3
+      NAME street-daniel_simon.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {29C49ACB-43BF-4110-8F99-5224E43F9D99}
+      <SOURCE MP3
+        FILE "sound-effects\street-daniel_simon.mp3" 1
+      >
+    >
   >
 >
