@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586804899
+<REAPER_PROJECT 0.1 "6.08/x64" 1586806167
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -27,7 +27,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene3-7b.mp3"
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene3-7c.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -745,7 +745,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -780,7 +780,7 @@
     >
   >
   <TRACK {1D806250-A258-4F0B-A240-5FF22AF7C185}
-    NAME 484415__felix-blume__cricket-close-recording-jalda
+    NAME crickets
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -792,7 +792,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -816,25 +816,25 @@
       PT 151.92649428 0.93325442 0 0 1
     >
     <ITEM
-      POSITION 0.0378585831495
+      POSITION 0.05678787478246
       SNAPOFFS 0
-      LENGTH 152.47544373635949
+      LENGTH 152.45651444472654
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {B0FFD951-E031-46AF-AB12-CD1A992C794F}
-      IID 56
-      NAME 484415__felix-blume__cricket-close-recording-jalda.wav
+      IGUID {385BC2A5-64D4-4459-98A5-48F05C3119E5}
+      IID 69
+      NAME 216214__rsilveira-88__crickets-03.wav
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {903A2F3A-7C89-4111-8B1D-8F1FB077331A}
+      GUID {CF4ED731-C484-4C6E-A6F5-CB7FDCD5401D}
       <SOURCE WAVE
-        FILE "sound-effects\484415__felix-blume__cricket-close-recording-jalda.wav"
+        FILE "sound-effects\216214__rsilveira-88__crickets-03.wav"
       >
     >
   >
