@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586514994
+<REAPER_PROJECT 0.1 "6.08/x64" 1586772940
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 40.5
-  ZOOM 10.96294894728053 0 0
+  CURSOR 0
+  ZOOM 31.27660147968026 0 0
   VZOOMEX 4 0
   USE_REC_CFG 0
   RECMODE 1
@@ -27,9 +27,8 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE ""
-  RENDER_PATTERN ""
-  RENDER_FMT 0 2 0
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene1-7.mp3"
+  RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
   RENDER_RESAMPLE 3 0 1
@@ -43,6 +42,7 @@
   TAKELANE 1
   SAMPLERATE 44100 0 0
   <RENDER_CFG
+    bDNwbYAAAAAAAAAAAgAAAP////8EAAAAgAAAAAAAAAA=
   >
   LOCK 1
   <METRONOME 6 2
@@ -55,8 +55,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 41 40.5
-  SELECTION2 41 40.5
+  SELECTION 41 35.5
+  SELECTION2 41 35.5
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -83,12 +83,12 @@
   >
   <PROJBAY
   >
-  <TRACK {A870FF30-D4C8-47BE-88D2-18D156E472DE}
-    NAME "1-7 KATIE (Emilia)"
+  <TRACK {2A9414E0-DB41-4D76-9C68-90BB27C46F7E}
+    NAME "1-7_ANGUS (Omer - Take 3)"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1 1 -1 -1 1
+    VOLPAN 1 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -96,19 +96,427 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {A870FF30-D4C8-47BE-88D2-18D156E472DE}
+    TRACKID {2A9414E0-DB41-4D76-9C68-90BB27C46F7E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+    >
+    <ITEM
+      POSITION 14
+      SNAPOFFS 0
+      LENGTH 9
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CCD4D781-2199-4905-841F-483AB0D61557}
+      IID 26
+      NAME "1-7_ANGUS (Omer - Take 3).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B476F32-8750-4D3D-956D-C3F828FCB9C5}
+      <SOURCE MP3
+        FILE "voiceovers\1-7_ANGUS (Omer - Take 3).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 28
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0FCB93BC-A4EE-4758-B832-5C8A7F44E00F}
+      IID 30
+      NAME "1-7_ANGUS (Omer - Take 3).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 9
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4E823A19-C302-4618-A9CE-89ADCC0EBB5D}
+      <SOURCE MP3
+        FILE "voiceovers\1-7_ANGUS (Omer - Take 3).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 82
+      SNAPOFFS 0
+      LENGTH 12
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FBD32043-4FBC-421D-B7BF-4B0A787DB6A2}
+      IID 33
+      NAME "1-7_ANGUS (Omer - Take 3).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 16.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C1638337-EB68-4510-B000-D17CE9B0E50E}
+      <SOURCE MP3
+        FILE "voiceovers\1-7_ANGUS (Omer - Take 3).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 128.5
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A02B696C-A0A9-455B-8E0A-6B6AB734BBA3}
+      IID 44
+      NAME "1-7_ANGUS (Omer - Take 3).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 28.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8B3DA14C-1A4B-47C0-9101-0B66534C4305}
+      <SOURCE MP3
+        FILE "voiceovers\1-7_ANGUS (Omer - Take 3).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 138.5
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {101DB9D1-054B-4C07-9445-B1B66FACA168}
+      IID 48
+      NAME "1-7_ANGUS (Omer - Take 3).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 32.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {65A000AD-4825-4B95-818E-09F192CB8520}
+      <SOURCE MP3
+        FILE "voiceovers\1-7_ANGUS (Omer - Take 3).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 167.5
+      SNAPOFFS 0
+      LENGTH 6.02879818594101
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BEB9AD8E-E140-453A-B345-CFD76C20FBED}
+      IID 51
+      NAME "1-7_ANGUS (Omer - Take 3).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 40
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A3EE2DC7-512B-4103-8E81-B4407CD9D80C}
+      <SOURCE MP3
+        FILE "voiceovers\1-7_ANGUS (Omer - Take 3).mp3" 1
+      >
+    >
+  >
+  <TRACK {5BF4972C-DCC3-4830-916F-07F2900921E1}
+    NAME "❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5BF4972C-DCC3-4830-916F-07F2900921E1}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 195.96118856 1 0
+      PT 196.5 1.70227608 0
+      PT 196.88839927 1 0
+    >
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 -1 0
+    >
+    <ITEM
+      POSITION 23
+      SNAPOFFS 0
+      LENGTH 6.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EF80B7B3-A859-4494-A01A-9BADB616C1F3}
+      IID 24
+      NAME "❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DA01F111-F130-440F-8298-4027A19421DE}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 34
+      SNAPOFFS 0
+      LENGTH 4.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {74672562-A723-464C-83B1-F5213F1F92D4}
+      IID 31
+      NAME "❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 6.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DAA29A97-2C49-4025-AA77-51FA88CD6D2C}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 53.5
+      SNAPOFFS 0
+      LENGTH 9.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {611FA97C-4E2D-47DA-BB47-73E77E260E9B}
+      IID 34
+      NAME "❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 11
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {64716068-B245-4A08-9A6B-E9B80FBA6194}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 108
+      SNAPOFFS 0
+      LENGTH 4.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EFF763F9-1C78-4660-BB65-5A5478F303CF}
+      IID 36
+      NAME "❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 20.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2F996125-11CD-474D-8233-64ED4717EFCE}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 136
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D173ACAA-6347-4037-B192-26A7A4F640C9}
+      IID 46
+      NAME "❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 25
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {23D7F244-A3B0-41B2-8259-A0F9DC34B327}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 158.5
+      SNAPOFFS 0
+      LENGTH 11
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {92C7FBD5-8C0C-45B1-A0D1-A8BC659D6E98}
+      IID 50
+      NAME "❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 29
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BE03ABD9-E7B8-40A3-9009-A2A9E346FEEC}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 173
+      SNAPOFFS 0
+      LENGTH 4.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9EB22D6A-FE2A-4405-A263-F71E5917B2CE}
+      IID 53
+      NAME "❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 40
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {574B2BA7-629F-4B69-A294-93FE14EC0926}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 188.5
+      SNAPOFFS 0
+      LENGTH 10
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3BB59FAB-585E-49FA-AF62-E3AD864FFB46}
+      IID 54
+      NAME "❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 44.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FEB7D603-CEC1-48EB-8013-5146623AB5B5}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 200.5
+      SNAPOFFS 0
+      LENGTH 1.69043083900226
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7D0CF885-7CA9-4453-AD66-39A0BC7FCC23}
+      IID 57
+      NAME "❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 54.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0DB3BD32-1463-41C5-A4B9-1D4B7585AD0B}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3" 1
+      >
+    >
+  >
+  <TRACK {54FFD187-FEEA-4607-BE13-5EE380E71C0E}
+    NAME "1-7 KATIE (Emilia)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {54FFD187-FEEA-4607-BE13-5EE380E71C0E}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 0.5
+      POSITION 38.5
       SNAPOFFS 0
       LENGTH 16
       LOOP 1
@@ -117,42 +525,42 @@
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {0DB9428A-5F1E-4F97-B74F-E0593ABB9C56}
-      IID 2
+      IGUID {AD46B551-6CB8-4020-9B77-69E2FC3A58F1}
+      IID 25
       NAME "1-7 KATIE (Emilia).mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {9446D50B-908B-4E22-91B1-775B7BE9FB2E}
+      GUID {F5BAFBEA-542A-4963-9B2D-E40424E57E68}
       <SOURCE MP3
         FILE "voiceovers\1-7 KATIE (Emilia).mp3" 1
       >
     >
     <ITEM
-      POSITION 19
+      POSITION 62.5
       SNAPOFFS 0
-      LENGTH 20.87133962781017
+      LENGTH 21
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {37C21F12-9645-4CC2-A685-43412EDF20BD}
-      IID 5
+      IGUID {1207730A-BA5A-4DC0-8AED-B92D3A8A7753}
+      IID 35
       NAME "1-7 KATIE (Emilia).mp3"
       VOLPAN 1 0 1 -1
       SOFFS 16
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {2562FF09-C1E5-4484-8295-E2D0F9F0F54D}
+      GUID {CCDE9051-B007-47FB-8980-E373EB834DC8}
       <SOURCE MP3
         FILE "voiceovers\1-7 KATIE (Emilia).mp3" 1
       >
     >
     <ITEM
-      POSITION 41
+      POSITION 94
       SNAPOFFS 0
       LENGTH 14.5
       LOOP 1
@@ -160,87 +568,87 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
-      IGUID {CE2E0B58-46BD-455C-BA19-148181EE74EE}
-      IID 14
+      SEL 0
+      IGUID {C5BBC5A6-1873-4BC9-8D00-03730CB80099}
+      IID 43
       NAME "1-7 KATIE (Emilia).mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 36.87133962781017
+      SOFFS 37
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {FFE0987E-1AA6-44CB-8793-E4EE6118EF79}
+      GUID {24BD5A60-8DFE-4A7B-866D-28B662320A2C}
       <SOURCE MP3
         FILE "voiceovers\1-7 KATIE (Emilia).mp3" 1
       >
     >
     <ITEM
-      POSITION 57.5
+      POSITION 112
       SNAPOFFS 0
-      LENGTH 17.86880250661115
+      LENGTH 18
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {63CCC0EB-AA4C-4F2A-94A6-C27010F5DB6D}
-      IID 15
+      IGUID {BDFDBBE2-A75F-4B06-B056-69AC86E83767}
+      IID 45
       NAME "1-7 KATIE (Emilia).mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 51.37133962781017
+      SOFFS 51.5
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {3BB39AAB-AF9C-4251-A970-27AAAB3651AE}
+      GUID {B6B151E4-FD2F-447B-97FF-FA7641507C1F}
       <SOURCE MP3
         FILE "voiceovers\1-7 KATIE (Emilia).mp3" 1
       >
     >
     <ITEM
-      POSITION 76.19753704852867
+      POSITION 131.5
       SNAPOFFS 0
-      LENGTH 4.80246295147133
+      LENGTH 5
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {B72DD357-F1F5-4514-9E83-099441296D08}
-      IID 17
+      IGUID {92853179-1971-4595-B1C9-17FD9D4C4671}
+      IID 47
       NAME "1-7 KATIE (Emilia).mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 70.06887667633885
+      SOFFS 69.5
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {35D711CB-0CD6-4F7B-83F9-7BA8EE077A74}
+      GUID {B50F385A-E101-475E-BBF5-29ADDC7B3A1B}
       <SOURCE MP3
         FILE "voiceovers\1-7 KATIE (Emilia).mp3" 1
       >
     >
     <ITEM
-      POSITION 84
+      POSITION 145
       SNAPOFFS 0
-      LENGTH 13.71032247152698
+      LENGTH 14
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {F32AC8D3-FE17-44DD-AB33-98D6DBCB7931}
-      IID 18
+      IGUID {DDCA1EB7-DDBA-40BA-A381-71FCCEE5A989}
+      IID 49
       NAME "1-7 KATIE (Emilia).mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 74.87133962781017
+      SOFFS 74.5
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {3B3522B1-DA77-4760-8743-BA7C63E53EFB}
+      GUID {0E302D2D-D280-4B23-BD3D-441D05FC7695}
       <SOURCE MP3
         FILE "voiceovers\1-7 KATIE (Emilia).mp3" 1
       >
     >
     <ITEM
-      POSITION 99
+      POSITION 177
       SNAPOFFS 0
       LENGTH 12.5
       LOOP 1
@@ -249,38 +657,311 @@
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {BFF6932F-1215-4DF2-A2BD-8B6B9CA9B251}
-      IID 19
+      IGUID {D7E2025D-D501-49FB-8188-4ADE126B5980}
+      IID 52
       NAME "1-7 KATIE (Emilia).mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 88.58166209933715
+      SOFFS 88.5
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {83FC5B52-313A-4098-885A-B9BD91BC2B24}
+      GUID {01BF6CE3-D3C6-42C8-B54D-D5D1A8DC3931}
       <SOURCE MP3
         FILE "voiceovers\1-7 KATIE (Emilia).mp3" 1
       >
     >
     <ITEM
-      POSITION 113
+      POSITION 197.5
       SNAPOFFS 0
-      LENGTH 2.85180980594869
+      LENGTH 3.59532879818596
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {E8831925-D24E-4BAC-9BC8-501D97037F86}
-      IID 21
+      IGUID {B45847A1-D7DC-4D4C-82C1-6B5E83C3CFBE}
+      IID 55
       NAME "1-7 KATIE (Emilia).mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 101.74351899223726
+      SOFFS 101
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {A21F3223-FC07-4DAE-941D-0EB0A10CE615}
+      GUID {E1F4B007-A476-4A26-A6B4-3854D9CEC6E5}
       <SOURCE MP3
         FILE "voiceovers\1-7 KATIE (Emilia).mp3" 1
+      >
+    >
+  >
+  <TRACK {F7B5911E-B701-461E-90D5-B2DC1490E0AD}
+    NAME Kettle
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F7B5911E-B701-461E-90D5-B2DC1490E0AD}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 15.44077097505669
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2ED8AEA1-3784-4B5E-B268-047F89F6EB51}
+      IID 27
+      NAME 336518__giddster__kitchen-faucet.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FC6DA124-F3F0-4085-8670-5596F45DA799}
+      <SOURCE WAVE
+        FILE "sound-effects\336518__giddster__kitchen-faucet.wav"
+      >
+    >
+  >
+  <TRACK {340D52FF-BC6C-451F-9D3A-27F63EBE0DA2}
+    NAME Kitchen
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {340D52FF-BC6C-451F-9D3A-27F63EBE0DA2}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 31.17376041666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9188D642-15CB-4830-8697-0418119B929F}
+      IID 37
+      NAME 473718__joao-janz__kitchen-ambience-at-night.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {18EE1BD7-004E-4868-8FA7-4FC8DA1A7FAF}
+      <SOURCE WAVE
+        FILE "sound-effects\473718__joao-janz__kitchen-ambience-at-night.wav"
+      >
+    >
+    <ITEM
+      POSITION 31.17376041666667
+      SNAPOFFS 0
+      LENGTH 31.17376041666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C7C74377-88C2-495C-808A-3144C51DD6AC}
+      IID 37
+      NAME 473718__joao-janz__kitchen-ambience-at-night.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6CAC0ADD-6376-4EE0-8A1F-34F0CAF145BB}
+      <SOURCE WAVE
+        FILE "sound-effects\473718__joao-janz__kitchen-ambience-at-night.wav"
+      >
+    >
+    <ITEM
+      POSITION 62.34752083333333
+      SNAPOFFS 0
+      LENGTH 31.17376041666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AD2B5F6F-F12B-4AFE-A094-C9488CDAE1BD}
+      IID 37
+      NAME 473718__joao-janz__kitchen-ambience-at-night.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {03050D8D-AA90-464A-B2F3-B7ACB11CC272}
+      <SOURCE WAVE
+        FILE "sound-effects\473718__joao-janz__kitchen-ambience-at-night.wav"
+      >
+    >
+    <ITEM
+      POSITION 93.52128125
+      SNAPOFFS 0
+      LENGTH 31.17376041666665
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6D4BAE74-4D63-463F-9787-C3FFB4203570}
+      IID 37
+      NAME 473718__joao-janz__kitchen-ambience-at-night.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {95A1EEA1-E0F9-4CC3-BC96-1D94E1B36CE9}
+      <SOURCE WAVE
+        FILE "sound-effects\473718__joao-janz__kitchen-ambience-at-night.wav"
+      >
+    >
+    <ITEM
+      POSITION 124.69504166666665
+      SNAPOFFS 0
+      LENGTH 31.17376041666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CB5DFE17-432E-45B6-AEBB-14E5159D8925}
+      IID 37
+      NAME 473718__joao-janz__kitchen-ambience-at-night.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {48F1E3FE-7169-4067-9A30-AAEFD2C6A28E}
+      <SOURCE WAVE
+        FILE "sound-effects\473718__joao-janz__kitchen-ambience-at-night.wav"
+      >
+    >
+    <ITEM
+      POSITION 155.86880208333332
+      SNAPOFFS 0
+      LENGTH 31.17376041666665
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2BB6A0B6-CA21-4729-BC8B-73922095FC98}
+      IID 37
+      NAME 473718__joao-janz__kitchen-ambience-at-night.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E979FD2B-7CC4-406B-8CB9-E6E405C0A606}
+      <SOURCE WAVE
+        FILE "sound-effects\473718__joao-janz__kitchen-ambience-at-night.wav"
+      >
+    >
+    <ITEM
+      POSITION 187.0425625
+      SNAPOFFS 0
+      LENGTH 31.17376041666665
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {717A429E-495F-41D5-9937-14A2363A9EAE}
+      IID 37
+      NAME 473718__joao-janz__kitchen-ambience-at-night.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6CE344A4-367F-4E27-B4B7-585BD51E80AE}
+      <SOURCE WAVE
+        FILE "sound-effects\473718__joao-janz__kitchen-ambience-at-night.wav"
+      >
+    >
+  >
+  <TRACK {A6295E75-11B4-4FBB-9C2F-D19F6940C5ED}
+    NAME "Opening bottle"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A6295E75-11B4-4FBB-9C2F-D19F6940C5ED}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 202.5
+      SNAPOFFS 0
+      LENGTH 2.39165532879818
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4DE9175E-483E-4CE8-8EB1-1C569DA1F365}
+      IID 58
+      NAME 53289__yngwiem__beer-bottle-opening.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DD55F03F-341F-4DF4-B744-E0FF1821DE25}
+      <SOURCE WAVE
+        FILE "sound-effects\53289__yngwiem__beer-bottle-opening.wav"
       >
     >
   >
