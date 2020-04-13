@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586324534
+<REAPER_PROJECT 0.1 "6.08/x64" 1586781684
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -27,9 +27,8 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE ""
-  RENDER_PATTERN ""
-  RENDER_FMT 0 2 0
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene2-2.mp3"
+  RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
   RENDER_RESAMPLE 3 0 1
@@ -43,6 +42,7 @@
   TAKELANE 1
   SAMPLERATE 44100 0 0
   <RENDER_CFG
+    bDNwbYAAAAAAAAAAAgAAAP////8EAAAAgAAAAAAAAAA=
   >
   LOCK 1
   <METRONOME 6 2
@@ -75,12 +75,326 @@
     DEFSHAPE 0 -1 -1
   >
   <TEMPOENVEX
-    ACT 1 -1
+    ACT 0 -1
     VIS 1 0 1
     LANEHEIGHT 0 0
     ARM 0
     DEFSHAPE 1 -1 -1
   >
   <PROJBAY
+  >
+  <TRACK {0A386D00-51F3-449D-A17B-67655D6BBF68}
+    NAME Doris
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0A386D00-51F3-449D-A17B-67655D6BBF68}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 9.5 1 0
+    >
+    <ITEM
+      POSITION 9.5
+      SNAPOFFS 0
+      LENGTH 22
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C23531D8-C479-4131-8A86-958C0001BAD3}
+      IID 3
+      NAME "2-2 DORIS (Dolores).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2E75B9E4-D08B-498D-8C03-9C8D3502F2F7}
+      <SOURCE MP3
+        FILE "voiceovers\2-2 DORIS (Dolores).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 54
+      SNAPOFFS 0
+      LENGTH 29.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {94E5B9D9-93A5-4F9A-A7E3-FF00B866807A}
+      IID 5
+      NAME "2-2 DORIS (Dolores).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 22
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5548627C-BEA5-4755-BEC3-D3ED211C4214}
+      <SOURCE MP3
+        FILE "voiceovers\2-2 DORIS (Dolores).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 113.5
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3D329E67-7844-4E72-81C2-F0909E212963}
+      IID 7
+      NAME "2-2 DORIS (Dolores).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 51.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F27379A2-0E4D-4D5E-997C-5F4704B44DF3}
+      <SOURCE MP3
+        FILE "voiceovers\2-2 DORIS (Dolores).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 133.5
+      SNAPOFFS 0
+      LENGTH 4.33287981859408
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6339DB16-388A-41BE-B64A-147258656626}
+      IID 9
+      NAME "2-2 DORIS (Dolores).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 57.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {12833BC5-968E-450C-AEFE-CDCCA6DED4E0}
+      <SOURCE MP3
+        FILE "voiceovers\2-2 DORIS (Dolores).mp3" 1
+      >
+    >
+  >
+  <TRACK {FCA76974-E805-47B8-AB67-B042B25ED40F}
+    NAME "2-2_PRESIDENT (Michael)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FCA76974-E805-47B8-AB67-B042B25ED40F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 9.4995 -1 0
+    >
+    <ITEM
+      POSITION 30.5
+      SNAPOFFS 0
+      LENGTH 24.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4BEB9784-499E-424C-AEB0-D5486D8F3788}
+      IID 4
+      NAME "2-2_PRESIDENT (Michael).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C9EC0388-C268-4C80-9B1B-14E951E61EDD}
+      <SOURCE MP3
+        FILE "voiceovers\2-2_PRESIDENT (Michael).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 82.5
+      SNAPOFFS 0
+      LENGTH 31
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3A31AE77-82EC-41FD-860C-6AD1133A8138}
+      IID 6
+      NAME "2-2_PRESIDENT (Michael).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 24.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D627DD99-71B1-45B2-A067-2DD32461AD28}
+      <SOURCE MP3
+        FILE "voiceovers\2-2_PRESIDENT (Michael).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 118.5
+      SNAPOFFS 0
+      LENGTH 15.52798185941043
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7652DB27-0CBA-42DB-A7F6-5048EF93647B}
+      IID 8
+      NAME "2-2_PRESIDENT (Michael).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 55.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {45E4ABFA-A0B5-4E1B-B979-0F220723D136}
+      <SOURCE MP3
+        FILE "voiceovers\2-2_PRESIDENT (Michael).mp3" 1
+      >
+    >
+  >
+  <TRACK {E5668863-8FC6-454D-A802-92686B95F3AB}
+    NAME "opening jingle"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E5668863-8FC6-454D-A802-92686B95F3AB}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 14.00027210884354
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {51B7F5D5-5DFC-49EE-B679-B2EC70D28B59}
+      IID 2
+      NAME 390519__alexschmidtmeister__mtgsr-news-cue-1704-01-full-jingle.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F6143645-A17D-41C3-ADE4-2338DD63B9F6}
+      <SOURCE WAVE
+        FILE "sound-effects\390519__alexschmidtmeister__mtgsr-news-cue-1704-01-full-jingle.wav"
+      >
+    >
+  >
+  <TRACK {00AD8ED2-CA40-425E-B692-C47CA21E898B}
+    NAME "closing jingle"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {00AD8ED2-CA40-425E-B692-C47CA21E898B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 137.83287981859408
+      SNAPOFFS 0
+      LENGTH 3.4249433106576
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B36035D4-9AB3-4DDD-A1C2-DC4B59E7253A}
+      IID 1
+      NAME 462188__tolerabledruid6__news-end.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {02451900-9D40-45D5-B8AA-B29F180A703A}
+      <SOURCE WAVE
+        FILE "sound-effects\462188__tolerabledruid6__news-end.wav"
+      >
+    >
   >
 >
