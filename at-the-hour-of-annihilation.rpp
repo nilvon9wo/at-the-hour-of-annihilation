@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586378212
+<REAPER_PROJECT 0.1 "6.08/x64" 1586783219
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,9 +14,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 100 0 0
-  VZOOMEX 6 0
+  CURSOR 81.5
+  ZOOM 22.22054569049299 0 0
+  VZOOMEX 2 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -27,9 +27,8 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE ""
-  RENDER_PATTERN ""
-  RENDER_FMT 0 2 0
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene2-3.mp3"
+  RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
   RENDER_RESAMPLE 3 0 1
@@ -43,6 +42,7 @@
   TAKELANE 1
   SAMPLERATE 44100 0 0
   <RENDER_CFG
+    bDNwbYAAAAAAAAAAAgAAAP////8EAAAAgAAAAAAAAAA=
   >
   LOCK 1
   <METRONOME 6 2
@@ -96,7 +96,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -107,6 +107,22 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 22.41985296 1 0
+      PT 22.91958625 2 0
+      PT 24.4415013 2 0
+      PT 25.07752549 1 0
+      PT 36.0489429 1 0
+      PT 36.5 2 0
+      PT 36.98026405 1 0
+    >
     <PANENV2
       ACT 1 -1
       VIS 1 1 1
@@ -116,7 +132,7 @@
       PT 0 1 0
     >
     <ITEM
-      POSITION 8
+      POSITION 15.5
       SNAPOFFS 0
       LENGTH 18.5
       LOOP 1
@@ -138,7 +154,7 @@
       >
     >
     <ITEM
-      POSITION 28
+      POSITION 36
       SNAPOFFS 0
       LENGTH 4
       LOOP 1
@@ -160,7 +176,7 @@
       >
     >
     <ITEM
-      POSITION 34.5
+      POSITION 42.5
       SNAPOFFS 0
       LENGTH 5
       LOOP 1
@@ -182,7 +198,7 @@
       >
     >
     <ITEM
-      POSITION 41
+      POSITION 49
       SNAPOFFS 0
       LENGTH 2.5
       LOOP 1
@@ -204,7 +220,7 @@
       >
     >
     <ITEM
-      POSITION 46
+      POSITION 54
       SNAPOFFS 0
       LENGTH 7.72185941043084
       LOOP 1
@@ -250,20 +266,28 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 32.02945169 1 0
+      PT 33 2 0 0 1
+      PT 34.10194563 1 0
+    >
     <PANENV2
       ACT 1 -1
       VIS 1 1 1
       LANEHEIGHT 0 0
       ARM 0
       DEFSHAPE 0 -1 -1
-      PT -0.0005 1 0
-      PT 0 1 0 0 1
-      PT 0.000001 1 0 0 1
-      PT 76.499999 1 0 0 1
-      PT 76.5005 1 0
+      PT -0.0005 -1 0
     >
     <ITEM
-      POSITION 0
+      POSITION 8
       SNAPOFFS 0
       LENGTH 4
       LOOP 1
@@ -285,7 +309,7 @@
       >
     >
     <ITEM
-      POSITION 4
+      POSITION 12
       SNAPOFFS 0
       LENGTH 4
       LOOP 1
@@ -307,7 +331,7 @@
       >
     >
     <ITEM
-      POSITION 24.5
+      POSITION 32.5
       SNAPOFFS 0
       LENGTH 4
       LOOP 1
@@ -329,7 +353,7 @@
       >
     >
     <ITEM
-      POSITION 30.5
+      POSITION 38.5
       SNAPOFFS 0
       LENGTH 4.5
       LOOP 1
@@ -351,7 +375,7 @@
       >
     >
     <ITEM
-      POSITION 38.5
+      POSITION 46.5
       SNAPOFFS 0
       LENGTH 3
       LOOP 1
@@ -373,7 +397,7 @@
       >
     >
     <ITEM
-      POSITION 43.5
+      POSITION 51.5
       SNAPOFFS 0
       LENGTH 3.5
       LOOP 1
@@ -395,7 +419,7 @@
       >
     >
     <ITEM
-      POSITION 52.5
+      POSITION 60.5
       SNAPOFFS 0
       LENGTH 9.40553287981859
       LOOP 1
@@ -414,6 +438,133 @@
       GUID {F2601421-BA86-4FD9-AF36-7C76EBB4D42D}
       <SOURCE MP3
         FILE "voiceovers\2-3_ROGER (Carl).mp3" 1
+      >
+    >
+  >
+  <TRACK {02601829-86B9-47B2-9F1E-4077BDF87979}
+    NAME Kendra
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {02601829-86B9-47B2-9F1E-4077BDF87979}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <PANENV2
+      ACT 0 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      PT 0 0 0
+      PT 18.9995 0 0
+      PT 19 -0.02 0
+      PT 21.48267574 -0.02 0
+      PT 21.48317574 0 0
+    >
+    <ITEM
+      POSITION 19
+      SNAPOFFS 0
+      LENGTH 2.48267573696145
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8FF76655-689F-4A1E-88D8-5750B59170CA}
+      IID 33
+      NAME "2-3_KENDRA (Gina).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E91F6E6A-45F9-4296-AE9C-DDD6AA8825B7}
+      <SOURCE MP3
+        FILE "voiceovers\2-3_KENDRA (Gina).mp3" 1
+      >
+    >
+  >
+  <TRACK {AA727D19-35A8-4275-A87B-D4299AD38697}
+    NAME 180915__ignat__gorazd-0077-hospital-waiting
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 3.98107170553497 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {AA727D19-35A8-4275-A87B-D4299AD38697}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 2 0
+    >
+    <PANENV2
+      ACT 0 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+      PT 69.499999 1 0 0 1
+      PT 69.5005 1 0
+      PT 442.56653061 1 0
+      PT 442.56703061 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 78
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5A890C83-61D3-4B4C-A6B0-1E66E500CE8C}
+      IID 29
+      NAME 180915__ignat__gorazd-0077-hospital-waiting.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0A179417-1FC3-4CDF-BB90-65B27A6B0AC7}
+      <SOURCE WAVE
+        FILE "sound-effects\180915__ignat__gorazd-0077-hospital-waiting.wav"
       >
     >
   >
