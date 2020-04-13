@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586626466
+<REAPER_PROJECT 0.1 "6.08/x64" 1586784627
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -15,8 +15,8 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   CURSOR 0
-  ZOOM 3.29203992908897 0 0
-  VZOOMEX 9 0
+  ZOOM 12.92184238729335 0 0
+  VZOOMEX 5 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -27,7 +27,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene2-4.mp3"
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene2-4b.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -113,10 +113,10 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 0 1 0
+      PT 6.5005 1 0
     >
     <ITEM
-      POSITION 0
+      POSITION 32
       SNAPOFFS 0
       LENGTH 6.5
       LOOP 1
@@ -138,7 +138,7 @@
       >
     >
     <ITEM
-      POSITION 23.5
+      POSITION 55.5
       SNAPOFFS 0
       LENGTH 3.5
       LOOP 1
@@ -160,7 +160,7 @@
       >
     >
     <ITEM
-      POSITION 32
+      POSITION 64
       SNAPOFFS 0
       LENGTH 2.5
       LOOP 1
@@ -182,7 +182,7 @@
       >
     >
     <ITEM
-      POSITION 43
+      POSITION 75
       SNAPOFFS 0
       LENGTH 3.5
       LOOP 1
@@ -204,7 +204,7 @@
       >
     >
     <ITEM
-      POSITION 64
+      POSITION 96
       SNAPOFFS 0
       LENGTH 3.5
       LOOP 1
@@ -226,7 +226,7 @@
       >
     >
     <ITEM
-      POSITION 81
+      POSITION 113
       SNAPOFFS 0
       LENGTH 19
       LOOP 1
@@ -248,7 +248,7 @@
       >
     >
     <ITEM
-      POSITION 115
+      POSITION 147
       SNAPOFFS 0
       LENGTH 4
       LOOP 1
@@ -270,7 +270,7 @@
       >
     >
     <ITEM
-      POSITION 135.5
+      POSITION 167.5
       SNAPOFFS 0
       LENGTH 6
       LOOP 1
@@ -292,7 +292,7 @@
       >
     >
     <ITEM
-      POSITION 153
+      POSITION 185
       SNAPOFFS 0
       LENGTH 7
       LOOP 1
@@ -314,7 +314,7 @@
       >
     >
     <ITEM
-      POSITION 179.5
+      POSITION 211.5
       SNAPOFFS 0
       LENGTH 14
       LOOP 1
@@ -336,7 +336,7 @@
       >
     >
     <ITEM
-      POSITION 290
+      POSITION 322
       SNAPOFFS 0
       LENGTH 14
       LOOP 1
@@ -358,7 +358,7 @@
       >
     >
     <ITEM
-      POSITION 312
+      POSITION 344
       SNAPOFFS 0
       LENGTH 6
       LOOP 1
@@ -380,7 +380,7 @@
       >
     >
     <ITEM
-      POSITION 330
+      POSITION 362
       SNAPOFFS 0
       LENGTH 10
       LOOP 1
@@ -402,7 +402,7 @@
       >
     >
     <ITEM
-      POSITION 354.5
+      POSITION 386.5
       SNAPOFFS 0
       LENGTH 13
       LOOP 1
@@ -424,7 +424,7 @@
       >
     >
     <ITEM
-      POSITION 431
+      POSITION 463
       SNAPOFFS 0
       LENGTH 35
       LOOP 1
@@ -446,7 +446,7 @@
       >
     >
     <ITEM
-      POSITION 502
+      POSITION 534
       SNAPOFFS 0
       LENGTH 23.20879818594096
       LOOP 1
@@ -501,7 +501,7 @@
       PT 0 -1 0
     >
     <ITEM
-      POSITION 10
+      POSITION 42
       SNAPOFFS 0
       LENGTH 8.5
       LOOP 1
@@ -523,7 +523,7 @@
       >
     >
     <ITEM
-      POSITION 27
+      POSITION 59
       SNAPOFFS 0
       LENGTH 2
       LOOP 1
@@ -545,7 +545,7 @@
       >
     >
     <ITEM
-      POSITION 67.5
+      POSITION 99.5
       SNAPOFFS 0
       LENGTH 5
       LOOP 1
@@ -567,7 +567,7 @@
       >
     >
     <ITEM
-      POSITION 141.5
+      POSITION 173.5
       SNAPOFFS 0
       LENGTH 12.5
       LOOP 1
@@ -589,7 +589,7 @@
       >
     >
     <ITEM
-      POSITION 160
+      POSITION 192
       SNAPOFFS 0
       LENGTH 20.5
       LOOP 1
@@ -611,7 +611,7 @@
       >
     >
     <ITEM
-      POSITION 215.5
+      POSITION 247.5
       SNAPOFFS 0
       LENGTH 74.5
       LOOP 1
@@ -633,7 +633,7 @@
       >
     >
     <ITEM
-      POSITION 318
+      POSITION 350
       SNAPOFFS 0
       LENGTH 13
       LOOP 1
@@ -655,7 +655,7 @@
       >
     >
     <ITEM
-      POSITION 339.5
+      POSITION 371.5
       SNAPOFFS 0
       LENGTH 15.5
       LOOP 1
@@ -677,7 +677,7 @@
       >
     >
     <ITEM
-      POSITION 366
+      POSITION 399.5
       SNAPOFFS 0
       LENGTH 21
       LOOP 1
@@ -699,7 +699,7 @@
       >
     >
     <ITEM
-      POSITION 394
+      POSITION 426
       SNAPOFFS 0
       LENGTH 11
       LOOP 1
@@ -721,7 +721,7 @@
       >
     >
     <ITEM
-      POSITION 492.69723044217687
+      POSITION 524.69723044217687
       SNAPOFFS 0
       LENGTH 10.14675736961453
       LOOP 1
@@ -756,7 +756,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -768,7 +768,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 6
+      POSITION 38
       SNAPOFFS 0
       LENGTH 5
       LOOP 1
@@ -790,7 +790,7 @@
       >
     >
     <ITEM
-      POSITION 18
+      POSITION 50
       SNAPOFFS 0
       LENGTH 6.5
       LOOP 1
@@ -812,7 +812,7 @@
       >
     >
     <ITEM
-      POSITION 26.5
+      POSITION 58.5
       SNAPOFFS 0
       LENGTH 7
       LOOP 1
@@ -834,7 +834,7 @@
       >
     >
     <ITEM
-      POSITION 34.5
+      POSITION 66.5
       SNAPOFFS 0
       LENGTH 9
       LOOP 1
@@ -856,7 +856,7 @@
       >
     >
     <ITEM
-      POSITION 46
+      POSITION 78
       SNAPOFFS 0
       LENGTH 18
       LOOP 1
@@ -878,7 +878,7 @@
       >
     >
     <ITEM
-      POSITION 72.5
+      POSITION 104.5
       SNAPOFFS 0
       LENGTH 1
       LOOP 1
@@ -900,7 +900,7 @@
       >
     >
     <ITEM
-      POSITION 73.5
+      POSITION 105.5
       SNAPOFFS 0
       LENGTH 8.5
       LOOP 1
@@ -922,7 +922,7 @@
       >
     >
     <ITEM
-      POSITION 99
+      POSITION 131
       SNAPOFFS 0
       LENGTH 17
       LOOP 1
@@ -944,7 +944,7 @@
       >
     >
     <ITEM
-      POSITION 119
+      POSITION 151
       SNAPOFFS 0
       LENGTH 19
       LOOP 1
@@ -966,7 +966,7 @@
       >
     >
     <ITEM
-      POSITION 138
+      POSITION 170
       SNAPOFFS 0
       LENGTH 0.5
       LOOP 1
@@ -988,7 +988,7 @@
       >
     >
     <ITEM
-      POSITION 193.5
+      POSITION 225.5
       SNAPOFFS 0
       LENGTH 22
       LOOP 1
@@ -1010,7 +1010,7 @@
       >
     >
     <ITEM
-      POSITION 304
+      POSITION 336
       SNAPOFFS 0
       LENGTH 8
       LOOP 1
@@ -1032,7 +1032,7 @@
       >
     >
     <ITEM
-      POSITION 387
+      POSITION 420
       SNAPOFFS 0
       LENGTH 7
       LOOP 1
@@ -1054,7 +1054,7 @@
       >
     >
     <ITEM
-      POSITION 404
+      POSITION 436
       SNAPOFFS 0
       LENGTH 28
       LOOP 1
@@ -1076,9 +1076,9 @@
       >
     >
     <ITEM
-      POSITION 465
+      POSITION 497
       SNAPOFFS 0
-      LENGTH 26.09295833333334
+      LENGTH 26.0929583333334
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -1111,7 +1111,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -1123,7 +1123,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 491
+      POSITION 523
       SNAPOFFS 0
       LENGTH 1.17695833333335
       LOOP 1
@@ -1170,7 +1170,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 492.17695833333335
+      POSITION 524.17695833333335
       SNAPOFFS 0
       LENGTH 0.52027210884353
       LOOP 1
@@ -1189,6 +1189,66 @@
       GUID {A0552576-FEDA-4599-9649-04176FA293DC}
       <SOURCE WAVE
         FILE "sound-effects\door-slamming.wav"
+      >
+    >
+  >
+  <TRACK {44C43412-ED8A-4341-A9D8-8D0DC8D93E2F}
+    NAME "Laboratory Background"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {44C43412-ED8A-4341-A9D8-8D0DC8D93E2F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 19.68384388 1 0
+      PT 32 0.11220185 0
+      PT 556 0.10964782 0
+      PT 576 0.83176377 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 586
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1D7A20E0-B102-46C3-9047-4916BCB63968}
+      IID 82
+      NAME 23832__dobroide__20061016-laboratory.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ACAE6473-4EFA-4260-BB65-ECD769DDB508}
+      <SOURCE FLAC
+        FILE "sound-effects\23832__dobroide__20061016-laboratory.flac"
       >
     >
   >
