@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586783219
+<REAPER_PROJECT 0.1 "6.08/x64" 1586803245
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -10,12 +10,12 @@
   PANLAW 1
   PROJOFFS 0 0 0
   MAXPROJLEN 0 600
-  GRID 3199 8 1 8 1 0 0 0
+  GRID 3455 8 1 8 1 0 0 0
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 81.5
-  ZOOM 22.22054569049299 0 0
+  CURSOR 0.15677598779631
+  ZOOM 8.92993895097616 0 0
   VZOOMEX 2 0
   USE_REC_CFG 0
   RECMODE 1
@@ -27,7 +27,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene2-3.mp3"
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene2-3b.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -83,8 +83,8 @@
   >
   <PROJBAY
   >
-  <TRACK {E984E28D-5E3E-4BA7-A295-F3C337D22DAF}
-    NAME "2-3_SOPHIA (Adriana)"
+  <TRACK {D585A0F0-B4C5-45F6-8DA9-ABF070E85708}
+    NAME "2-3_SOPHIA (Anna)"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -99,11 +99,11 @@
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0
+    TRACKHEIGHT 92 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {E984E28D-5E3E-4BA7-A295-F3C337D22DAF}
+    TRACKID {D585A0F0-B4C5-45F6-8DA9-ABF070E85708}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -114,14 +114,10 @@
       ARM 1
       DEFSHAPE 0 -1 -1
       VOLTYPE 1
-      PT 0 1 0
-      PT 22.41985296 1 0
-      PT 22.91958625 2 0
-      PT 24.4415013 2 0
-      PT 25.07752549 1 0
-      PT 36.0489429 1 0
-      PT 36.5 2 0
-      PT 36.98026405 1 0
+      PT 15.4995 1 0
+      PT 28.48714918 1 0
+      PT 29.5 1.58865647 0 0 1
+      PT 29.97226123 1 0
     >
     <PANENV2
       ACT 1 -1
@@ -129,76 +125,32 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 0 1 0
+      PT 15.4995 1 0
     >
     <ITEM
-      POSITION 15.5
+      POSITION 18
       SNAPOFFS 0
-      LENGTH 18.5
+      LENGTH 7
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {F6A177FB-D3F5-4275-BB5F-609688D8436C}
-      IID 2
-      NAME "2-3_SOPHIA (Adriana).mp3"
+      IGUID {C48E2962-0EC8-49EB-A11C-F4AF43F8E320}
+      IID 36
+      NAME "2-3_SOPHIA (Anna).mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {188E2D70-FDC0-4721-9D01-847940C6CE07}
+      GUID {E005C113-CC40-47CB-A64C-89C24E9A1BE5}
       <SOURCE MP3
-        FILE "voiceovers\2-3_SOPHIA (Adriana).mp3" 1
+        FILE "voiceovers\2-3_SOPHIA (Anna).mp3" 1
       >
     >
     <ITEM
-      POSITION 36
-      SNAPOFFS 0
-      LENGTH 4
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {AE6EEE70-4CC1-4133-8AA4-185EA7273E24}
-      IID 7
-      NAME "2-3_SOPHIA (Adriana).mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 18.5
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {6C328049-0929-4EA6-9CD7-F90FC43374DD}
-      <SOURCE MP3
-        FILE "voiceovers\2-3_SOPHIA (Adriana).mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 42.5
-      SNAPOFFS 0
-      LENGTH 5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {CBF4A4E5-791B-4553-A966-7DA8856CBF3A}
-      IID 9
-      NAME "2-3_SOPHIA (Adriana).mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 22.5
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {E72F8A08-169C-4139-B21A-A0410BDEBEBE}
-      <SOURCE MP3
-        FILE "voiceovers\2-3_SOPHIA (Adriana).mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 49
+      POSITION 28.5
       SNAPOFFS 0
       LENGTH 2.5
       LOOP 1
@@ -207,38 +159,82 @@
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {9013F35A-33B3-45B8-996F-8137B07312C3}
-      IID 11
-      NAME "2-3_SOPHIA (Adriana).mp3"
+      IGUID {EBC83FF7-3690-4177-BE3D-6A435F94B0F7}
+      IID 37
+      NAME "2-3_SOPHIA (Anna).mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 27.5
+      SOFFS 7
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {5BC58323-BDB6-49A6-B8DB-1BBF9FA657FA}
+      GUID {0E2C2971-7516-4473-A042-7F1D741A1524}
       <SOURCE MP3
-        FILE "voiceovers\2-3_SOPHIA (Adriana).mp3" 1
+        FILE "voiceovers\2-3_SOPHIA (Anna).mp3" 1
       >
     >
     <ITEM
-      POSITION 54
+      POSITION 35.5
       SNAPOFFS 0
-      LENGTH 7.72185941043084
+      LENGTH 3.71392988922423
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {7CA2EE07-0AA2-4B79-B203-2DEB679E2FB0}
-      IID 13
-      NAME "2-3_SOPHIA (Adriana).mp3"
+      IGUID {A7E4E642-BFC8-41E3-87B8-84C3463E16D3}
+      IID 38
+      NAME "2-3_SOPHIA (Anna).mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 30
+      SOFFS 9.5
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {1250B205-A1E0-4E65-8E02-D25BA85C821D}
+      GUID {1BBA5B0A-6836-4A8F-9CC3-B19723438032}
       <SOURCE MP3
-        FILE "voiceovers\2-3_SOPHIA (Adriana).mp3" 1
+        FILE "voiceovers\2-3_SOPHIA (Anna).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 41.98751300861331
+      SNAPOFFS 0
+      LENGTH 2.51192433454106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0E00D874-B693-4D4E-9DE4-8259A03A8ED9}
+      IID 41
+      NAME "2-3_SOPHIA (Anna).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 13.21392988922423
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D573A7BE-22BD-408F-ACA3-E7B89401D228}
+      <SOURCE MP3
+        FILE "voiceovers\2-3_SOPHIA (Anna).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 47.99694310062299
+      SNAPOFFS 0
+      LENGTH 3.6841684519717
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8130EA0D-B0D4-4413-982B-DE77B449982E}
+      IID 42
+      NAME "2-3_SOPHIA (Anna).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 15.72585422376529
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {591A0D55-FFD6-45CE-BF2E-A808E72B772A}
+      <SOURCE MP3
+        FILE "voiceovers\2-3_SOPHIA (Anna).mp3" 1
       >
     >
   >
@@ -255,7 +251,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -274,9 +270,13 @@
       DEFSHAPE 0 -1 -1
       VOLTYPE 1
       PT 0 1 0
-      PT 32.02945169 1 0
-      PT 33 2 0 0 1
-      PT 34.10194563 1 0
+      PT 24.9995 1 0
+      PT 25 1.41013999 0
+      PT 25.5 2 0 0 1
+      PT 26.60194563 1 0
+      PT 35.5 1 0
+      PT 35.5005 1.0912329 0
+      PT 36.5005 1 0
     >
     <PANENV2
       ACT 1 -1
@@ -331,7 +331,7 @@
       >
     >
     <ITEM
-      POSITION 32.5
+      POSITION 25
       SNAPOFFS 0
       LENGTH 4
       LOOP 1
@@ -353,7 +353,7 @@
       >
     >
     <ITEM
-      POSITION 38.5
+      POSITION 31
       SNAPOFFS 0
       LENGTH 4.5
       LOOP 1
@@ -375,7 +375,7 @@
       >
     >
     <ITEM
-      POSITION 46.5
+      POSITION 39.04821265882048
       SNAPOFFS 0
       LENGTH 3
       LOOP 1
@@ -397,7 +397,7 @@
       >
     >
     <ITEM
-      POSITION 51.5
+      POSITION 44.49943734315437
       SNAPOFFS 0
       LENGTH 3.5
       LOOP 1
@@ -419,9 +419,9 @@
       >
     >
     <ITEM
-      POSITION 60.5
+      POSITION 51.48572689859667
       SNAPOFFS 0
-      LENGTH 9.40553287981859
+      LENGTH 9.40553287981861
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -472,13 +472,13 @@
       ARM 0
       DEFSHAPE 0 -1 -1
       PT 0 0 0
-      PT 18.9995 0 0
-      PT 19 -0.02 0
-      PT 21.48267574 -0.02 0
-      PT 21.48317574 0 0
+      PT 15.9995 0 0
+      PT 16 -0.02 0
+      PT 18.48267574 -0.02 0
+      PT 18.48317574 0 0
     >
     <ITEM
-      POSITION 19
+      POSITION 16
       SNAPOFFS 0
       LENGTH 2.48267573696145
       LOOP 1
@@ -513,7 +513,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
