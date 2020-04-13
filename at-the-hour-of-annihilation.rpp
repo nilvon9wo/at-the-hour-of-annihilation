@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586626215
+<REAPER_PROJECT 0.1 "6.08/x64" 1586780534
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -10,12 +10,12 @@
   PANLAW 1
   PROJOFFS 0 0 0
   MAXPROJLEN 0 600
-  GRID 3199 8 1 8 1 0 0 0
+  GRID 3455 8 1 8 1 0 0 0
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 8.95768042514985 0 0
+  CURSOR 0.10951561245551
+  ZOOM 9.13111818103742 0 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -27,7 +27,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene2-1.mp3"
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene2-1b.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -96,7 +96,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -115,14 +115,22 @@
       DEFSHAPE 0 -1 -1
       VOLTYPE 1
       PT 1 1.82402168 0
-      PT 34 2 0
-      PT 34.94208156 1 0
-      PT 62.6278203 1 0
-      PT 63.5 2 0
-      PT 68.32125851 2 0
-      PT 69.66089103 1 0
-      PT 126.14872895 1 0
-      PT 127.15345334 2 0
+      PT 30.99139727 1.17229008 0
+      PT 32.32231618 2 0
+      PT 33.46310381 2 0
+      PT 34.98415398 1.14820944 0
+      PT 35.8677878 0.17782794 0
+      PT 40.49520156 1.14832673 0
+      PT 67.49911077 1.14890159 0
+      PT 67.98246582 1.99994283 0
+      PT 69.52493707 2 0
+      PT 70.00118396 1.14895486 0
+      PT 70.91102875 0.52480746 0
+      PT 75.51711803 0.52485226 0
+      PT 98.01445223 0.56895617 0
+      PT 98.44094198 1.38366194 0
+      PT 100.33171319 1.377309 0
+      PT 308.12486711 1.15403503 0
     >
     <PANENV2
       ACT 1 -1
@@ -135,7 +143,7 @@
     <ITEM
       POSITION 32
       SNAPOFFS 0
-      LENGTH 8
+      LENGTH 0.79978026555786
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -155,9 +163,53 @@
       >
     >
     <ITEM
-      POSITION 65
+      POSITION 33.00972795437021
       SNAPOFFS 0
-      LENGTH 12
+      LENGTH 0.70021973444214
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {93921C2F-2F7B-41D8-8CAB-2B7449DA2D76}
+      IID 22
+      NAME "2-1_DENIS (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.79978026555786
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D406DBAE-50E5-4289-9469-2A21692A93FF}
+      <SOURCE MP3
+        FILE "voiceovers\2-1_DENIS (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 34
+      SNAPOFFS 0
+      LENGTH 6.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C13124DC-EC19-4677-A4F2-76B2C1311352}
+      IID 20
+      NAME "2-1_DENIS (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AE7345B6-7592-4B92-B3D1-4BD892EDCD07}
+      <SOURCE MP3
+        FILE "voiceovers\2-1_DENIS (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 65.5
+      SNAPOFFS 0
+      LENGTH 2.96491101908155
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -177,7 +229,29 @@
       >
     >
     <ITEM
-      POSITION 98
+      POSITION 68.99553250383654
+      SNAPOFFS 0
+      LENGTH 9.03508898091843
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A08AF6BC-A553-4644-A33A-D1172A513F83}
+      IID 24
+      NAME "2-1_DENIS (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 56.96491101908155
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {454EABAA-9798-41A1-A662-602A4E3B6F80}
+      <SOURCE MP3
+        FILE "voiceovers\2-1_DENIS (Alex).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 98.5
       SNAPOFFS 0
       LENGTH 18
       LOOP 1
@@ -199,7 +273,7 @@
       >
     >
     <ITEM
-      POSITION 120
+      POSITION 120.5
       SNAPOFFS 0
       LENGTH 14
       LOOP 1
@@ -256,9 +330,23 @@
       PT 34.16062926 1 0
       PT 36.95153034 1 0
       PT 38 2 0
-      PT 42.86824064 1 0
-      PT 118 1 0 0 1
+      PT 38.9995 1.74307284 0
+      PT 39.4995 1.72754546 0
+      PT 39.5 1.74295196 0
+      PT 40.11846895 1.16064604 0
+      PT 40.70844644 2 0
+      PT 42.41440543 1.18799887 0
+      PT 43.36824064 1.35923646 0
+      PT 115.9995 1 0
+      PT 116.5 1 0
+      PT 116.99324601 1.9038601 0
+      PT 118.01682141 1 0
+      PT 118.5 1 0
+      PT 120.09240485 1.9671013 0
+      PT 120.5005 1.55324763 0
       PT 122 2 0
+      PT 134.52197465 1.23319 0
+      PT 135.50290107 2 0 0 1
     >
     <PANENV2
       ACT 1 -1
@@ -291,7 +379,7 @@
       >
     >
     <ITEM
-      POSITION 39
+      POSITION 39.5
       SNAPOFFS 0
       LENGTH 30
       LOOP 1
@@ -313,7 +401,7 @@
       >
     >
     <ITEM
-      POSITION 76
+      POSITION 76.5
       SNAPOFFS 0
       LENGTH 22
       LOOP 1
@@ -335,7 +423,7 @@
       >
     >
     <ITEM
-      POSITION 116
+      POSITION 116.5
       SNAPOFFS 0
       LENGTH 4
       LOOP 1
@@ -357,7 +445,7 @@
       >
     >
     <ITEM
-      POSITION 134
+      POSITION 134.5
       SNAPOFFS 0
       LENGTH 2.89981859410429
       LOOP 1
@@ -376,6 +464,167 @@
       GUID {B8416678-F7F2-474A-9C05-CAA66DFEDA96}
       <SOURCE MP3
         FILE "voiceovers\2-1_ROGER (Carl).mp3" 1
+      >
+    >
+  >
+  <TRACK {70FE7CF2-2E4F-401A-B6BB-558924709E25}
+    NAME 42209__martian__running-up-stairs-watch-out-mic-handling-noise
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.00000000000013 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {70FE7CF2-2E4F-401A-B6BB-558924709E25}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 24 52 655 408
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 137.00403118184906
+      SNAPOFFS 0
+      LENGTH 26.41066666666666
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8EF260DC-F2D9-4AE0-ADE0-231FA1895607}
+      IID 28
+      NAME 42209__martian__running-up-stairs-watch-out-mic-handling-noise.aiff
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {77F5CB05-9037-4562-A643-EB9B07B57D88}
+      <SOURCE WAVE
+        FILE "sound-effects\42209__martian__running-up-stairs-watch-out-mic-handling-noise.aiff"
+      >
+    >
+  >
+  <TRACK {03FD2440-D757-4EB3-9905-6A5232995623}
+    NAME "backyard sounds"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {03FD2440-D757-4EB3-9905-6A5232995623}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 0 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT -0 1.98980997 0
+      PT 1.34774725 1.99722304 0
+      PT 1.34874725 1.95466166 0
+      PT 1.63779956 1.89764137 0
+      PT 1.63829956 1.99722582 0
+      PT 2.13829956 2 0
+      PT 3.08038112 1 0
+      PT 30.26611986 1 0
+      PT 31.13829956 2 0
+      PT 32.63779956 2 0
+      PT 33.13779956 1.94531895 0
+      PT 33.13829956 2 0
+      PT 36.45955807 2 0
+      PT 37.79919059 1 0
+      PT 87.63779956 1 0
+      PT 88.13779956 1.02620561 0
+      PT 88.13829956 1 0
+      PT 94.28702851 1 0
+      PT 95.2917529 2 0
+      PT 275.76266667 2 0
+      PT 275.76316667 1 0
+    >
+    <PANENV2
+      ACT 0 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      PT -0 1 0
+      PT 275.76266667 1 0
+      PT 275.76316667 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 142.01397789030321
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4FF78E19-DD1A-4519-B35C-CA449BC723C7}
+      IID 23
+      NAME 490265__yevgverh__residential-apartment-building-backyard.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {90B63F5E-1124-4D16-B5E6-1E8EF6ECF77A}
+      <SOURCE WAVE
+        FILE "sound-effects\490265__yevgverh__residential-apartment-building-backyard.wav"
+      >
+    >
+    <ITEM
+      POSITION 142.01397789030321
+      SNAPOFFS 0
+      LENGTH 21.16428466841387
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {18D40379-B6CE-448F-B305-F8ADA5643E55}
+      IID 25
+      NAME 490265__yevgverh__residential-apartment-building-backyard.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 142.01397789030321
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AEB2F6BE-C430-4CBD-8DD4-363326A8AE82}
+      <SOURCE WAVE
+        FILE "sound-effects\490265__yevgverh__residential-apartment-building-backyard.wav"
       >
     >
   >
