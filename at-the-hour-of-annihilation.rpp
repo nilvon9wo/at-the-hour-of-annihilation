@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586627196
+<REAPER_PROJECT 0.1 "6.08/x64" 1586807500
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -27,7 +27,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene3-8.mp3"
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene3-8b.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -55,8 +55,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 0 0
-  SELECTION2 0 0
+  SELECTION 2 6.5
+  SELECTION2 2 6.5
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -96,7 +96,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -116,7 +116,7 @@
       PT 2.4995 1 0
     >
     <ITEM
-      POSITION 6
+      POSITION 8
       SNAPOFFS 0
       LENGTH 14.5
       LOOP 1
@@ -138,7 +138,7 @@
       >
     >
     <ITEM
-      POSITION 22.5
+      POSITION 24.5
       SNAPOFFS 0
       LENGTH 20.5
       LOOP 1
@@ -160,7 +160,7 @@
       >
     >
     <ITEM
-      POSITION 49
+      POSITION 51
       SNAPOFFS 0
       LENGTH 3
       LOOP 1
@@ -182,7 +182,7 @@
       >
     >
     <ITEM
-      POSITION 52.5
+      POSITION 54.5
       SNAPOFFS 0
       LENGTH 4
       LOOP 1
@@ -204,7 +204,7 @@
       >
     >
     <ITEM
-      POSITION 81
+      POSITION 83
       SNAPOFFS 0
       LENGTH 14
       LOOP 1
@@ -226,7 +226,7 @@
       >
     >
     <ITEM
-      POSITION 98
+      POSITION 100
       SNAPOFFS 0
       LENGTH 125.5
       LOOP 1
@@ -248,7 +248,7 @@
       >
     >
     <ITEM
-      POSITION 226.5
+      POSITION 228.5
       SNAPOFFS 0
       LENGTH 6.47941043083901
       LOOP 1
@@ -303,7 +303,7 @@
       PT 2.4995 -1 0
     >
     <ITEM
-      POSITION 42
+      POSITION 44
       SNAPOFFS 0
       LENGTH 8
       LOOP 1
@@ -325,7 +325,7 @@
       >
     >
     <ITEM
-      POSITION 51.5
+      POSITION 53.5
       SNAPOFFS 0
       LENGTH 2
       LOOP 1
@@ -347,7 +347,7 @@
       >
     >
     <ITEM
-      POSITION 56
+      POSITION 58
       SNAPOFFS 0
       LENGTH 26.5
       LOOP 1
@@ -369,7 +369,7 @@
       >
     >
     <ITEM
-      POSITION 94.5
+      POSITION 96.5
       SNAPOFFS 0
       LENGTH 6.5
       LOOP 1
@@ -391,7 +391,7 @@
       >
     >
     <ITEM
-      POSITION 223
+      POSITION 225
       SNAPOFFS 0
       LENGTH 3.86471655328799
       LOOP 1
@@ -437,8 +437,23 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 24 52 643 345
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016<56535472766238726561766572626174> ""
+        OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA
+        776t3g3wrd7vOzU/7zs1P5eWlj4AAIA/AACAPxprnz4AAIA/AAAAAA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {42BA381B-D23E-4E83-BE5E-7993507C8325}
+      WAK 0 0
+    >
     <ITEM
-      POSITION 0
+      POSITION 2
       SNAPOFFS 0
       LENGTH 6.5
       LOOP 1
@@ -460,7 +475,7 @@
       >
     >
     <ITEM
-      POSITION 20.5
+      POSITION 22.5
       SNAPOFFS 0
       LENGTH 2.98349206349206
       LOOP 1
@@ -479,6 +494,71 @@
       GUID {BC95AB9A-C588-4CF1-9C79-36DEC0AAFBD5}
       <SOURCE MP3
         FILE "voiceovers\3-8_LISA (Anna).mp3" 1
+      >
+    >
+  >
+  <TRACK {FF4C3391-547D-41DB-9779-62EBE7701B59}
+    NAME 23832__dobroide__20061016-laboratory
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 0
+    TRACKID {FF4C3391-547D-41DB-9779-62EBE7701B59}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 2 0.12302688 0
+      PT 234.50688 0.12302688 0
+      PT 238 0.89125094 0
+    >
+    <FXCHAIN
+      WNDRECT 24 52 643 345
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 238
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CC57C4A0-0C15-4ED7-A182-859CA9DC289B}
+      IID 23
+      NAME 23832__dobroide__20061016-laboratory.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5D64EE44-F90D-4D5A-9807-66D08669DA0D}
+      <SOURCE FLAC
+        FILE "sound-effects\23832__dobroide__20061016-laboratory.flac"
       >
     >
   >
