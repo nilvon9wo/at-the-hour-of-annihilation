@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586324534
+<REAPER_PROJECT 0.1 "6.08/x64" 1586802040
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 100 0 0
+  CURSOR 251
+  ZOOM 16.15055828898458 0 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -27,9 +27,8 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE ""
-  RENDER_PATTERN ""
-  RENDER_FMT 0 2 0
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene3-6.mp3"
+  RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
   RENDER_RESAMPLE 3 0 1
@@ -43,6 +42,7 @@
   TAKELANE 1
   SAMPLERATE 44100 0 0
   <RENDER_CFG
+    bDNwbYAAAAAAAAAAAgAAAP////8EAAAAgAAAAAAAAAA=
   >
   LOCK 1
   <METRONOME 6 2
@@ -55,8 +55,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 0 0
-  SELECTION2 0 0
+  SELECTION 145.5 140.5
+  SELECTION2 145.5 140.5
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -75,12 +75,730 @@
     DEFSHAPE 0 -1 -1
   >
   <TEMPOENVEX
-    ACT 1 -1
+    ACT 0 -1
     VIS 1 0 1
     LANEHEIGHT 0 0
     ARM 0
     DEFSHAPE 1 -1 -1
   >
   <PROJBAY
+  >
+  <TRACK {F105C504-9C4B-4BF7-A7A1-F1CB3A8DDFC6}
+    NAME "3-6_PRESIDENT (Michael)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 25 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F105C504-9C4B-4BF7-A7A1-F1CB3A8DDFC6}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 27 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 17.52 1 0
+      PT 18.5 2 0
+      PT 19.01 1 0
+    >
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 27 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+    >
+    <ITEM
+      POSITION 18
+      SNAPOFFS 0
+      LENGTH 5.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {74BDB0BB-6D7D-4E94-9BA0-8649C39325E1}
+      IID 2
+      NAME "3-6_PRESIDENT (Michael).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FC43B266-C3A6-46A5-876C-CF723887451A}
+      <SOURCE MP3
+        FILE "voiceovers\3-6_PRESIDENT (Michael).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 24
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2CFCEF20-9466-4039-94F7-AD0CF5716A48}
+      IID 10
+      NAME "3-6_PRESIDENT (Michael).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 6.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {216D1046-D641-4073-8141-542481D46E1A}
+      <SOURCE MP3
+        FILE "voiceovers\3-6_PRESIDENT (Michael).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 31
+      SNAPOFFS 0
+      LENGTH 31.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {14FC58EF-BF6A-42DD-BA12-EA336849FA83}
+      IID 11
+      NAME "3-6_PRESIDENT (Michael).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7BF90AB5-53B0-43D3-8F05-498AB914429D}
+      <SOURCE MP3
+        FILE "voiceovers\3-6_PRESIDENT (Michael).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 140.5
+      SNAPOFFS 0
+      LENGTH 5.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {10C63962-A5E3-4CDB-AA28-98CDF3947974}
+      IID 13
+      NAME "3-6_PRESIDENT (Michael).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 39
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {67AC1438-A2D5-47BC-87CD-671855DB5CE4}
+      <SOURCE MP3
+        FILE "voiceovers\3-6_PRESIDENT (Michael).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 192.5
+      SNAPOFFS 0
+      LENGTH 33.9990022675737
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {759CBD72-7ACD-47C6-8B0B-723DE4910160}
+      IID 21
+      NAME "3-6_PRESIDENT (Michael).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 44.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A8DDD420-3AA4-4C45-AB1F-F42DED3611A4}
+      <SOURCE MP3
+        FILE "voiceovers\3-6_PRESIDENT (Michael).mp3" 1
+      >
+    >
+  >
+  <TRACK {5BCC7FF2-AA75-472D-B827-DC30759333E3}
+    NAME "3-6_PRESIDENT’S-WIFE (Gina)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 25 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5BCC7FF2-AA75-472D-B827-DC30759333E3}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 27 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 81.0432 1 0
+      PT 81.5 1.9498446 0
+      PT 83 0.87096359 0
+      PT 113.08032 0.87096359 0
+      PT 114 2 0 0 1
+      PT 114.96384 0.87096359 0
+    >
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 27 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 -1 0
+    >
+    <ITEM
+      POSITION 67.5
+      SNAPOFFS 0
+      LENGTH 13.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9CA6EA80-9FCD-4C2A-A90E-B9692DF8F2AC}
+      IID 3
+      NAME "3-6_PRESIDENT’S-WIFE (Gina).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7B2027F4-4366-4D64-B207-3C250DE1A51D}
+      <SOURCE MP3
+        FILE "voiceovers\3-6_PRESIDENT’S-WIFE (Gina).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 81
+      SNAPOFFS 0
+      LENGTH 6.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1203FB2B-E955-4058-A3E3-063E0FF42C06}
+      IID 15
+      NAME "3-6_PRESIDENT’S-WIFE (Gina).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 13.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8CC575FD-5770-4CF2-90A2-18A038D63F87}
+      <SOURCE MP3
+        FILE "voiceovers\3-6_PRESIDENT’S-WIFE (Gina).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 113.5
+      SNAPOFFS 0
+      LENGTH 21
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {13430442-1185-421D-BBF1-468E4B4BBB6F}
+      IID 17
+      NAME "3-6_PRESIDENT’S-WIFE (Gina).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 20
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E60824A1-6AA9-4021-BD4F-FD77125218A7}
+      <SOURCE MP3
+        FILE "voiceovers\3-6_PRESIDENT’S-WIFE (Gina).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 168.5
+      SNAPOFFS 0
+      LENGTH 24.64675736961453
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E68D51CD-1F3D-49D9-8F9B-70D9FF6DE8C1}
+      IID 19
+      NAME "3-6_PRESIDENT’S-WIFE (Gina).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 41
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {96506C7F-28DA-41BB-9ABC-8AE5EB59E126}
+      <SOURCE MP3
+        FILE "voiceovers\3-6_PRESIDENT’S-WIFE (Gina).mp3" 1
+      >
+    >
+  >
+  <TRACK {F353E4B5-C18F-44FC-AC53-118DA3CEDFE2}
+    NAME "3-6_LAURA (Maureen)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 25 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F353E4B5-C18F-44FC-AC53-118DA3CEDFE2}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 27 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 133.98912 1 0
+      PT 136 2 0 0 1
+      PT 136.52928 1 0
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 9.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1567AE35-8E47-4005-943E-774D79BD4681}
+      IID 1
+      NAME "3-6_LAURA (Maureen).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {250E2151-06DD-46F8-BD09-7DFBDAEB132F}
+      <SOURCE MP3
+        FILE "voiceovers\3-6_LAURA (Maureen).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 23
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1AD0785B-5CFB-4335-AEBA-012B3C33A42B}
+      IID 7
+      NAME "3-6_LAURA (Maureen).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 9.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ABE2F624-8FC9-4F67-948A-174F71CC1331}
+      <SOURCE MP3
+        FILE "voiceovers\3-6_LAURA (Maureen).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 24.5
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {37B30A77-07AD-4D26-ABAA-FE9C06630AEE}
+      IID 9
+      NAME "3-6_LAURA (Maureen).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 10.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E213D5BD-30BE-46BF-AE36-51EA87D5CAFE}
+      <SOURCE MP3
+        FILE "voiceovers\3-6_LAURA (Maureen).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 62
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5C481AE1-7F89-4744-A041-F5EE590BC10F}
+      IID 12
+      NAME "3-6_LAURA (Maureen).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 18
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EDF4FA52-FCE3-497A-B362-4052CCD17098}
+      <SOURCE MP3
+        FILE "voiceovers\3-6_LAURA (Maureen).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 87
+      SNAPOFFS 0
+      LENGTH 26.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E332903B-2982-48C9-9143-8459675A4DB6}
+      IID 14
+      NAME "3-6_LAURA (Maureen).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 24
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {85D06091-72E4-4666-B17B-FFFAE4AEB780}
+      <SOURCE MP3
+        FILE "voiceovers\3-6_LAURA (Maureen).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 134.5
+      SNAPOFFS 0
+      LENGTH 6.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CB68CB27-A326-4949-88E7-59DF675BB74D}
+      IID 18
+      NAME "3-6_LAURA (Maureen).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 50.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {521A03A1-4556-4ABD-89F1-4CFD8E1CCCEA}
+      <SOURCE MP3
+        FILE "voiceovers\3-6_LAURA (Maureen).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 145.5
+      SNAPOFFS 0
+      LENGTH 23.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {72956376-B478-4258-B1D0-E352C41055A7}
+      IID 20
+      NAME "3-6_LAURA (Maureen).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 57
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99EE81FF-88AB-4DC6-942F-00792D6C321C}
+      <SOURCE MP3
+        FILE "voiceovers\3-6_LAURA (Maureen).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 226
+      SNAPOFFS 0
+      LENGTH 3.4063492063492
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D44BC939-181A-4358-A2E4-66AC69A8A749}
+      IID 23
+      NAME "3-6_LAURA (Maureen).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 80.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9E0691A5-956F-41F4-8378-037D8A7F5ED8}
+      <SOURCE MP3
+        FILE "voiceovers\3-6_LAURA (Maureen).mp3" 1
+      >
+    >
+  >
+  <TRACK {2C4215DD-3391-4E1D-B303-2BD81398DF42}
+    NAME 256463__kodack__heavy-door-squeak
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 25 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2C4215DD-3391-4E1D-B303-2BD81398DF42}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 9.11454166666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4A574F7D-0C28-4CA7-B085-CC8874916F1A}
+      IID 4
+      NAME 256463__kodack__heavy-door-squeak.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E78D1C25-162A-4AA6-BE00-1DD1704C11D6}
+      <SOURCE WAVE
+        FILE "sound-effects\256463__kodack__heavy-door-squeak.wav"
+      >
+    >
+  >
+  <TRACK {C910B705-80A7-4958-BC7A-5A898855F928}
+    NAME 402089__makenoisemusic__mansion-pianos
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 25 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C910B705-80A7-4958-BC7A-5A898855F928}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 126 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 0.56234131 0
+      PT 9.5 0.04677351 0
+      PT 84.9995 0.04677351 0
+      PT 88 0.04677351 0
+      PT 94.5 0.04677351 0
+      PT 169.9995 0.04677351 0
+      PT 176 0.04897788 0
+      PT 179.5 0.04677351 0
+      PT 228.96066622 0.04677351 0
+      PT 252 0.40738026 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 86.14247916666666
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1.1 0.01 1.142479 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {24E0103C-B495-41B6-93F1-64E1D02F14FC}
+      IID 5
+      NAME 402089__makenoisemusic__mansion-pianos.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D77302AB-4666-43E3-B027-2E82327E5CBD}
+      <SOURCE WAVE
+        FILE "sound-effects\402089__makenoisemusic__mansion-pianos.wav"
+      >
+    >
+    <ITEM
+      POSITION 85
+      SNAPOFFS 0
+      LENGTH 86.14247916666665
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 1.142479 1 1 0
+      FADEOUT 1.1 0.01 1.142479 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {DF8A80EC-A3E0-4B16-8D4B-F3E5FA62DA67}
+      IID 5
+      NAME 402089__makenoisemusic__mansion-pianos.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4886C377-6B15-4590-BACE-9D53FFA0B4CE}
+      <SOURCE WAVE
+        FILE "sound-effects\402089__makenoisemusic__mansion-pianos.wav"
+      >
+    >
+    <ITEM
+      POSITION 170
+      SNAPOFFS 0
+      LENGTH 86
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 1.142479 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {145B5E47-DECF-4149-9238-EF6D3CFCBAE5}
+      IID 5
+      NAME 402089__makenoisemusic__mansion-pianos.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E8CAF7A0-C362-443A-954A-2982DC6A05DF}
+      <SOURCE WAVE
+        FILE "sound-effects\402089__makenoisemusic__mansion-pianos.wav"
+      >
+    >
+  >
+  <TRACK {C8027B44-43CB-4CCC-9803-F9849A961670}
+    NAME 456236__straget__antique-wall-clock
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 61 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C8027B44-43CB-4CCC-9803-F9849A961670}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 254.54228432 1 0
+      PT 256 0.02238721 0 0 1
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 256
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FB8809C4-D448-4552-924C-22226DFEA6D7}
+      IID 6
+      NAME 456236__straget__antique-wall-clock.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AB0E1330-542C-4C2C-92B3-C637A0322D13}
+      <SOURCE WAVE
+        FILE "sound-effects\456236__straget__antique-wall-clock.wav"
+      >
+    >
   >
 >
