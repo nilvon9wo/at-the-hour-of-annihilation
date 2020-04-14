@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586867794
+<REAPER_PROJECT 0.1 "6.08/x64" 1586870663
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -10,11 +10,11 @@
   PANLAW 1
   PROJOFFS 0 0 0
   MAXPROJLEN 0 600
-  GRID 3199 8 1 8 1 0 0 0
+  GRID 3455 8 1 8 1 0 0 0
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
+  CURSOR 162.19840720558429
   ZOOM 11.73870960142479 0 0
   VZOOMEX 6 0
   USE_REC_CFG 0
@@ -27,7 +27,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene4-2.mp3"
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene4-2b.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -110,7 +110,7 @@
     <ITEM
       POSITION 12.5
       SNAPOFFS 0
-      LENGTH 160.99369614512472
+      LENGTH 53.1801323295722
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -125,6 +125,28 @@
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {DF42A9A5-026F-46A0-ACE2-2C1335D83F1E}
+      <SOURCE MP3
+        FILE "voiceovers\4-2_PRESIDENT (Michael).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 65.6801323295722
+      SNAPOFFS 0
+      LENGTH 105.42829312135264
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F1B3FB18-6278-4C2F-B9EA-7163C262133A}
+      IID 6
+      NAME "4-2_PRESIDENT (Michael).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 55.56540302377198
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FDBD776C-70B8-4442-96DF-8E9B08BC1B3A}
       <SOURCE MP3
         FILE "voiceovers\4-2_PRESIDENT (Michael).mp3" 1
       >
@@ -190,7 +212,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -222,7 +244,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {D0CB00D8-0622-495B-A9EC-E19EFF734726}
       IID 3
       NAME 219460__cediez__salle-spectacle-presque-remplie.wav
@@ -249,7 +271,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -261,7 +283,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 173
+      POSITION 170.71723111344062
       SNAPOFFS 0
       LENGTH 9.7764375
       LOOP 1
