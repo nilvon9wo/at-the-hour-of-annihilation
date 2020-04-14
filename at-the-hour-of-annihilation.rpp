@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586627635
+<REAPER_PROJECT 0.1 "6.08/x64" 1586894312
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -15,8 +15,8 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   CURSOR 0
-  ZOOM 100 0 0
-  VZOOMEX 6 0
+  ZOOM 7.78865658226494 0 0
+  VZOOMEX 3 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -27,7 +27,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene5-4.mp3"
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene5-4b.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -108,9 +108,9 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 0
+      POSITION 2
       SNAPOFFS 0
-      LENGTH 50.05165532879818
+      LENGTH 50.05165532879817
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -127,6 +127,65 @@
       GUID {41AD1343-2A0D-4D76-BE94-EE166E705461}
       <SOURCE MP3
         FILE "voiceovers\5-4_ROGER (Carl).mp3" 1
+      >
+    >
+  >
+  <TRACK {6545DE42-6A43-43CC-BF7F-469D1D0B85E5}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6545DE42-6A43-43CC-BF7F-469D1D0B85E5}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 2.5 0.14454398 0
+      PT 50.20121196 0.14454398 0
+      PT 60 0.79432823 0 0 1
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 128
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {7F3E825D-E082-404C-A6C5-7625D209EA66}
+      IID 2
+      NAME 216214__rsilveira-88__crickets-03.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DC48E096-BA94-4715-A8F4-1E3C9429E4B9}
+      <SOURCE WAVE
+        FILE "sound-effects\216214__rsilveira-88__crickets-03.wav"
       >
     >
   >
