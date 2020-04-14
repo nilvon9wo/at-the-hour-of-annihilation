@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586324534
+<REAPER_PROJECT 0.1 "6.08/x64" 1586883675
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -10,13 +10,13 @@
   PANLAW 1
   PROJOFFS 0 0 0
   MAXPROJLEN 0 600
-  GRID 3199 8 1 8 1 0 0 0
+  GRID 3455 8 1 8 1 0 0 0
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 100 0 0
-  VZOOMEX 6 0
+  CURSOR 225.42296700138269
+  ZOOM 25.4765522625952 0 0
+  VZOOMEX 2 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -27,9 +27,8 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE ""
-  RENDER_PATTERN ""
-  RENDER_FMT 0 2 0
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene5-3.mp3"
+  RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
   RENDER_RESAMPLE 3 0 1
@@ -43,6 +42,7 @@
   TAKELANE 1
   SAMPLERATE 44100 0 0
   <RENDER_CFG
+    bDNwbYAAAAAAAAAAAgAAAP////8EAAAAgAAAAAAAAAA=
   >
   LOCK 1
   <METRONOME 6 2
@@ -75,12 +75,641 @@
     DEFSHAPE 0 -1 -1
   >
   <TEMPOENVEX
-    ACT 1 -1
+    ACT 0 -1
     VIS 1 0 1
     LANEHEIGHT 0 0
     ARM 0
     DEFSHAPE 1 -1 -1
   >
   <PROJBAY
+  >
+  <TRACK {DCD83961-070F-4066-B488-9C17AEAFC1F0}
+    NAME "5-3_PRESIDENT (Michael)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DCD83961-070F-4066-B488-9C17AEAFC1F0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 21.5
+      SNAPOFFS 0
+      LENGTH 62.38105179905186
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E937B0C9-13BE-4B6B-B342-49A69BEF0937}
+      IID 3
+      NAME "5-3_PRESIDENT (Michael).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {00634477-0F98-4097-B7C1-6538136B9E66}
+      <SOURCE MP3
+        FILE "voiceovers\5-3_PRESIDENT (Michael).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 94.91080170805213
+      SNAPOFFS 0
+      LENGTH 55.54126733535722
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {168188B1-FCA6-4831-8497-DF52FA924A66}
+      IID 11
+      NAME "5-3_PRESIDENT (Michael).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 62.38105179905186
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8933EAE5-93C9-4E1C-A6B6-3B665CF88FCC}
+      <SOURCE MP3
+        FILE "voiceovers\5-3_PRESIDENT (Michael).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 165.64250753018194
+      SNAPOFFS 0
+      LENGTH 27.81586680663395
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {69A3314D-A4E1-4AE0-B16E-624CD32CA6D0}
+      IID 13
+      NAME "5-3_PRESIDENT (Michael).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 117.92231913440908
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0CEF6707-3F57-4752-AC50-7EEBC2582E34}
+      <SOURCE MP3
+        FILE "voiceovers\5-3_PRESIDENT (Michael).mp3" 1
+      >
+    >
+  >
+  <TRACK {9FED468E-7F48-4B6F-832D-A95A547A9E3E}
+    NAME "5-3_DR. GRAHAM (Alex)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9FED468E-7F48-4B6F-832D-A95A547A9E3E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 24.03419615 -1 0
+    >
+    <ITEM
+      POSITION 83.68479290387391
+      SNAPOFFS 0
+      LENGTH 11.18675702514263
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {62D9C656-2C64-498A-B87F-80F7C450E5A4}
+      IID 2
+      NAME "5-3_DR. GRAHAM (Alex).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {86AEDD1B-2B19-4703-8A62-62789EB4D952}
+      <SOURCE MP3
+        FILE "voiceovers\5-3_DR. GRAHAM (Alex).mp3" 1
+      >
+    >
+  >
+  <TRACK {A427013A-DD85-49B8-BE62-6BED847CB454}
+    NAME "❌ 5-3_DIETER (Brian)_UNTREATED"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 3.98107170553497 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A427013A-DD85-49B8-BE62-6BED847CB454}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 35.4995 2 0
+    >
+    <ITEM
+      POSITION 149.15676033523494
+      SNAPOFFS 0
+      LENGTH 16.87826498530291
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {230C6B07-983C-41BD-BC39-96B8B4C1DBF6}
+      IID 1
+      NAME "❌ 5-3_DIETER (Brian)_UNTREATED.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {270697F7-2BEC-48FD-94CF-7F8BB7E7DE04}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 5-3_DIETER (Brian)_UNTREATED.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 189.42908562574837
+      SNAPOFFS 0
+      LENGTH 18.60534326286879
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6DB61EBC-B88E-41B6-9BD4-B6FA001D1C00}
+      IID 14
+      NAME "❌ 5-3_DIETER (Brian)_UNTREATED.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 16.87826498530291
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {395293C3-CB7D-4AAD-AEBB-279E6C78B37B}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 5-3_DIETER (Brian)_UNTREATED.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 211.76334789699803
+      SNAPOFFS 0
+      LENGTH 18.56478177450381
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3C069070-4186-4AAC-9B47-0C84E8D4F37F}
+      IID 15
+      NAME "❌ 5-3_DIETER (Brian)_UNTREATED.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 35.48360824817169
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4CB843DB-C189-4113-928D-FB91E25D7281}
+      <SOURCE MP3
+        FILE "voiceovers\❌ 5-3_DIETER (Brian)_UNTREATED.mp3" 1
+      >
+    >
+  >
+  <TRACK {D2991576-518B-4428-BC57-9962385DD5B6}
+    NAME "5-3_ROGER (Carl)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D2991576-518B-4428-BC57-9962385DD5B6}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 5.9835839 1 0
+    >
+    <ITEM
+      POSITION 207.83816999343921
+      SNAPOFFS 0
+      LENGTH 5.98308390022703
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CA9B8AFE-4459-41FE-BF48-88E537359C1C}
+      IID 4
+      NAME "5-3_ROGER (Carl).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4B56BC59-3D48-4A40-810A-71137F9CA620}
+      <SOURCE MP3
+        FILE "voiceovers\5-3_ROGER (Carl).mp3" 1
+      >
+    >
+  >
+  <TRACK {AD56A8F9-98F3-4088-93D1-35F58C614FA8}
+    NAME 450464__kyles__crowd-int-high-school-hallway-lockers-medium-busy-intercom-tone-back-to-class-crowd-thins-more-distant-and-person-on-crutches-pass-near-end
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {AD56A8F9-98F3-4088-93D1-35F58C614FA8}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 21 0.11748976 0 0 1
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 228.05283619676712
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0AC1EE2D-4B67-41E5-9992-E3AF3CDDAD2D}
+      IID 8
+      NAME 450464__kyles__crowd-int-high-school-hallway-lockers-medium-busy-intercom-tone-back-to-class-crowd-thins-more-distant-and-person-on-crutches-pass-near-end.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F1D8BF47-B2C8-46A9-BF89-CB1665C6905E}
+      <SOURCE FLAC
+        FILE "sound-effects\450464__kyles__crowd-int-high-school-hallway-lockers-medium-busy-intercom-tone-back-to-class-crowd-thins-more-distant-and-person-on-crutches-pass-near-end.flac"
+      >
+    >
+  >
+  <TRACK {60D8F3AC-859B-444C-8D01-9CDF0EF932AE}
+    NAME 42929__freqman__pa-microphone-feedback-1-tapping
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {60D8F3AC-859B-444C-8D01-9CDF0EF932AE}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 22.62113378684808
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CAB5BC99-76EF-4D54-8C2C-75671D88A3A7}
+      IID 5
+      NAME 42929__freqman__pa-microphone-feedback-1-tapping.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F4332F00-0063-40FA-8850-2EE79D29C64B}
+      <SOURCE WAVE
+        FILE "sound-effects\42929__freqman__pa-microphone-feedback-1-tapping.wav"
+      >
+    >
+  >
+  <TRACK {1DBF1705-FBA3-4B67-8EF8-B258BB452A49}
+    NAME 180961__kleeb__gunshots
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1DBF1705-FBA3-4B67-8EF8-B258BB452A49}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {601F030A-D557-41A3-9C49-6A8297937528}
+    NAME 344631__chubbers1995__people-fighting-wala
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {601F030A-D557-41A3-9C49-6A8297937528}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 231.11447496154298
+      SNAPOFFS 0
+      LENGTH 2.59961451247182
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {015EA8BA-D254-42CB-9CAE-3DAF7EFF0BE0}
+      IID 6
+      NAME 180961__kleeb__gunshots.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F85EA37D-CCD4-4660-A23C-E831B3E5239A}
+      <SOURCE WAVE
+        FILE "sound-effects\180961__kleeb__gunshots.wav"
+      >
+    >
+  >
+  <TRACK {88F60552-0383-4C97-8C1E-0C006E7B2C2F}
+    NAME 460509__florianreichelt__hitting-in-a-face
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 85 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {88F60552-0383-4C97-8C1E-0C006E7B2C2F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 231.2322303 1 0
+      PT 235.70693311 0.00077625 0 0 1
+    >
+    <ITEM
+      POSITION 228.09208797580268
+      SNAPOFFS 0
+      LENGTH 7.66666666666666
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {38ABB5E7-20A7-461F-B077-104B9BB9581A}
+      IID 7
+      NAME 344631__chubbers1995__people-fighting-wala.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9BDA1B19-0903-4D14-93F7-A658AC51AF1A}
+      <SOURCE WAVE
+        FILE "sound-effects\344631__chubbers1995__people-fighting-wala.wav"
+      >
+    >
+  >
+  <TRACK {E0D67D2E-6319-4796-B7BF-920D6E29117A}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E0D67D2E-6319-4796-B7BF-920D6E29117A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 228.05283619676712
+      SNAPOFFS 0
+      LENGTH 3.10961451247181
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {495A7CED-5D79-47BA-BEBC-9CA187592DC0}
+      IID 9
+      NAME 460509__florianreichelt__hitting-in-a-face.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D7359129-1624-4515-902A-9EBD642DF1D6}
+      <SOURCE MP3
+        FILE "sound-effects\460509__florianreichelt__hitting-in-a-face.mp3" 1
+      >
+    >
+  >
+  <TRACK {20BD7F9C-7EA9-49DC-8753-EAD8F172ABF2}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {20BD7F9C-7EA9-49DC-8753-EAD8F172ABF2}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 231.42848919382769
+      SNAPOFFS 0
+      LENGTH 2.28997732426296
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C0154835-C94A-49C0-BE39-64C053267A9A}
+      IID 16
+      NAME 59164__timtube__scream.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {98217299-3E16-4D5F-BCB9-66D5B8A0BABE}
+      <SOURCE WAVE
+        FILE "sound-effects\59164__timtube__scream.wav"
+      >
+    >
   >
 >
