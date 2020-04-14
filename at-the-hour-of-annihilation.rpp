@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586324534
+<REAPER_PROJECT 0.1 "6.08/x64" 1586869786
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -10,12 +10,12 @@
   PANLAW 1
   PROJOFFS 0 0 0
   MAXPROJLEN 0 600
-  GRID 3199 8 1 8 1 0 0 0
+  GRID 3455 8 1 8 1 0 0 0
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 100 0 0
+  CURSOR 0.15553173392491
+  ZOOM 12.85911208940567 0 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -27,9 +27,8 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE ""
-  RENDER_PATTERN ""
-  RENDER_FMT 0 2 0
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene4-3.mp3"
+  RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
   RENDER_RESAMPLE 3 0 1
@@ -43,6 +42,7 @@
   TAKELANE 1
   SAMPLERATE 44100 0 0
   <RENDER_CFG
+    bDNwbYAAAAAAAAAAAgAAAP////8EAAAAgAAAAAAAAAA=
   >
   LOCK 1
   <METRONOME 6 2
@@ -55,8 +55,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 0 0
-  SELECTION2 0 0
+  SELECTION 190.97 188.43
+  SELECTION2 190.97 188.43
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -75,12 +75,762 @@
     DEFSHAPE 0 -1 -1
   >
   <TEMPOENVEX
-    ACT 1 -1
+    ACT 0 -1
     VIS 1 0 1
     LANEHEIGHT 0 0
     ARM 0
     DEFSHAPE 1 -1 -1
   >
   <PROJBAY
+  >
+  <TRACK {16E1BE23-C91C-44F7-89B4-E137AB86F8AA}
+    NAME "4-3_WALTRUDA (Sofia)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {16E1BE23-C91C-44F7-89B4-E137AB86F8AA}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 323.27270896 1 0
+      PT 328.09419271 2 0
+      PT 330.11610526 1 0
+      PT 341.39215597 1 0
+      PT 342.86970744 1.55249423 0
+      PT 344.26949304 1 0
+    >
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+    >
+    <ITEM
+      POSITION 9.5
+      SNAPOFFS 0
+      LENGTH 42
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CEC2A982-873B-4491-89D4-8C07DD3E3E61}
+      IID 3
+      NAME "4-3_WALTRUDA (Sofia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {552097DD-E238-47BE-B5B1-F35848B304DB}
+      <SOURCE MP3
+        FILE "voiceovers\4-3_WALTRUDA (Sofia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 64.87
+      SNAPOFFS 0
+      LENGTH 2.69
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6CD8A274-C05C-46B1-887C-FDB82C6570B6}
+      IID 6
+      NAME "4-3_WALTRUDA (Sofia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 42
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {82E36B95-F7C0-4ECC-9A5C-60561EF732CC}
+      <SOURCE MP3
+        FILE "voiceovers\4-3_WALTRUDA (Sofia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 67.56
+      SNAPOFFS 0
+      LENGTH 1.24
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8EC8E82C-4691-4106-A85F-12307EC3BEA1}
+      IID 8
+      NAME "4-3_WALTRUDA (Sofia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 44.69
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4F011C1E-032C-42CC-8761-AB5AD62D9C61}
+      <SOURCE MP3
+        FILE "voiceovers\4-3_WALTRUDA (Sofia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 79.18
+      SNAPOFFS 0
+      LENGTH 17.32
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {85E9264E-E443-4B22-BC21-07F4F5B092A1}
+      IID 9
+      NAME "4-3_WALTRUDA (Sofia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 45.93
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A7A89B7B-61AF-481B-929F-A2B855F83A9C}
+      <SOURCE MP3
+        FILE "voiceovers\4-3_WALTRUDA (Sofia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 100.69
+      SNAPOFFS 0
+      LENGTH 3.23
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3B12E58C-AD17-4776-A6B2-BC465614190B}
+      IID 11
+      NAME "4-3_WALTRUDA (Sofia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 63.25
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AB65D578-0398-4EC6-A956-6CF98319F69D}
+      <SOURCE MP3
+        FILE "voiceovers\4-3_WALTRUDA (Sofia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 109.4
+      SNAPOFFS 0
+      LENGTH 14.1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {07002D9F-2B42-4C81-A143-4C3B862DB0D7}
+      IID 14
+      NAME "4-3_WALTRUDA (Sofia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 66.48
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C84B347D-A97A-4136-9453-C98BEAC9535C}
+      <SOURCE MP3
+        FILE "voiceovers\4-3_WALTRUDA (Sofia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 213.70060241282243
+      SNAPOFFS 0
+      LENGTH 15.24210992464091
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {18EBAD3E-4F94-4218-985F-AB09AFDBCD84}
+      IID 16
+      NAME "4-3_WALTRUDA (Sofia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 80.58
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {92A52C7A-D332-41C8-AB4D-2059123F294B}
+      <SOURCE MP3
+        FILE "voiceovers\4-3_WALTRUDA (Sofia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 310.59687264803961
+      SNAPOFFS 0
+      LENGTH 34.73893315926011
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4582277D-3AB4-4B64-8727-B909D817A5AA}
+      IID 24
+      NAME "4-3_WALTRUDA (Sofia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 95.8221099246409
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {835EA4F8-8DAF-487D-B7C4-8BF7362DF513}
+      <SOURCE MP3
+        FILE "voiceovers\4-3_WALTRUDA (Sofia).mp3" 1
+      >
+    >
+  >
+  <TRACK {E0ED6102-1053-46A5-865E-3C0FD93265F1}
+    NAME "4-3 DORIS (Dolores)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E0ED6102-1053-46A5-865E-3C0FD93265F1}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 -1 0
+    >
+    <ITEM
+      POSITION 51
+      SNAPOFFS 0
+      LENGTH 15.09
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C91FBA88-3319-4818-AFE1-EDF885B09D67}
+      IID 1
+      NAME "4-3 DORIS (Dolores).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B7B9187A-6B83-456C-9293-5C6B73C33596}
+      <SOURCE MP3
+        FILE "voiceovers\4-3 DORIS (Dolores).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 68
+      SNAPOFFS 0
+      LENGTH 12.28
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {034A228C-F3A5-4AE0-9604-DF8EF4217929}
+      IID 7
+      NAME "4-3 DORIS (Dolores).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 15.09
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {84B78F9E-6FF9-4369-86D3-3B64EC5C6F09}
+      <SOURCE MP3
+        FILE "voiceovers\4-3 DORIS (Dolores).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 95.43
+      SNAPOFFS 0
+      LENGTH 6.58
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {09C5B66F-B82C-42F5-A40B-416980360941}
+      IID 10
+      NAME "4-3 DORIS (Dolores).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 27.37
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E690748E-E0E9-4D1E-AA89-FCF5EC1BA44B}
+      <SOURCE MP3
+        FILE "voiceovers\4-3 DORIS (Dolores).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 103.5
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {63F6029E-BC21-4CA2-B92A-AACF4B1728A9}
+      IID 13
+      NAME "4-3 DORIS (Dolores).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 33.95
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F60BF200-4672-4601-8866-C5B744E66A68}
+      <SOURCE MP3
+        FILE "voiceovers\4-3 DORIS (Dolores).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 123.2
+      SNAPOFFS 0
+      LENGTH 8.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6345573F-57D5-4CC1-B220-F52762A5D7FF}
+      IID 15
+      NAME "4-3 DORIS (Dolores).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 41.95
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {81C9E45F-48DB-4CF4-B76D-98B8A6B86996}
+      <SOURCE MP3
+        FILE "voiceovers\4-3 DORIS (Dolores).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 154.52
+      SNAPOFFS 0
+      LENGTH 7.47
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DB4E4378-2CA5-41D9-A5F8-EA092A67976F}
+      IID 17
+      NAME "4-3 DORIS (Dolores).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 50.25
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AF3E01E9-ADB0-49A2-BAD8-422B1A2BEA7C}
+      <SOURCE MP3
+        FILE "voiceovers\4-3 DORIS (Dolores).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 171.17
+      SNAPOFFS 0
+      LENGTH 13.32
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {78562762-DF2C-4A69-8336-A22A663DCFD2}
+      IID 19
+      NAME "4-3 DORIS (Dolores).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 57.72
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {283FF923-2B58-41CC-8E61-CFD55B9A6506}
+      <SOURCE MP3
+        FILE "voiceovers\4-3 DORIS (Dolores).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 194.88508291169506
+      SNAPOFFS 0
+      LENGTH 20.64643577271937
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9D34261F-BA6D-4A8D-8EE5-E536C805C68A}
+      IID 21
+      NAME "4-3 DORIS (Dolores).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 71.04
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F914F47B-D33A-4A21-954B-8B0B53A4CF61}
+      <SOURCE MP3
+        FILE "voiceovers\4-3 DORIS (Dolores).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 228.24281953480127
+      SNAPOFFS 0
+      LENGTH 7.77658669624535
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B8FF1B15-5A72-47AF-B5C8-25C3DEEE2419}
+      IID 23
+      NAME "4-3 DORIS (Dolores).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 91.68643577271939
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4817A500-AE2D-46EA-ABE3-BD1E0A0429B7}
+      <SOURCE MP3
+        FILE "voiceovers\4-3 DORIS (Dolores).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 252.35023829316188
+      SNAPOFFS 0
+      LENGTH 5.0547813525595
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E1145023-6D7B-4605-8C54-873C965B1818}
+      IID 25
+      NAME "4-3 DORIS (Dolores).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 99.46302246896474
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FD97647D-E941-41CB-9011-AF60FB8F7AC6}
+      <SOURCE MP3
+        FILE "voiceovers\4-3 DORIS (Dolores).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 280.81254560141991
+      SNAPOFFS 0
+      LENGTH 11.20568824196874
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4163991A-709E-4666-B706-E891D23C93B1}
+      IID 27
+      NAME "4-3 DORIS (Dolores).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 104.51780382152424
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CE72E684-6034-4268-A39C-84C2BFE3ABD1}
+      <SOURCE MP3
+        FILE "voiceovers\4-3 DORIS (Dolores).mp3" 1
+      >
+    >
+  >
+  <TRACK {E4129262-A7BE-44DE-B95B-3BCABF4909D0}
+    NAME "4-3 KATIE (Emilia)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E4129262-A7BE-44DE-B95B-3BCABF4909D0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 131.26
+      SNAPOFFS 0
+      LENGTH 23.72
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5485F90A-7D35-4587-B38D-000B973B6941}
+      IID 2
+      NAME "4-3 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3A5A2690-D6A1-4358-9204-DAD4859F6C39}
+      <SOURCE MP3
+        FILE "voiceovers\4-3 KATIE (Emilia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 161.61
+      SNAPOFFS 0
+      LENGTH 10.9
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A2CD0912-2B5A-4CDE-9AAD-EB76C81AE57F}
+      IID 18
+      NAME "4-3 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 23.72
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4B69D1C3-E232-4F76-8BC1-2107C6329C5E}
+      <SOURCE MP3
+        FILE "voiceovers\4-3 KATIE (Emilia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 184.45
+      SNAPOFFS 0
+      LENGTH 11.02385959722889
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6A2DDBE4-965F-41F7-AEEF-174F0126BAD4}
+      IID 20
+      NAME "4-3 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 34.62
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7BA9BFDC-5487-41C8-B555-91965E1D9A93}
+      <SOURCE MP3
+        FILE "voiceovers\4-3 KATIE (Emilia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 235.94164036408418
+      SNAPOFFS 0
+      LENGTH 17.41955419958958
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9CE5701C-11A9-4A22-8D6E-581E548975EB}
+      IID 22
+      NAME "4-3 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 45.64385959722887
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8EDF5B4C-8628-4888-B838-BBDABB398E01}
+      <SOURCE MP3
+        FILE "voiceovers\4-3 KATIE (Emilia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 257.09395617787152
+      SNAPOFFS 0
+      LENGTH 24.49624809317288
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C969B42A-1C3F-47E4-B82A-5DB90D484D4E}
+      IID 26
+      NAME "4-3 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 63.06341379681845
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BAD6D4E6-4636-4666-975D-8685B096945F}
+      <SOURCE MP3
+        FILE "voiceovers\4-3 KATIE (Emilia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 292.01083044401327
+      SNAPOFFS 0
+      LENGTH 20.35321792860282
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {10F45276-D8C1-4A93-A569-70A58DA915F8}
+      IID 28
+      NAME "4-3 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 87.55966188999133
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B2DBB72B-2C44-4F33-ACBF-1FEB925500F4}
+      <SOURCE MP3
+        FILE "voiceovers\4-3 KATIE (Emilia).mp3" 1
+      >
+    >
+  >
+  <TRACK {5101D69B-BD03-4086-A2C5-C9B954739A87}
+    NAME 390519__alexschmidtmeister__mtgsr-news-cue-1704-01-full-jingle
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5101D69B-BD03-4086-A2C5-C9B954739A87}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 14.00027210884355
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7C18091C-EA0A-4512-B88A-6EDC6F20C151}
+      IID 4
+      NAME 390519__alexschmidtmeister__mtgsr-news-cue-1704-01-full-jingle.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1A7C7077-18A1-4078-9F9A-EB090E5AC78D}
+      <SOURCE WAVE
+        FILE "sound-effects\390519__alexschmidtmeister__mtgsr-news-cue-1704-01-full-jingle.wav"
+      >
+    >
+  >
+  <TRACK {220773F1-7802-4585-BB8F-55407C107555}
+    NAME 462188__tolerabledruid6__news-end
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {220773F1-7802-4585-BB8F-55407C107555}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 345.35821518025637
+      SNAPOFFS 0
+      LENGTH 3.42494331065774
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {525D9368-C4E2-4E0E-B9FE-33BA087DC437}
+      IID 5
+      NAME 462188__tolerabledruid6__news-end.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8AF701F5-5F76-4F27-B429-E7B898970431}
+      <SOURCE WAVE
+        FILE "sound-effects\462188__tolerabledruid6__news-end.wav"
+      >
+    >
   >
 >
