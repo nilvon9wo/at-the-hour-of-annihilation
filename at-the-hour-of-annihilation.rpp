@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586324534
+<REAPER_PROJECT 0.1 "6.08/x64" 1586873875
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -10,13 +10,13 @@
   PANLAW 1
   PROJOFFS 0 0 0
   MAXPROJLEN 0 600
-  GRID 3199 8 1 8 1 0 0 0
+  GRID 3455 8 1 8 1 0 0 0
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 100 0 0
-  VZOOMEX 6 0
+  CURSOR 0.11684220576273
+  ZOOM 8.55855119707958 0 0
+  VZOOMEX 4 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -27,9 +27,8 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE ""
-  RENDER_PATTERN ""
-  RENDER_FMT 0 2 0
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene4-4.mp3"
+  RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
   RENDER_RESAMPLE 3 0 1
@@ -43,6 +42,7 @@
   TAKELANE 1
   SAMPLERATE 44100 0 0
   <RENDER_CFG
+    bDNwbYAAAAAAAAAAAgAAAP////8EAAAAgAAAAAAAAAA=
   >
   LOCK 1
   <METRONOME 6 2
@@ -55,8 +55,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 0 0
-  SELECTION2 0 0
+  SELECTION 41 41.5
+  SELECTION2 41 41.5
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -75,12 +75,740 @@
     DEFSHAPE 0 -1 -1
   >
   <TEMPOENVEX
-    ACT 1 -1
+    ACT 0 -1
     VIS 1 0 1
     LANEHEIGHT 0 0
     ARM 0
     DEFSHAPE 1 -1 -1
   >
   <PROJBAY
+  >
+  <TRACK {3C223663-BF76-4DE3-A746-ED72D5FDA23E}
+    NAME "Dieter 4-4 - take 3"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 3.98107170553497 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3C223663-BF76-4DE3-A746-ED72D5FDA23E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 2 0
+    >
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+    >
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B0F7D8B4-0EF3-40C7-9004-522A94115FC7}
+      IID 13
+      NAME "Dieter 4-4 - take 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9F896DB6-F527-4D9F-9783-1F828DFEBB31}
+      <SOURCE WAVE
+        FILE "voiceovers\Dieter 4-4 - take 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 33
+      SNAPOFFS 0
+      LENGTH 7.7808
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A3A6ED3D-83BF-46F5-AE60-E0BCFDD21BFF}
+      IID 14
+      NAME "Dieter 4-4 - take 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 13
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F1C29146-68D7-4B31-BC1F-F314BFAD358F}
+      <SOURCE WAVE
+        FILE "voiceovers\Dieter 4-4 - take 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 40.7808
+      SNAPOFFS 0
+      LENGTH 10.7136
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7D1555F0-21D3-491A-BF96-BA1A21E106E7}
+      IID 17
+      NAME "Dieter 4-4 - take 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 21.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5E19D263-385F-4A6C-B089-AC5D4FFEE794}
+      <SOURCE WAVE
+        FILE "voiceovers\Dieter 4-4 - take 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 57.33504
+      SNAPOFFS 0
+      LENGTH 22.17024
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A5558F36-8FDC-4114-95A4-022C2BDB147B}
+      IID 22
+      NAME "Dieter 4-4 - take 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 41.04368
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6EB7CBC3-B59C-4B0D-A7E9-D41495C58E96}
+      <SOURCE WAVE
+        FILE "voiceovers\Dieter 4-4 - take 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 119.33568
+      SNAPOFFS 0
+      LENGTH 4.6656
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8E18D880-65E6-4A63-8A31-B543E97A96AA}
+      IID 23
+      NAME "Dieter 4-4 - take 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 63.21392
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EB7CD24A-4D9C-4461-90FD-201DE6118123}
+      <SOURCE WAVE
+        FILE "voiceovers\Dieter 4-4 - take 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 125.55648
+      SNAPOFFS 0
+      LENGTH 3.95712
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {84DDA83E-03DD-460C-BAAB-C12CF8D0B5F5}
+      IID 28
+      NAME "Dieter 4-4 - take 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 67.87952
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {693C1E9D-E306-45A2-B707-660F9F6919BF}
+      <SOURCE WAVE
+        FILE "voiceovers\Dieter 4-4 - take 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 130.96512
+      SNAPOFFS 0
+      LENGTH 3.55968
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C5A28A65-0219-4A9A-BBF7-447414C74A7A}
+      IID 33
+      NAME "Dieter 4-4 - take 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 73.73744
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1A3D9276-A487-4ED4-BF35-17B8F50FBDD0}
+      <SOURCE WAVE
+        FILE "voiceovers\Dieter 4-4 - take 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 154.55232
+      SNAPOFFS 0
+      LENGTH 4.45824
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AC7935C7-B0EC-43BA-BFF9-1BECD90A36F0}
+      IID 34
+      NAME "Dieter 4-4 - take 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 77.29712
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1E4C8338-5407-4DD5-AF2A-2EAE3A19983D}
+      <SOURCE WAVE
+        FILE "voiceovers\Dieter 4-4 - take 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 192.69483364150923
+      SNAPOFFS 0
+      LENGTH 6.64393705215343
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {83C3EA3A-079E-4C13-915B-340F93F5F2CF}
+      IID 37
+      NAME "Dieter 4-4 - take 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 81.75536
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {23077431-0F62-40C9-B27D-A536E9EAC5DB}
+      <SOURCE WAVE
+        FILE "voiceovers\Dieter 4-4 - take 3.wav"
+      >
+    >
+  >
+  <TRACK {22DD65A1-D8F7-45F4-BB29-DC518B7D7ACE}
+    NAME "4-4_HEGART (Omer - Take 2)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {22DD65A1-D8F7-45F4-BB29-DC518B7D7ACE}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 -1 0
+    >
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EF91791B-79AA-413E-B5BB-863025A8076A}
+      IID 2
+      NAME "4-4_HEGART (Omer - Take 2).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B2567220-53D6-4A1E-B673-F3F40D8157B6}
+      <SOURCE MP3
+        FILE "voiceovers\4-4_HEGART (Omer - Take 2).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 50.87232
+      SNAPOFFS 0
+      LENGTH 6.63552
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6B3F1E65-98A5-4DC2-BE3A-308ACC2EEA3C}
+      IID 6
+      NAME "4-4_HEGART (Omer - Take 2).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F4AB91D2-567B-4111-A3AA-9C7DAE1FAAAC}
+      <SOURCE MP3
+        FILE "voiceovers\4-4_HEGART (Omer - Take 2).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 87.50592
+      SNAPOFFS 0
+      LENGTH 24.50304
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {47B87DA7-4F34-4988-865D-2B7AD62BC066}
+      IID 21
+      NAME "4-4_HEGART (Omer - Take 2).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 11.63552
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B10AD5F2-806F-41D3-A9DF-270975BADBA1}
+      <SOURCE MP3
+        FILE "voiceovers\4-4_HEGART (Omer - Take 2).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 129.21984
+      SNAPOFFS 0
+      LENGTH 2.31552
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {42A1D746-B4D0-4424-8FA8-5DBE3F754B68}
+      IID 26
+      NAME "4-4_HEGART (Omer - Take 2).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 36.13856
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F6E03D08-323A-4B1B-AE7F-F52F841C3E39}
+      <SOURCE MP3
+        FILE "voiceovers\4-4_HEGART (Omer - Take 2).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 155.03616
+      SNAPOFFS 0
+      LENGTH 2.00448
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CF2CEDA0-3A9C-4B5F-9100-72C9DB2CF231}
+      IID 32
+      NAME "4-4_HEGART (Omer - Take 2).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 38.45408
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {11DAEDC0-98C8-4B2A-B00F-B5ED399ABAD8}
+      <SOURCE MP3
+        FILE "voiceovers\4-4_HEGART (Omer - Take 2).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 184.21833345521588
+      SNAPOFFS 0
+      LENGTH 6.82411573696169
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {668C40AC-16EA-4E4F-9B59-5C527AADA463}
+      IID 36
+      NAME "4-4_HEGART (Omer - Take 2).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 40.45856
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D178D18E-6D20-4DB8-9098-CE9441054A9B}
+      <SOURCE MP3
+        FILE "voiceovers\4-4_HEGART (Omer - Take 2).mp3" 1
+      >
+    >
+  >
+  <TRACK {E1E3102E-7ECF-4F15-82DC-84EA964C87ED}
+    NAME "4-4_TOBY (Carl)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E1E3102E-7ECF-4F15-82DC-84EA964C87ED}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 0 -1
+      VIS 0 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 158.81998 1 0
+      PT 158.82048 0.0691831 0
+      PT 185.09958542 0.0691831 0
+      PT 190.45792428 0.27398508 0
+      PT 190.45842428 0.0691831 0
+      PT 195.27364655 0.0691831 0
+      PT 198.06397701 0.23102898 0
+      PT 198.06447701 0.0691831 0
+      PT 205.36224139 0.0691831 0
+      PT 205.36274139 1 0
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {29E7CC81-9DB6-4AFB-B9D7-6D98442A2E69}
+      IID 3
+      NAME "4-4_TOBY (Carl).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A7868B53-2172-4982-B5A8-6A53F086EF16}
+      <SOURCE MP3
+        FILE "voiceovers\4-4_TOBY (Carl).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 8
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {02814D01-04CD-4935-97DB-35F011D68BED}
+      IID 5
+      NAME "4-4_TOBY (Carl).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {28AB58BC-2674-4531-B493-6CE20D93F9C9}
+      <SOURCE MP3
+        FILE "voiceovers\4-4_TOBY (Carl).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 25
+      SNAPOFFS 0
+      LENGTH 11.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {038CD80D-EDC2-4E0C-91F4-AD0056DD772A}
+      IID 7
+      NAME "4-4_TOBY (Carl).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E6417D3F-15AA-43A7-B43F-A48BC703A694}
+      <SOURCE MP3
+        FILE "voiceovers\4-4_TOBY (Carl).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 79.00416
+      SNAPOFFS 0
+      LENGTH 9.27936
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {366F590B-45C4-48BC-A310-37FD4FE36094}
+      IID 15
+      NAME "4-4_TOBY (Carl).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 19.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A08385DD-01EA-4A77-AFE8-F2FD19E4158C}
+      <SOURCE MP3
+        FILE "voiceovers\4-4_TOBY (Carl).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 111.74976
+      SNAPOFFS 0
+      LENGTH 11.232
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7ADD12A3-2F29-4642-B52A-7118D7AF82C4}
+      IID 24
+      NAME "4-4_TOBY (Carl).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 28.77936
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1A46A59A-3D4D-4827-94D8-7FE0602BE908}
+      <SOURCE MP3
+        FILE "voiceovers\4-4_TOBY (Carl).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 123.62112
+      SNAPOFFS 0
+      LENGTH 3.85344
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8B243DC2-F2BF-4883-826D-B60C3E19F599}
+      IID 27
+      NAME "4-4_TOBY (Carl).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 40.01136
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0771BE19-75F6-4C49-A5E2-94543FFD797D}
+      <SOURCE MP3
+        FILE "voiceovers\4-4_TOBY (Carl).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 134.05824
+      SNAPOFFS 0
+      LENGTH 21.9456
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {98D0F920-741E-4663-B839-954B559F4581}
+      IID 29
+      NAME "4-4_TOBY (Carl).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 43.8648
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4C2363F4-B50C-473D-A730-F35FF1D4F48A}
+      <SOURCE MP3
+        FILE "voiceovers\4-4_TOBY (Carl).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 158.82048
+      SNAPOFFS 0
+      LENGTH 26.27960541947132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {927CC3DB-4AF6-4D50-AA89-EF8ED6E89C4E}
+      IID 35
+      NAME "4-4_TOBY (Carl).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 65.8104
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F16ABC0F-DEFA-4BDC-9DB6-69B1D11943FD}
+      <SOURCE MP3
+        FILE "voiceovers\4-4_TOBY (Carl).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 190.45842427917754
+      SNAPOFFS 0
+      LENGTH 4.81572226631823
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9439F263-3F9C-4B42-B1D9-0C6484E73E82}
+      IID 38
+      NAME "4-4_TOBY (Carl).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 92.09000541947132
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AD0745AB-A3D7-46BD-B4FF-DCE2275D453D}
+      <SOURCE MP3
+        FILE "voiceovers\4-4_TOBY (Carl).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 198.06447701357769
+      SNAPOFFS 0
+      LENGTH 7.29776437770215
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D1922C2C-AE8E-4A4F-9C91-70EE4B25D299}
+      IID 39
+      NAME "4-4_TOBY (Carl).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 96.90572768578956
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DA866030-1630-4859-902F-244AD7EC1D16}
+      <SOURCE MP3
+        FILE "voiceovers\4-4_TOBY (Carl).mp3" 1
+      >
+    >
+  >
+  <TRACK {9FD7C704-B218-41C6-8FA8-E79C35E89CF4}
+    NAME 321233__inchadney__beer-garden
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9FD7C704-B218-41C6-8FA8-E79C35E89CF4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 2.5 0.07943282 0
+      PT 204.47036735 0.07943282 0
+      PT 217.98868005 0.85113804 0 0 1
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 217.9872
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C826FC57-4BDA-4D46-AF63-C97DDF9F5010}
+      IID 4
+      NAME 321233__inchadney__beer-garden.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1794E4D6-E2C0-42BE-9B8B-00268261A569}
+      <SOURCE WAVE
+        FILE "sound-effects\321233__inchadney__beer-garden.wav"
+      >
+    >
   >
 >
