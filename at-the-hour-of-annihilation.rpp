@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586324534
+<REAPER_PROJECT 0.1 "6.08/x64" 1586875078
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -27,9 +27,8 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE ""
-  RENDER_PATTERN ""
-  RENDER_FMT 0 2 0
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene4-5.mp3"
+  RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
   RENDER_RESAMPLE 3 0 1
@@ -43,6 +42,7 @@
   TAKELANE 1
   SAMPLERATE 44100 0 0
   <RENDER_CFG
+    bDNwbYAAAAAAAAAAAgAAAP////8EAAAAgAAAAAAAAAA=
   >
   LOCK 1
   <METRONOME 6 2
@@ -55,8 +55,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 0 0
-  SELECTION2 0 0
+  SELECTION 76 78
+  SELECTION2 76 78
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -75,12 +75,313 @@
     DEFSHAPE 0 -1 -1
   >
   <TEMPOENVEX
-    ACT 1 -1
+    ACT 0 -1
     VIS 1 0 1
     LANEHEIGHT 0 0
     ARM 0
     DEFSHAPE 1 -1 -1
   >
   <PROJBAY
+  >
+  <TRACK {F15965BD-F8C7-49DA-9F3A-8E94404287E9}
+    NAME "4-5 KATIE (Emilia)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F15965BD-F8C7-49DA-9F3A-8E94404287E9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 20.5
+      SNAPOFFS 0
+      LENGTH 14.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F69BCDB6-237D-4ECC-A3DB-B8F4812F149A}
+      IID 1
+      NAME "4-5 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A71580CA-BEE9-4D6A-945B-702CFBD37267}
+      <SOURCE MP3
+        FILE "voiceovers\4-5 KATIE (Emilia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 35
+      SNAPOFFS 0
+      LENGTH 3.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B1242F39-E425-4983-B4B9-F3CA6BE03234}
+      IID 7
+      NAME "4-5 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 14.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {059C6520-7C48-4136-9BF4-BCFDC0847932}
+      <SOURCE MP3
+        FILE "voiceovers\4-5 KATIE (Emilia).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 49
+      SNAPOFFS 0
+      LENGTH 20.68839002267575
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E80AFA96-9519-4D41-B059-51B8AF34B851}
+      IID 9
+      NAME "4-5 KATIE (Emilia).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 18
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {335FFFBD-85CF-4A79-9293-EE7A5E383EBE}
+      <SOURCE MP3
+        FILE "voiceovers\4-5 KATIE (Emilia).mp3" 1
+      >
+    >
+  >
+  <TRACK {94DAA497-5D0F-4D45-81A9-644353B3212F}
+    NAME "4-5_KENDRA (Gina)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {94DAA497-5D0F-4D45-81A9-644353B3212F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4AAC9B90-FA29-49E5-9EBA-B34B68A9086C}
+      IID 2
+      NAME "4-5_KENDRA (Gina).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FFFEC329-CE2B-44C6-9B71-B06534F00753}
+      <SOURCE MP3
+        FILE "voiceovers\4-5_KENDRA (Gina).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 36
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F1CB99DE-F4F7-4DA1-A2D1-A616E4B20A18}
+      IID 6
+      NAME "4-5_KENDRA (Gina).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 15
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5AB856A1-EF56-44EB-9A8E-50DCBCC2DD3F}
+      <SOURCE MP3
+        FILE "voiceovers\4-5_KENDRA (Gina).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 69.68839002267575
+      SNAPOFFS 0
+      LENGTH 2.04185941043085
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {20B7F445-EBFF-4F45-A468-4F3825FD1175}
+      IID 8
+      NAME "4-5_KENDRA (Gina).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 28
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6BE3CD12-5ECD-48FA-AC15-61436C9EE6F7}
+      <SOURCE MP3
+        FILE "voiceovers\4-5_KENDRA (Gina).mp3" 1
+      >
+    >
+  >
+  <TRACK {BA8C4E44-09CA-4942-8E32-400ACB3C2B70}
+    NAME 332158__esistnichtsoernst__erh-negative-future-pizzetti-requiem-remix
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {BA8C4E44-09CA-4942-8E32-400ACB3C2B70}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 2 0
+      PT 6 0.14125375 0
+      PT 71 0.14791084 0
+      PT 75.47 0.77224671 0
+      PT 76 0.18620871 0 0 1
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 83
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BDDC3190-41D8-4D8F-B543-59E0AFF90DF9}
+      IID 4
+      NAME 332158__esistnichtsoernst__erh-negative-future-pizzetti-requiem-remix.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {13A33544-3DDF-4CA0-8B37-7BA795DE8AD2}
+      <SOURCE WAVE
+        FILE "sound-effects\332158__esistnichtsoernst__erh-negative-future-pizzetti-requiem-remix.wav"
+      >
+    >
+  >
+  <TRACK {D44F1EF9-A7BF-46B0-A8AE-27E59F3B6529}
+    NAME "morge freezer"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D44F1EF9-A7BF-46B0-A8AE-27E59F3B6529}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 0 0
+      PT 6 0.12302688 0
+      PT 71 0.32359366 0
+      PT 75.5 0.03019952 0 0 1
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 83
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {13AB1E15-44EA-4275-BA86-4EBF6F90EBC3}
+      IID 3
+      NAME 162051__neix__nxsample-144.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9532564C-A592-45BA-A043-01C5E0122A29}
+      <SOURCE WAVE
+        FILE "sound-effects\162051__neix__nxsample-144.wav"
+      >
+    >
   >
 >
