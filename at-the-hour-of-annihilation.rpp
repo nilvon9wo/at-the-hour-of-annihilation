@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586813802
+<REAPER_PROJECT 0.1 "6.08/x64" 1586857056
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -27,7 +27,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\acts\act3.wav"
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\acts\act3.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -42,7 +42,7 @@
   TAKELANE 1
   SAMPLERATE 44100 0 0
   <RENDER_CFG
-    ZXZhdxgAAA==
+    bDNwbYAAAAAAAAAAAgAAAP////8EAAAAgAAAAAAAAAA=
   >
   LOCK 1
   <METRONOME 6 2
