@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586857056
+<REAPER_PROJECT 0.1 "6.08/x64" 1586939146
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -27,7 +27,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\acts\act3.mp3"
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\acts\act3b.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -251,7 +251,7 @@
     <ITEM
       POSITION 471.5
       SNAPOFFS 0
-      LENGTH 239
+      LENGTH 250.5
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -296,7 +296,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 709.5
+      POSITION 722
       SNAPOFFS 0
       LENGTH 394.55741496598648
       LOOP 1
@@ -343,7 +343,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 1103
+      POSITION 1116
       SNAPOFFS 0
       LENGTH 284.65900226757367
       LOOP 1
