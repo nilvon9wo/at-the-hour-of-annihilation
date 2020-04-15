@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586897860
+<REAPER_PROJECT 0.1 "6.08/x64" 1586940067
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -27,7 +27,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation-alpha-2.mp3"
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation-alpha-3.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -55,8 +55,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 0 0
-  SELECTION2 0 0
+  SELECTION 12 46
+  SELECTION2 12 46
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -143,7 +143,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -249,7 +249,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 3494
+      POSITION 3506
       SNAPOFFS 0
       LENGTH 869
       LOOP 1
@@ -284,7 +284,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -296,7 +296,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 4364
+      POSITION 4388
       SNAPOFFS 0
       LENGTH 1054.7587528344675
       LOOP 1
@@ -343,7 +343,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 5418.7587528344675
+      POSITION 5456
       SNAPOFFS 0
       LENGTH 241
       LOOP 1
