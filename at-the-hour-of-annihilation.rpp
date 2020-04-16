@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586803561
+<REAPER_PROJECT 0.1 "6.08/x64" 1587056453
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,9 +14,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 292
-  ZOOM 13.45879857415381 0 0
-  VZOOMEX 6 0
+  CURSOR 212
+  ZOOM 4.31986903219033 0 0
+  VZOOMEX 2 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -55,8 +55,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 296 310
-  SELECTION2 296 310
+  SELECTION 296 384
+  SELECTION2 296 384
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -108,7 +108,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 0
+      POSITION 32
       SNAPOFFS 0
       LENGTH 164.41469387755103
       LOOP 1
@@ -155,7 +155,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 164
+      POSITION 236
       SNAPOFFS 0
       LENGTH 142.25782312925173
       LOOP 1
@@ -202,7 +202,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 302
+      POSITION 412
       SNAPOFFS 0
       LENGTH 79
       LOOP 1
@@ -249,7 +249,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 376
+      POSITION 512
       SNAPOFFS 0
       LENGTH 587
       LOOP 1
@@ -284,7 +284,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -296,7 +296,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 962
+      POSITION 1126
       SNAPOFFS 0
       LENGTH 302
       LOOP 1
@@ -343,7 +343,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 1264
+      POSITION 1452
       SNAPOFFS 0
       LENGTH 209.00000000000045
       LOOP 1
@@ -390,7 +390,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 1466
+      POSITION 1661
       SNAPOFFS 0
       LENGTH 63.92494331065723
       LOOP 1
@@ -409,6 +409,339 @@
       GUID {DEF3A2DD-9E6C-42E1-96FA-4BE099827E71}
       <SOURCE MP3
         FILE "scenes\scene2-7.mp3" 1
+      >
+    >
+  >
+  <TRACK {82DFFE83-29E0-48E4-A7EC-C0C30995E98E}
+    NAME "Doris narrates take 2"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 100 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {82DFFE83-29E0-48E4-A7EC-C0C30995E98E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 53 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 2 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 32
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {13EB4553-8F03-4248-B6E8-C0C14C7085BB}
+      IID 11
+      NAME "Doris narrates take 2.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 232
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0B06CE48-908A-4277-ABBB-9A0B29F5EBEE}
+      <SOURCE MP3
+        FILE "voiceovers\Doris narrates take 2.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 196
+      SNAPOFFS 0
+      LENGTH 40
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F0FD6B91-4C1D-4AAA-9390-5B191EF62E2F}
+      IID 16
+      NAME "Doris narrates take 2.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 319.58530612244897
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4D2A2B61-0A6C-44EB-A834-8BE7F8B93F31}
+      <SOURCE MP3
+        FILE "voiceovers\Doris narrates take 2.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 378.25782312925173
+      SNAPOFFS 0
+      LENGTH 33.74217687074827
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E6EBE44A-5A8A-4779-8689-C749F07B5FC9}
+      IID 17
+      NAME "Doris narrates take 2.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 359.58530612244897
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E9EF5F07-731E-4628-AF5F-040E18FBC1D2}
+      <SOURCE MP3
+        FILE "voiceovers\Doris narrates take 2.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 491
+      SNAPOFFS 0
+      LENGTH 21
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BB66962A-E300-489D-8691-66966D7DF60C}
+      IID 18
+      NAME "Doris narrates take 2.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 393.32748299319724
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F572CDCE-895B-450B-8E7E-8DBD2FC99252}
+      <SOURCE MP3
+        FILE "voiceovers\Doris narrates take 2.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 1098
+      SNAPOFFS 0
+      LENGTH 28
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {611DFBF1-B953-4C6E-B351-A04169515323}
+      IID 20
+      NAME "Doris narrates take 2.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 414.32748299319724
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C89B38A-268C-47D9-B163-5312660FA695}
+      <SOURCE MP3
+        FILE "voiceovers\Doris narrates take 2.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 1428
+      SNAPOFFS 0
+      LENGTH 24
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2BEC55E5-15D3-49FD-9D61-A9053C94889A}
+      IID 23
+      NAME "Doris narrates take 2.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 442.32748299319724
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {55B606B9-D17F-4D01-8BDF-39A8CE3A1FE5}
+      <SOURCE MP3
+        FILE "voiceovers\Doris narrates take 2.mp3" 1
+      >
+    >
+  >
+  <TRACK {EF182061-3A96-4DDC-8722-D0AC891402FD}
+    NAME 320306__sophronsinesounddesign__beach-9
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 27 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {EF182061-3A96-4DDC-8722-D0AC891402FD}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 108 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 4 0.11220185 0
+    >
+    <ITEM
+      POSITION 0.4127239317939
+      SNAPOFFS 0
+      LENGTH 31.5872760682061
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {206C05C5-0F47-4AB1-B474-D57F7DB4AE9A}
+      IID 8
+      NAME 320306__sophronsinesounddesign__beach-9.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5C514C13-AF0E-4B3B-AA10-623E0740D8A1}
+      <SOURCE WAVE
+        FILE "sound-effects\320306__sophronsinesounddesign__beach-9.wav"
+      >
+    >
+    <ITEM
+      POSITION 196.41469387755103
+      SNAPOFFS 0
+      LENGTH 39.58530612244897
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E4075D58-0C8F-4C7F-B37C-A4106B732C95}
+      IID 13
+      NAME 320306__sophronsinesounddesign__beach-9.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 17.49167190153943
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EE94465C-5FC4-4033-85C5-8D7D73BEE519}
+      <SOURCE WAVE
+        FILE "sound-effects\320306__sophronsinesounddesign__beach-9.wav"
+      >
+    >
+    <ITEM
+      POSITION 378.25782312925173
+      SNAPOFFS 0
+      LENGTH 33.74217687074827
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CC1C0F8A-675D-49C6-8CFA-851CF2FD3AB7}
+      IID 15
+      NAME 320306__sophronsinesounddesign__beach-9.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BF52C163-C4BF-4799-BC02-D74BB7D55D4D}
+      <SOURCE WAVE
+        FILE "sound-effects\320306__sophronsinesounddesign__beach-9.wav"
+      >
+    >
+    <ITEM
+      POSITION 491
+      SNAPOFFS 0
+      LENGTH 21
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {76416EDC-12BF-4278-B43B-9858B0809613}
+      IID 15
+      NAME 320306__sophronsinesounddesign__beach-9.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5FB11CC9-C115-4A63-B152-2C512C02EFC3}
+      <SOURCE WAVE
+        FILE "sound-effects\320306__sophronsinesounddesign__beach-9.wav"
+      >
+    >
+    <ITEM
+      POSITION 1098
+      SNAPOFFS 0
+      LENGTH 28
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A91DAFFB-6919-43E2-B713-24D153C452D7}
+      IID 15
+      NAME 320306__sophronsinesounddesign__beach-9.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7ED9B424-B699-40D5-AF51-D18424C8A71A}
+      <SOURCE WAVE
+        FILE "sound-effects\320306__sophronsinesounddesign__beach-9.wav"
+      >
+    >
+    <ITEM
+      POSITION 1428
+      SNAPOFFS 0
+      LENGTH 24
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CE63FB1B-3DF5-4B47-910C-599E3D02356C}
+      IID 24
+      NAME 320306__sophronsinesounddesign__beach-9.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 17.90439583333333
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DAE4701C-9515-44E3-A0E7-4DA56447D724}
+      <SOURCE WAVE
+        FILE "sound-effects\320306__sophronsinesounddesign__beach-9.wav"
       >
     >
   >
