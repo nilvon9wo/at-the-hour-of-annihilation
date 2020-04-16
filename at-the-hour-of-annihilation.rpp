@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1587058947
+<REAPER_PROJECT 0.1 "6.08/x64" 1587059964
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 8
-  ZOOM 3.13008639655066 0 0
+  CURSOR 0
+  ZOOM 0.79743809668161 0 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -27,7 +27,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\acts\act5.mp3"
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\acts\act5b.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -108,7 +108,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 152
+      POSITION 32
       SNAPOFFS 0
       LENGTH 251.30167800453512
       LOOP 1
@@ -155,7 +155,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 400
+      POSITION 283.30167800453512
       SNAPOFFS 0
       LENGTH 376.94158730158733
       LOOP 1
@@ -190,7 +190,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -202,7 +202,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 776
+      POSITION 660.24326530612245
       SNAPOFFS 0
       LENGTH 236.75875283446703
       LOOP 1
@@ -249,7 +249,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 1012.758752834467
+      POSITION 969.21857142857129
       SNAPOFFS 0
       LENGTH 193
       LOOP 1
@@ -277,14 +277,14 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 2 0
+    MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -307,13 +307,13 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 120.21655328798182
+      LENGTH 32
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {18B5ED48-302F-44C1-AA94-45AC057EA863}
       IID 8
       NAME "Doris narrates take 2.mp3"
@@ -326,51 +326,26 @@
         FILE "voiceovers\Doris narrates take 2.mp3" 1
       >
     >
-  >
-  <TRACK {A8F79656-5274-4CA5-9A8F-4A1FF54C27DA}
-    NAME "Doris narrates take 1"
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1.00000000000013 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FREEMODE 0
-    SEL 0
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {A8F79656-5274-4CA5-9A8F-4A1FF54C27DA}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
     <ITEM
-      POSITION 0
+      POSITION 896
       SNAPOFFS 0
-      LENGTH 749.21900226757373
+      LENGTH 73.21857142857129
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {E01A3E92-1696-4902-B35D-62419C89B0E5}
-      IID 5
-      NAME "Doris narrates take 1.mp3"
+      IGUID {EF3BFE63-6E6C-43AC-BB09-13E4AB9180E1}
+      IID 13
+      NAME "Doris narrates take 2.mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 0
+      SOFFS 782.99798185941052
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {2EAFD8F1-198B-4A69-9952-28159CEE5CB1}
+      GUID {C9782650-0773-4D56-AF51-E317512BC667}
       <SOURCE MP3
-        FILE "voiceovers\Doris narrates take 1.mp3" 1
+        FILE "voiceovers\Doris narrates take 2.mp3" 1
       >
     >
   >
@@ -406,11 +381,12 @@
       DEFSHAPE 0 -1 -1
       VOLTYPE 1
       PT 0 1 0
+      PT 4 0.09332543 0 0 1
     >
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 217.14725
+      LENGTH 32
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -425,6 +401,28 @@
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {E16FA964-4FF3-41EF-AB13-47F53B782CA4}
+      <SOURCE WAVE
+        FILE "sound-effects\320306__sophronsinesounddesign__beach-9.wav"
+      >
+    >
+    <ITEM
+      POSITION 897.00201814058948
+      SNAPOFFS 0
+      LENGTH 72.21655328798181
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6160A3EB-7EDA-4F3E-AD9B-117D34DB6EE4}
+      IID 12
+      NAME 320306__sophronsinesounddesign__beach-9.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 13.90439583333333
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E97F15CF-FB57-47EC-9EE4-A29C1554662E}
       <SOURCE WAVE
         FILE "sound-effects\320306__sophronsinesounddesign__beach-9.wav"
       >
