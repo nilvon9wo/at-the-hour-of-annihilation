@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1587060522
+<REAPER_PROJECT 0.1 "6.08/x64" 1587061985
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -10,13 +10,13 @@
   PANLAW 1
   PROJOFFS 0 0 0
   MAXPROJLEN 0 600
-  GRID 3199 8 1 8 1 0 0 0
+  GRID 3455 8 1 8 1 0 0 0
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 5152.2162358276646
-  ZOOM 0.50552642797052 1986 0
-  VZOOMEX 12 296
+  CURSOR 0.46005119909367
+  ZOOM 2.17367110871586 0 0
+  VZOOMEX 8 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -27,7 +27,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation-alpha-4.mp3"
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation-alpha-5.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -99,7 +99,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0
+    TRACKHEIGHT 101 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -146,7 +146,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0
+    TRACKHEIGHT 79 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -155,7 +155,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 800
+      POSITION 802.46569486961448
       SNAPOFFS 0
       LENGTH 1728
       LOOP 1
@@ -193,7 +193,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0
+    TRACKHEIGHT 25 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -202,7 +202,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 2544
+      POSITION 2551.6580027954114
       SNAPOFFS 0
       LENGTH 1519.4236054421772
       LOOP 1
@@ -240,7 +240,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0
+    TRACKHEIGHT 25 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -249,9 +249,9 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 4080
+      POSITION 4087.9186756314107
       SNAPOFFS 0
-      LENGTH 1005
+      LENGTH 1005.0000000000014
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -284,10 +284,10 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0
+    TRACKHEIGHT 25 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -296,15 +296,15 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 5104
+      POSITION 5119.3425699870259
       SNAPOFFS 0
-      LENGTH 48.2162358276644
+      LENGTH 1163.2185714285724
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {2EEF7FC8-528E-45B8-B82B-7A5C020E0E75}
       IID 10
       NAME act5.mp3
@@ -334,7 +334,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0
+    TRACKHEIGHT 25 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -343,7 +343,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 6160
+      POSITION 6308.6820931715065
       SNAPOFFS 0
       LENGTH 241
       LOOP 1
@@ -362,6 +362,163 @@
       GUID {5782A9B9-468A-4B21-A86B-8397B6F32572}
       <SOURCE MP3
         FILE "acts\epilogue.mp3" 1
+      >
+    >
+  >
+  <TRACK {66387A78-E15D-4908-A52C-CA4D5EF6AC2A}
+    NAME 320306__sophronsinesounddesign__beach-9
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {66387A78-E15D-4908-A52C-CA4D5EF6AC2A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 778.06680634364523
+      SNAPOFFS 0
+      LENGTH 28.02359260136006
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D9FD9F66-462F-482D-B1A0-8813572177D8}
+      IID 12
+      NAME 320306__sophronsinesounddesign__beach-9.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B1AF2CB-5BE5-412E-910D-DD14031BB9F8}
+      <SOURCE WAVE
+        FILE "sound-effects\320306__sophronsinesounddesign__beach-9.wav"
+      >
+    >
+    <ITEM
+      POSITION 2526.4734016013786
+      SNAPOFFS 0
+      LENGTH 28.02359260136018
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {93F39998-F5D4-410D-A901-0C467B5D5662}
+      IID 12
+      NAME 320306__sophronsinesounddesign__beach-9.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BDE3B1B0-C94A-4C9A-B641-DFB1F20A3B1C}
+      <SOURCE WAVE
+        FILE "sound-effects\320306__sophronsinesounddesign__beach-9.wav"
+      >
+    >
+    <ITEM
+      POSITION 4061.5893198376289
+      SNAPOFFS 0
+      LENGTH 28.02359260136018
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7CE7DCF1-0B07-4A05-92D0-EF5BD4FDD7EF}
+      IID 12
+      NAME 320306__sophronsinesounddesign__beach-9.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5FE88194-6E89-4C23-B083-61E31D15375C}
+      <SOURCE WAVE
+        FILE "sound-effects\320306__sophronsinesounddesign__beach-9.wav"
+      >
+    >
+    <ITEM
+      POSITION 5091.8684595935356
+      SNAPOFFS 0
+      LENGTH 28.02359260136018
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1672E767-DA48-432B-9128-F5E4D2D8BFAF}
+      IID 12
+      NAME 320306__sophronsinesounddesign__beach-9.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9FDA4ADD-D70E-45DA-A940-6E2C5E36523F}
+      <SOURCE WAVE
+        FILE "sound-effects\320306__sophronsinesounddesign__beach-9.wav"
+      >
+    >
+    <ITEM
+      POSITION 6281.0790212259162
+      SNAPOFFS 0
+      LENGTH 28.02359260136018
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FFD9E90D-C772-496A-943B-EE686984B514}
+      IID 12
+      NAME 320306__sophronsinesounddesign__beach-9.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {501D15B1-69DF-41A0-8789-FF907D29E389}
+      <SOURCE WAVE
+        FILE "sound-effects\320306__sophronsinesounddesign__beach-9.wav"
+      >
+    >
+    <ITEM
+      POSITION 6548.3687678993447
+      SNAPOFFS 0
+      LENGTH 28.02359260136018
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E2A12BF1-2785-47B4-8816-778A2419D7BC}
+      IID 12
+      NAME 320306__sophronsinesounddesign__beach-9.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {20F41048-F67D-4BE0-A01E-AED697AE97D3}
+      <SOURCE WAVE
+        FILE "sound-effects\320306__sophronsinesounddesign__beach-9.wav"
       >
     >
   >
