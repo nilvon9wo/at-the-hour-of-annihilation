@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586799822
+<REAPER_PROJECT 0.1 "6.08/x64" 1587069364
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,7 +14,7 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 59
+  CURSOR 0
   ZOOM 100 0 0
   VZOOMEX 6 0
   USE_REC_CFG 0
@@ -27,7 +27,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene3-5.mp3"
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene3-5b.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -83,8 +83,8 @@
   >
   <PROJBAY
   >
-  <TRACK {908FCD73-B34F-4A41-A126-713DE9B7455E}
-    NAME "❌ 3-5_HANSEL (Brian - Take 3)_TREATED BUT BAD AUDIO QUALITY"
+  <TRACK {095DCBB7-E7F7-4B44-99DF-2F1B31A7B575}
+    NAME "3-5_Hansel (Norm 14 12)"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -96,14 +96,14 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {908FCD73-B34F-4A41-A126-713DE9B7455E}
+    TRACKID {095DCBB7-E7F7-4B44-99DF-2F1B31A7B575}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -114,13 +114,10 @@
       ARM 1
       DEFSHAPE 0 -1 -1
       VOLTYPE 1
-      PT 0 2 0
-      PT 3.5 2 0
-      PT 4.01 1 0
-      PT 56.96 1 0
-      PT 57.5 2 0
-      PT 58.01 1 0
-      PT 59.5 2 0 0 1
+      PT 0 1 0
+      PT 2.75 2 0
+      PT 3.56 2 0
+      PT 3.87 1 0
     >
     <PANENV2
       ACT 1 -1
@@ -128,94 +125,72 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 1 1 0
+      PT 0 1 0
     >
     <ITEM
-      POSITION 1
+      POSITION 2
       SNAPOFFS 0
-      LENGTH 6
+      LENGTH 7
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {B83258B0-9D62-4D9D-833C-ADA55ABC64EF}
-      IID 1
-      NAME "❌ 3-5_HANSEL (Brian - Take 3)_TREATED BUT BAD AUDIO QUALITY.mp3"
+      IGUID {E6CA7EB4-E0C4-4867-A964-602BD01E6EE6}
+      IID 14
+      NAME "3-5_Hansel (Norm 14 12).mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {8B2EFD30-A992-440E-A300-4AD2D88B4468}
+      GUID {3A21D406-14CC-4437-9CC6-1867DCFEEC4B}
       <SOURCE MP3
-        FILE "voiceovers\❌ 3-5_HANSEL (Brian - Take 3)_TREATED BUT BAD AUDIO QUALITY.mp3" 1
+        FILE "voiceovers\3-5_Hansel (Norm 14 12).mp3" 1
       >
     >
     <ITEM
       POSITION 11
       SNAPOFFS 0
-      LENGTH 9.5
+      LENGTH 10
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {12EE5C9C-5819-44B2-86E0-719B34712F8A}
-      IID 4
-      NAME "❌ 3-5_HANSEL (Brian - Take 3)_TREATED BUT BAD AUDIO QUALITY.mp3"
+      IGUID {3B214D8A-6D02-4BCF-93D9-01C87BD21A3C}
+      IID 16
+      NAME "3-5_Hansel (Norm 14 12).mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 6
+      SOFFS 7
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {92D3C595-5626-4B4B-92BC-6410C5158FA2}
+      GUID {757A1130-DADC-4050-AE0E-7D189E74A2DE}
       <SOURCE MP3
-        FILE "voiceovers\❌ 3-5_HANSEL (Brian - Take 3)_TREATED BUT BAD AUDIO QUALITY.mp3" 1
+        FILE "voiceovers\3-5_Hansel (Norm 14 12).mp3" 1
       >
     >
     <ITEM
-      POSITION 28
+      POSITION 22
       SNAPOFFS 0
-      LENGTH 28
+      LENGTH 39.66063492063492
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {41B7B979-4C0F-4154-85D3-064B5313AE26}
-      IID 6
-      NAME "❌ 3-5_HANSEL (Brian - Take 3)_TREATED BUT BAD AUDIO QUALITY.mp3"
+      IGUID {A275B55A-FC7E-47E2-BE4C-D98FD2B7C73F}
+      IID 17
+      NAME "3-5_Hansel (Norm 14 12).mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 15.5
+      SOFFS 17
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {B20CAC1E-5E97-4154-BF66-3906AE452AE0}
+      GUID {BCDE12E1-C88F-4786-9CF6-EB529D5F858D}
       <SOURCE MP3
-        FILE "voiceovers\❌ 3-5_HANSEL (Brian - Take 3)_TREATED BUT BAD AUDIO QUALITY.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 56.5
-      SNAPOFFS 0
-      LENGTH 4.22675736961452
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {CACFD337-89EF-4299-8774-A8E49D01CB65}
-      IID 8
-      NAME "❌ 3-5_HANSEL (Brian - Take 3)_TREATED BUT BAD AUDIO QUALITY.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 43.5
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {7FCC673D-59FE-421F-ACF6-B755E2F188C6}
-      <SOURCE MP3
-        FILE "voiceovers\❌ 3-5_HANSEL (Brian - Take 3)_TREATED BUT BAD AUDIO QUALITY.mp3" 1
+        FILE "voiceovers\3-5_Hansel (Norm 14 12).mp3" 1
       >
     >
   >
@@ -286,7 +261,7 @@
       >
     >
     <ITEM
-      POSITION 20.5
+      POSITION 21
       SNAPOFFS 0
       LENGTH 7.5
       LOOP 1
@@ -343,7 +318,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -365,8 +340,8 @@
       PT 0.97 0.01659587 0
       PT 47.4995 0.01659587 0
       PT 47.5 0.07943282 0
-      PT 48.47 0.01659587 0
-      PT 59.98 0.01659587 0
+      PT 48.47 0.04570882 0
+      PT 59.98 0.04570882 0
       PT 62 0.12302688 0 0 1
     >
     <ITEM
