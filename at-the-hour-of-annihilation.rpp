@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586786554
+<REAPER_PROJECT 0.1 "6.08/x64" 1587068577
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -10,12 +10,12 @@
   PANLAW 1
   PROJOFFS 0 0 0
   MAXPROJLEN 0 600
-  GRID 3199 8 1 8 1 0 0 0
+  GRID 3455 8 1 8 1 0 0 0
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 129
-  ZOOM 3.60353318004926 0 0
+  CURSOR 0.14660106104808
+  ZOOM 6.82123303099459 0 0
   VZOOMEX 7 0
   USE_REC_CFG 0
   RECMODE 1
@@ -27,7 +27,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene2-5.mp3"
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene2-5b.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -83,12 +83,12 @@
   >
   <PROJBAY
   >
-  <TRACK {6CE2FA4C-7A1E-4208-ACB5-F643A4AB0B30}
-    NAME "Dieter 2-5 - take 3"
+  <TRACK {E163EE8F-6FB9-424F-AAAF-33CA25E4175E}
+    NAME "2-5_DIETER (Brian - Take 2)"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 3.98107170553497 0 -1 -1 1
+    VOLPAN 1 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -96,14 +96,14 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {6CE2FA4C-7A1E-4208-ACB5-F643A4AB0B30}
+    TRACKID {E163EE8F-6FB9-424F-AAAF-33CA25E4175E}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -114,7 +114,7 @@
       ARM 1
       DEFSHAPE 0 -1 -1
       VOLTYPE 1
-      PT 0 2 0
+      PT 19.5 1 0
     >
     <PANENV2
       ACT 1 -1
@@ -122,338 +122,292 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 0 1 0
-      PT 212.5 1 0
-      PT 212.5005 1 0
+      PT 19.5 1 0
     >
     <ITEM
-      POSITION 16.5
+      POSITION 19.5
       SNAPOFFS 0
-      LENGTH 8
+      LENGTH 6.79310517193698
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {6B456E87-7B21-4F2F-8734-11314ACE0403}
-      IID 2
-      NAME "Dieter 2-5 - take 3.wav"
+      IGUID {310904DA-1E20-4FD3-9B1C-B460B87E2245}
+      IID 80
+      NAME "2-5_DIETER (Brian - Take 2).mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {EFA31C51-A070-4A82-8BAD-DF8FBBAFB811}
-      <SOURCE WAVE
-        FILE "voiceovers\Dieter 2-5 - take 3.wav"
+      GUID {C3D7125E-8E6F-46AE-BF78-F9C72F73A9D5}
+      <SOURCE MP3
+        FILE "voiceovers\2-5_DIETER (Brian - Take 2).mp3" 1
       >
     >
     <ITEM
-      POSITION 27
+      POSITION 32.70066861719894
       SNAPOFFS 0
-      LENGTH 7.5
+      LENGTH 3.20378172263097
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {0EFA65A5-7310-47B3-B87B-A67F773755EA}
-      IID 4
-      NAME "Dieter 2-5 - take 3.wav"
+      IGUID {FEC3C2DC-2BCB-4940-9CC6-081ED04E5BA3}
+      IID 82
+      NAME "2-5_DIETER (Brian - Take 2).mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 8
+      SOFFS 6.79310517193698
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {E5C7AA3F-3D5E-4AA3-9AC2-0742E645A305}
-      <SOURCE WAVE
-        FILE "voiceovers\Dieter 2-5 - take 3.wav"
+      GUID {21F4437B-3CEA-487F-98AF-484A84D7476B}
+      <SOURCE MP3
+        FILE "voiceovers\2-5_DIETER (Brian - Take 2).mp3" 1
       >
     >
     <ITEM
-      POSITION 35
+      POSITION 39.58695806699195
       SNAPOFFS 0
-      LENGTH 35.5
+      LENGTH 32.37538043463294
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {C09BBCB1-D632-431A-BAA8-7DCAA6A94074}
-      IID 6
-      NAME "Dieter 2-5 - take 3.wav"
+      IGUID {6462C931-A020-4926-A2D5-A996BCFD0C1B}
+      IID 83
+      NAME "2-5_DIETER (Brian - Take 2).mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 15.5
+      SOFFS 9.99688689456795
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {45A4C6B4-9A67-4860-B64E-3CBA54A6B3EE}
-      <SOURCE WAVE
-        FILE "voiceovers\Dieter 2-5 - take 3.wav"
+      GUID {C0E84BAA-AD5B-4C9A-B353-5582EBA17903}
+      <SOURCE MP3
+        FILE "voiceovers\2-5_DIETER (Brian - Take 2).mp3" 1
       >
     >
     <ITEM
-      POSITION 70.5
+      POSITION 73.49671672127576
       SNAPOFFS 0
-      LENGTH 37
+      LENGTH 32.68225607856311
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {5CF4343B-02D5-4490-869D-5582E6DD9587}
-      IID 9
-      NAME "Dieter 2-5 - take 3.wav"
+      IGUID {C5F63BAD-FB92-4188-80B5-11759C53F618}
+      IID 84
+      NAME "2-5_DIETER (Brian - Take 2).mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 51
+      SOFFS 42.37226732920089
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {C4760568-17E5-4913-9BAA-9AECA19C5692}
-      <SOURCE WAVE
-        FILE "voiceovers\Dieter 2-5 - take 3.wav"
+      GUID {2FB83171-26FC-47A2-A823-79C889633A1D}
+      <SOURCE MP3
+        FILE "voiceovers\2-5_DIETER (Brian - Take 2).mp3" 1
       >
     >
     <ITEM
-      POSITION 110.5
+      POSITION 108.94085359521041
       SNAPOFFS 0
-      LENGTH 14.5
+      LENGTH 11.85842070840536
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {E7C2C7C8-88F1-4342-8EA8-FA286724518A}
-      IID 53
-      NAME "Dieter 2-5 - take 3.wav"
+      IGUID {FDFB9D29-7958-4438-A9C7-C262BCF70E82}
+      IID 85
+      NAME "2-5_DIETER (Brian - Take 2).mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 88
+      SOFFS 75.05452340776401
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {8C38E5C7-1B12-497F-9EBC-15D6BDBE0E5E}
-      <SOURCE WAVE
-        FILE "voiceovers\Dieter 2-5 - take 3.wav"
+      GUID {BDE9D4EA-9645-4780-B088-1322FE53CAAE}
+      <SOURCE MP3
+        FILE "voiceovers\2-5_DIETER (Brian - Take 2).mp3" 1
       >
     >
     <ITEM
-      POSITION 133
+      POSITION 129.74193902754851
       SNAPOFFS 0
-      LENGTH 13.5
+      LENGTH 12.16788806699043
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {27D1568D-708B-47F1-B765-51F23AB3685C}
-      IID 10
-      NAME "Dieter 2-5 - take 3.wav"
+      IGUID {0A451502-35B7-43B4-B460-004B7FBE8EE0}
+      IID 86
+      NAME "2-5_DIETER (Brian - Take 2).mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 102.5
+      SOFFS 86.91294411616937
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {E95AEA2C-4A73-49AA-83D5-4EC6F8FC3BF2}
-      <SOURCE WAVE
-        FILE "voiceovers\Dieter 2-5 - take 3.wav"
+      GUID {40D4C72C-2474-4EF2-B061-772F7AD83E57}
+      <SOURCE MP3
+        FILE "voiceovers\2-5_DIETER (Brian - Take 2).mp3" 1
       >
     >
     <ITEM
-      POSITION 149
+      POSITION 145.72145468178894
       SNAPOFFS 0
-      LENGTH 20
+      LENGTH 17.73872838681737
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {8C5C6382-2C61-456C-817D-5A01748F8AAF}
-      IID 12
-      NAME "Dieter 2-5 - take 3.wav"
+      IGUID {63CCC49B-7E33-459D-B576-653BDB52DCAA}
+      IID 87
+      NAME "2-5_DIETER (Brian - Take 2).mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 116
+      SOFFS 99.0808321831598
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {A20F11E0-9F87-41A8-8898-8280665D0373}
-      <SOURCE WAVE
-        FILE "voiceovers\Dieter 2-5 - take 3.wav"
+      GUID {86E1F870-5BE8-446B-8AF3-C03DD065A869}
+      <SOURCE MP3
+        FILE "voiceovers\2-5_DIETER (Brian - Take 2).mp3" 1
       >
     >
     <ITEM
-      POSITION 171
+      POSITION 165.65919898432747
       SNAPOFFS 0
-      LENGTH 9
+      LENGTH 7.7698562355481
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {172EADED-C5CF-479A-8165-98BFFCC35D85}
-      IID 58
-      NAME "Dieter 2-5 - take 3.wav"
+      IGUID {2031D5C2-3BF7-42DA-97D1-C52DC3407288}
+      IID 88
+      NAME "2-5_DIETER (Brian - Take 2).mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 136
+      SOFFS 116.81956056997717
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {00923686-156E-4288-B8AF-4EF7DBD24846}
-      <SOURCE WAVE
-        FILE "voiceovers\Dieter 2-5 - take 3.wav"
+      GUID {9DC63CC0-992D-4DF7-A655-86D38760B655}
+      <SOURCE MP3
+        FILE "voiceovers\2-5_DIETER (Brian - Take 2).mp3" 1
       >
     >
     <ITEM
-      POSITION 181
+      POSITION 174.89506583035634
       SNAPOFFS 0
-      LENGTH 9.5
+      LENGTH 8.94266472393272
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {CFABDD37-CC61-49A1-B8EA-3D53C74FCBBD}
-      IID 30
-      NAME "Dieter 2-5 - take 3.wav"
+      IGUID {424869FB-E62C-44DF-966C-3E7A849B49FC}
+      IID 89
+      NAME "2-5_DIETER (Brian - Take 2).mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 145
+      SOFFS 124.58941680552527
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {1BB73DAE-8965-470E-9C75-144214B8CDC2}
-      <SOURCE WAVE
-        FILE "voiceovers\Dieter 2-5 - take 3.wav"
+      GUID {6C979691-2A9D-43B9-9A04-448768376A6B}
+      <SOURCE MP3
+        FILE "voiceovers\2-5_DIETER (Brian - Take 2).mp3" 1
       >
     >
     <ITEM
-      POSITION 197.5
+      POSITION 193.66000164451026
       SNAPOFFS 0
-      LENGTH 7.5
+      LENGTH 5.13103713668269
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {0D45ACD5-BA6B-4E3B-A7B2-9B595A1A016C}
-      IID 13
-      NAME "Dieter 2-5 - take 3.wav"
+      IGUID {0BDDECF5-3325-4A8C-B889-21032A9A7C76}
+      IID 90
+      NAME "2-5_DIETER (Brian - Take 2).mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 154.5
+      SOFFS 133.532081529458
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {450DED77-6B1C-4133-9642-0304EF422D39}
-      <SOURCE WAVE
-        FILE "voiceovers\Dieter 2-5 - take 3.wav"
+      GUID {FB754B56-FF75-44C4-BB57-DD957670E129}
+      <SOURCE MP3
+        FILE "voiceovers\2-5_DIETER (Brian - Take 2).mp3" 1
       >
     >
     <ITEM
-      POSITION 205
+      POSITION 207.29390032198145
       SNAPOFFS 0
-      LENGTH 1
+      LENGTH 35.18425465153857
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {99D9104C-31EE-46E7-B315-2C207AB5BE17}
-      IID 31
-      NAME "Dieter 2-5 - take 3.wav"
+      IGUID {458C5D2B-9085-40BC-8DBF-49170EC6EEDE}
+      IID 91
+      NAME "2-5_DIETER (Brian - Take 2).mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 162
+      SOFFS 138.66311866614069
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {B61CB32C-A320-4E44-B321-AF880EE4CBE8}
-      <SOURCE WAVE
-        FILE "voiceovers\Dieter 2-5 - take 3.wav"
+      GUID {1B10CEB6-C3B4-4F38-8DCF-F88CAE9843E8}
+      <SOURCE MP3
+        FILE "voiceovers\2-5_DIETER (Brian - Take 2).mp3" 1
       >
     >
     <ITEM
-      POSITION 212
+      POSITION 249.51500590382773
       SNAPOFFS 0
-      LENGTH 33
+      LENGTH 5.27763819773079
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {6589F6E0-C2F9-48B6-A325-AF396EDC7616}
-      IID 32
-      NAME "Dieter 2-5 - take 3.wav"
+      IGUID {F7DB3FB5-7333-49AA-B3E3-93CAB0E45F76}
+      IID 92
+      NAME "2-5_DIETER (Brian - Take 2).mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 163
+      SOFFS 173.84737331767926
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {07653FB6-CDCE-40C0-87E0-CD2E6669F6AA}
-      <SOURCE WAVE
-        FILE "voiceovers\Dieter 2-5 - take 3.wav"
+      GUID {3CE4541D-2519-4263-A5B0-2DDD48CF747B}
+      <SOURCE MP3
+        FILE "voiceovers\2-5_DIETER (Brian - Take 2).mp3" 1
       >
     >
     <ITEM
-      POSITION 253
+      POSITION 257.28486213937583
       SNAPOFFS 0
-      LENGTH 9.5
+      LENGTH 21.88827646644955
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {BD148234-3080-4B89-92E5-BD557F6A4EAA}
-      IID 17
-      NAME "Dieter 2-5 - take 3.wav"
+      IGUID {1B72E03D-70FA-4C19-9F8F-75B66ED36864}
+      IID 93
+      NAME "2-5_DIETER (Brian - Take 2).mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 196
+      SOFFS 179.12501151541005
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {157BBB95-4330-4756-817D-DA1B7B0B87E7}
-      <SOURCE WAVE
-        FILE "voiceovers\Dieter 2-5 - take 3.wav"
-      >
-    >
-    <ITEM
-      POSITION 262.5
-      SNAPOFFS 0
-      LENGTH 0.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {D48CA330-0BB9-4D29-93C9-87A2DA8F47EE}
-      IID 19
-      NAME "Dieter 2-5 - take 3.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 205.5
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {F6177567-5A8B-470F-9687-197786B8CCF4}
-      <SOURCE WAVE
-        FILE "voiceovers\Dieter 2-5 - take 3.wav"
-      >
-    >
-    <ITEM
-      POSITION 264
-      SNAPOFFS 0
-      LENGTH 24.59929705215416
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {676552C1-942E-4315-AE56-32DE582726AC}
-      IID 33
-      NAME "Dieter 2-5 - take 3.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 206
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {D439ADF4-14AD-4386-948D-91AF6A2FAF18}
-      <SOURCE WAVE
-        FILE "voiceovers\Dieter 2-5 - take 3.wav"
+      GUID {6521C556-90CF-4F16-8378-56475B42C874}
+      <SOURCE MP3
+        FILE "voiceovers\2-5_DIETER (Brian - Take 2).mp3" 1
       >
     >
   >
@@ -470,7 +424,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -493,7 +447,9 @@
       PT 17.89019931 2 0
       PT 19.74672943 1.26191469 0 0 1
       PT 23.12223873 2 0
-      PT 26 1.15087987 0
+      PT 24.4995 1.54250893 0
+      PT 26.29310517 1.54236116 0
+      PT 27.79310517 1.15087987 0
     >
     <PANENV2
       ACT 1 -1
@@ -501,11 +457,11 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 107.5 -1 0
+      PT 24.4995 -1 0
       PT 138.74877083 -1 0
-      PT 213.4995 -1 0
-      PT 214.9995 -0.9117673 0
-      PT 215.0005 -1 0
+      PT 206.05753348 -1 0
+      PT 207.55753348 -0.9117673 0
+      PT 207.55853348 -1 0
     >
     <ITEM
       POSITION 16
@@ -530,7 +486,7 @@
       >
     >
     <ITEM
-      POSITION 24.5
+      POSITION 26.29310517193698
       SNAPOFFS 0
       LENGTH 6.5
       LOOP 1
@@ -552,7 +508,7 @@
       >
     >
     <ITEM
-      POSITION 33
+      POSITION 34.79310517193697
       SNAPOFFS 0
       LENGTH 4.5
       LOOP 1
@@ -574,7 +530,7 @@
       >
     >
     <ITEM
-      POSITION 69.5
+      POSITION 71.29310517193696
       SNAPOFFS 0
       LENGTH 2.5
       LOOP 1
@@ -596,7 +552,7 @@
       >
     >
     <ITEM
-      POSITION 107.5
+      POSITION 106.02553497787379
       SNAPOFFS 0
       LENGTH 3
       LOOP 1
@@ -618,7 +574,7 @@
       >
     >
     <ITEM
-      POSITION 126
+      POSITION 120.79927430361577
       SNAPOFFS 0
       LENGTH 9
       LOOP 1
@@ -626,7 +582,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {FD2E088C-F87A-4048-B809-FED2FB096890}
       IID 7
       NAME "2-5_HAROLD (Alex).mp3"
@@ -640,7 +596,7 @@
       >
     >
     <ITEM
-      POSITION 147
+      POSITION 142.05642815558701
       SNAPOFFS 0
       LENGTH 4
       LOOP 1
@@ -662,7 +618,7 @@
       >
     >
     <ITEM
-      POSITION 169
+      POSITION 163.60678412965439
       SNAPOFFS 0
       LENGTH 2
       LOOP 1
@@ -684,7 +640,7 @@
       >
     >
     <ITEM
-      POSITION 180
+      POSITION 172.98925203673133
       SNAPOFFS 0
       LENGTH 3
       LOOP 1
@@ -706,7 +662,7 @@
       >
     >
     <ITEM
-      POSITION 189.5
+      POSITION 182.9581241880006
       SNAPOFFS 0
       LENGTH 11
       LOOP 1
@@ -728,7 +684,7 @@
       >
     >
     <ITEM
-      POSITION 205.5
+      POSITION 198.05803347595258
       SNAPOFFS 0
       LENGTH 9.5
       LOOP 1
@@ -750,7 +706,7 @@
       >
     >
     <ITEM
-      POSITION 245
+      POSITION 242.18495285142387
       SNAPOFFS 0
       LENGTH 8
       LOOP 1
@@ -772,9 +728,9 @@
       >
     >
     <ITEM
-      POSITION 263
+      POSITION 254.79264410155852
       SNAPOFFS 0
-      LENGTH 3.40839002267575
+      LENGTH 3.40839002267589
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -795,7 +751,7 @@
     >
   >
   <TRACK {B50F1AEF-D2F0-474F-95E0-7DA1644E3DEA}
-    NAME ""
+    NAME "Beer Garden"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
