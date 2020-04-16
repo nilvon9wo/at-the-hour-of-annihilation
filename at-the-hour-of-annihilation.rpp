@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1586772940
+<REAPER_PROJECT 0.1 "6.08/x64" 1587048402
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -15,7 +15,7 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   CURSOR 0
-  ZOOM 31.27660147968026 0 0
+  ZOOM 22.73277093708089 0 0
   VZOOMEX 4 0
   USE_REC_CFG 0
   RECMODE 1
@@ -27,7 +27,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene1-7.mp3"
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation\scenes\scene1-7b.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -138,7 +138,7 @@
       >
     >
     <ITEM
-      POSITION 28
+      POSITION 30.5
       SNAPOFFS 0
       LENGTH 6
       LOOP 1
@@ -182,7 +182,7 @@
       >
     >
     <ITEM
-      POSITION 128.5
+      POSITION 130
       SNAPOFFS 0
       LENGTH 4
       LOOP 1
@@ -204,7 +204,7 @@
       >
     >
     <ITEM
-      POSITION 138.5
+      POSITION 140
       SNAPOFFS 0
       LENGTH 7.5
       LOOP 1
@@ -226,7 +226,7 @@
       >
     >
     <ITEM
-      POSITION 167.5
+      POSITION 170
       SNAPOFFS 0
       LENGTH 6.02879818594101
       LOOP 1
@@ -248,8 +248,8 @@
       >
     >
   >
-  <TRACK {5BF4972C-DCC3-4830-916F-07F2900921E1}
-    NAME "❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY"
+  <TRACK {3B4DB920-9B20-41A8-8432-C9B1C0112BE6}
+    NAME "1-7_BRUCE (Brian - Take 6)"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -268,7 +268,7 @@
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {5BF4972C-DCC3-4830-916F-07F2900921E1}
+    TRACKID {3B4DB920-9B20-41A8-8432-C9B1C0112BE6}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -280,9 +280,9 @@
       DEFSHAPE 0 -1 -1
       VOLTYPE 1
       PT 0 1 0
-      PT 195.96118856 1 0
-      PT 196.5 1.70227608 0
-      PT 196.88839927 1 0
+      PT 201.69120661 1 0
+      PT 202.5 2 0
+      PT 203.23083415 1 0
     >
     <PANENV2
       ACT 1 -1
@@ -293,51 +293,7 @@
       PT 0 -1 0
     >
     <ITEM
-      POSITION 23
-      SNAPOFFS 0
-      LENGTH 6.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {EF80B7B3-A859-4494-A01A-9BADB616C1F3}
-      IID 24
-      NAME "❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {DA01F111-F130-440F-8298-4027A19421DE}
-      <SOURCE MP3
-        FILE "voiceovers\❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 34
-      SNAPOFFS 0
-      LENGTH 4.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {74672562-A723-464C-83B1-F5213F1F92D4}
-      IID 31
-      NAME "❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 6.5
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {DAA29A97-2C49-4025-AA77-51FA88CD6D2C}
-      <SOURCE MP3
-        FILE "voiceovers\❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 53.5
+      POSITION 22.5
       SNAPOFFS 0
       LENGTH 9.5
       LOOP 1
@@ -346,42 +302,86 @@
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {611FA97C-4E2D-47DA-BB47-73E77E260E9B}
-      IID 34
-      NAME "❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3"
+      IGUID {33955F73-628E-41DD-BA23-8CA9D033476B}
+      IID 80
+      NAME "1-7_BRUCE (Brian - Take 6).mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 11
+      SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {64716068-B245-4A08-9A6B-E9B80FBA6194}
+      GUID {6C11BD07-7C70-4AC7-8E1D-5BBACD963AD7}
       <SOURCE MP3
-        FILE "voiceovers\❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3" 1
+        FILE "voiceovers\1-7_BRUCE (Brian - Take 6).mp3" 1
       >
     >
     <ITEM
-      POSITION 108
+      POSITION 36.5
       SNAPOFFS 0
-      LENGTH 4.5
+      LENGTH 5
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {EFF763F9-1C78-4660-BB65-5A5478F303CF}
-      IID 36
-      NAME "❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3"
+      IGUID {7608B692-A37D-482B-ACF6-B625974C0F3C}
+      IID 81
+      NAME "1-7_BRUCE (Brian - Take 6).mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 20.5
+      SOFFS 9.5
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {2F996125-11CD-474D-8233-64ED4717EFCE}
+      GUID {FEC9D0BC-C7BB-4901-BAE3-0A5EC648402D}
       <SOURCE MP3
-        FILE "voiceovers\❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3" 1
+        FILE "voiceovers\1-7_BRUCE (Brian - Take 6).mp3" 1
       >
     >
     <ITEM
-      POSITION 136
+      POSITION 57
+      SNAPOFFS 0
+      LENGTH 6.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DC8D4224-F994-4447-8B61-B942994DCEC8}
+      IID 82
+      NAME "1-7_BRUCE (Brian - Take 6).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 14.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4CD9DF4B-B686-45C7-89B6-C6E5EA277AE2}
+      <SOURCE MP3
+        FILE "voiceovers\1-7_BRUCE (Brian - Take 6).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 107.5
+      SNAPOFFS 0
+      LENGTH 7
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {55413A3E-8D8A-4230-A326-0F7CCD03C8A0}
+      IID 83
+      NAME "1-7_BRUCE (Brian - Take 6).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 21
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {17B2CC0A-2488-4F0D-A104-44F3A537C74D}
+      <SOURCE MP3
+        FILE "voiceovers\1-7_BRUCE (Brian - Take 6).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 137.5
       SNAPOFFS 0
       LENGTH 4
       LOOP 1
@@ -390,20 +390,64 @@
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {D173ACAA-6347-4037-B192-26A7A4F640C9}
-      IID 46
-      NAME "❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3"
+      IGUID {D6A701A2-2EA6-42DE-A6D8-3820E58069B2}
+      IID 84
+      NAME "1-7_BRUCE (Brian - Take 6).mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 25
+      SOFFS 28
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {23D7F244-A3B0-41B2-8259-A0F9DC34B327}
+      GUID {7CA99CA8-5ABB-4499-A822-8CD48B27D280}
       <SOURCE MP3
-        FILE "voiceovers\❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3" 1
+        FILE "voiceovers\1-7_BRUCE (Brian - Take 6).mp3" 1
       >
     >
     <ITEM
-      POSITION 158.5
+      POSITION 160
+      SNAPOFFS 0
+      LENGTH 12
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {286FD5C3-587F-437E-A27D-847B1F3E0D16}
+      IID 85
+      NAME "1-7_BRUCE (Brian - Take 6).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 32
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {41D5CE2E-6E65-419E-85DD-5A92422ED278}
+      <SOURCE MP3
+        FILE "voiceovers\1-7_BRUCE (Brian - Take 6).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 175.5
+      SNAPOFFS 0
+      LENGTH 6.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {565AECA7-F455-4697-B269-F6C900E9E421}
+      IID 86
+      NAME "1-7_BRUCE (Brian - Take 6).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 44
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E32465EA-10F5-4DAD-864D-A27CDD56A77C}
+      <SOURCE MP3
+        FILE "voiceovers\1-7_BRUCE (Brian - Take 6).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 193.5
       SNAPOFFS 0
       LENGTH 11
       LOOP 1
@@ -412,82 +456,38 @@
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {92C7FBD5-8C0C-45B1-A0D1-A8BC659D6E98}
-      IID 50
-      NAME "❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3"
+      IGUID {F4CCA410-6981-4F3C-9093-720E1BA99818}
+      IID 87
+      NAME "1-7_BRUCE (Brian - Take 6).mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 29
+      SOFFS 50.5
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {BE03ABD9-E7B8-40A3-9009-A2A9E346FEEC}
+      GUID {4C7C0EE7-9C8A-4E1C-BC52-0CB0B1A78CAB}
       <SOURCE MP3
-        FILE "voiceovers\❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3" 1
+        FILE "voiceovers\1-7_BRUCE (Brian - Take 6).mp3" 1
       >
     >
     <ITEM
-      POSITION 173
+      POSITION 206.5
       SNAPOFFS 0
-      LENGTH 4.5
+      LENGTH 2.29206349206351
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {9EB22D6A-FE2A-4405-A263-F71E5917B2CE}
-      IID 53
-      NAME "❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3"
+      IGUID {C4019BE2-3F1B-41CB-9DD0-E9342AD78699}
+      IID 88
+      NAME "1-7_BRUCE (Brian - Take 6).mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 40
+      SOFFS 61.5
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {574B2BA7-629F-4B69-A294-93FE14EC0926}
+      GUID {CEF95B73-8C7B-4762-BE64-36DABD53F567}
       <SOURCE MP3
-        FILE "voiceovers\❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 188.5
-      SNAPOFFS 0
-      LENGTH 10
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {3BB59FAB-585E-49FA-AF62-E3AD864FFB46}
-      IID 54
-      NAME "❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 44.5
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {FEB7D603-CEC1-48EB-8013-5146623AB5B5}
-      <SOURCE MP3
-        FILE "voiceovers\❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 200.5
-      SNAPOFFS 0
-      LENGTH 1.69043083900226
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {7D0CF885-7CA9-4453-AD66-39A0BC7FCC23}
-      IID 57
-      NAME "❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 54.5
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {0DB3BD32-1463-41C5-A4B9-1D4B7585AD0B}
-      <SOURCE MP3
-        FILE "voiceovers\❌ 1-7_BRUCE (Brian - Take 2+3 merged)_TREATED BUT BAD AUDIO QUALITY.mp3" 1
+        FILE "voiceovers\1-7_BRUCE (Brian - Take 6).mp3" 1
       >
     >
   >
@@ -516,7 +516,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 38.5
+      POSITION 41.5
       SNAPOFFS 0
       LENGTH 16
       LOOP 1
@@ -538,7 +538,7 @@
       >
     >
     <ITEM
-      POSITION 62.5
+      POSITION 63
       SNAPOFFS 0
       LENGTH 21
       LOOP 1
@@ -582,7 +582,7 @@
       >
     >
     <ITEM
-      POSITION 112
+      POSITION 113.5
       SNAPOFFS 0
       LENGTH 18
       LOOP 1
@@ -604,7 +604,7 @@
       >
     >
     <ITEM
-      POSITION 131.5
+      POSITION 133
       SNAPOFFS 0
       LENGTH 5
       LOOP 1
@@ -626,7 +626,7 @@
       >
     >
     <ITEM
-      POSITION 145
+      POSITION 146.5
       SNAPOFFS 0
       LENGTH 14
       LOOP 1
@@ -648,7 +648,7 @@
       >
     >
     <ITEM
-      POSITION 177
+      POSITION 181.5
       SNAPOFFS 0
       LENGTH 12.5
       LOOP 1
@@ -670,7 +670,7 @@
       >
     >
     <ITEM
-      POSITION 197.5
+      POSITION 203.5
       SNAPOFFS 0
       LENGTH 3.59532879818596
       LOOP 1
@@ -898,7 +898,7 @@
     <ITEM
       POSITION 187.0425625
       SNAPOFFS 0
-      LENGTH 31.17376041666665
+      LENGTH 31.17376041666668
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -931,7 +931,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -943,7 +943,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 202.5
+      POSITION 208.79206349206351
       SNAPOFFS 0
       LENGTH 2.39165532879818
       LOOP 1
