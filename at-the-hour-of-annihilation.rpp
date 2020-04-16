@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.08/x64" 1587061985
+<REAPER_PROJECT 0.1 "6.08/x64" 1587072686
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,7 +14,7 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0.46005119909367
+  CURSOR 1.38015359728101
   ZOOM 2.17367110871586 0 0
   VZOOMEX 8 0
   USE_REC_CFG 0
@@ -27,7 +27,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation-alpha-5.mp3"
+  RENDER_FILE "F:\At the Hour of Annihilation\radio-play\at-the-hour-of-annihilation-alpha-6.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
